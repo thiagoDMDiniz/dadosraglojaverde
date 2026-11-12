@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-750065 (BLACK)
+Classificação: USO INTERNO
+Protocolo: LV-2026-750065
+Canal: balcão da loja
+Data: 27/07/2026
+Cliente: Marcos (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[15:20] Cliente: Oi, Bruna! Quero me organizar para a Black Friday. Quando começa e quando termina?
+[15:22] Atendente: Oi, Marcos. A campanha da Black Friday 2026 vale de 27 a 30 de novembro de 2026.
+[15:24] Cliente: Ah, então é só nesses quatro dias. E tem cupom?
+[15:26] Atendente: Tem o BLACK26, com 12% de desconto adicional em itens selecionados de Eletrônicos, para compras acima de R$ 500.
+[15:28] Cliente: Quais itens são selecionados?
+[15:30] Atendente: A lista fica disponível no site e no aplicativo durante a campanha. Só entram itens da categoria Eletrônicos que estiverem marcados como selecionados.
+[15:32] Cliente: E se o total der exatamente R$ 500?
+[15:34] Atendente: O cupom exige compra acima de R$ 500, então o valor precisa ultrapassar esse número. Com um item a mais, a regra é atendida.
+[15:36] Cliente: Entendi. E se eu tiver um desconto do Clube Verde, soma?
+[15:38] Atendente: Depende do benefício. Quando for o caso, a regra de cada campanha aparece no pedido antes da confirmação.
+[15:40] Cliente: Beleza. Vou anotar as datas e pesquisar os itens antes.
+[15:42] Atendente: Boa ideia, Marcos. Assim você já sabe o que comprar e evita correria no último dia.
+[15:44] Cliente: E o frete entra na conta dos R$ 500?
+[15:46] Atendente: O cupom considera o total dos itens da compra. Confira o valor antes de finalizar, porque o carrinho mostra a regra aplicada.
+[15:48] Cliente: Obrigado, Bruna. Até novembro.
+[15:50] Atendente: Até lá. Se precisar, o SAC atende pelo 0800 700 0100.
+---
+Resolução: Cliente informado sobre o período da campanha e as regras do cupom BLACK26, com desconto de 12% em itens selecionados de Eletrônicos, em compras acima de R$ 500.

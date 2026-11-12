@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-237819 (FRETE)
+USO INTERNO
+Protocolo: LV-2026-237819
+Canal: balcão da loja
+Data: 15/03/2026
+Cliente: Tatiane (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[16:10] Cliente: Boa tarde. Meu marido vai retirar o pedido que eu comprei no site. Ele consegue pegar sozinho?
+[16:12] Atendente: Boa tarde, Tatiane. Aqui é o Gustavo. A retirada pode ser feita por outra pessoa, desde que ela leve os documentos necessários.
+[16:13] Cliente: E quais documentos ele precisa levar?
+[16:14] Atendente: Documento com foto e o número do pedido. Essas duas informações são conferidas no balcão.
+[16:16] Cliente: Ele tem o meu e-mail, é suficiente?
+[16:17] Atendente: O e-mail não substitui o número do pedido. Você pode enviar o número para ele pelo aplicativo, na tela do pedido.
+[16:19] Cliente: Hm. E o pedido já está liberado?
+[16:20] Atendente: A retirada na loja fica disponível a partir de 4 horas depois da confirmação do pagamento. Verifique o status no aplicativo.
+[16:22] Cliente: Eu paguei no Pix hoje cedo. Já deve estar.
+[16:23] Atendente: Pelo que vejo, o pagamento foi confirmado às 9h, então já está liberado para retirada.
+[16:25] Cliente: Ótimo. Ele vai passar aí daqui a pouco.
+[16:26] Atendente: Certo. O pedido fica disponível por 7 dias corridos, então ele tem tempo.
+[16:28] Cliente: Obrigada, Gustavo. Vou mandar o número para ele agora.
+[16:28] Atendente: Até logo, Tatiane!
+---
+Resolução: Retirada de pedido por terceiro na unidade Barreiro. A cliente foi informada de que a retirada é liberada a partir de 4 horas depois da confirmação do pagamento, mediante documento com foto e número do pedido, e de que o pedido fica disponível por 7 dias corridos.

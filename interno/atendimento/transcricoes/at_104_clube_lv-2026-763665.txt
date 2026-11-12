@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-763665 (CLUBE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-763665
+Canal: WhatsApp oficial
+Data: 23/04/2026
+Cliente: Tatiane (CPF ***.***.***-**)
+Atendente: Otto
+---
+[19:44] Cliente: Boa noite. Estou confusa com os níveis do Clube Verde. Vocês têm Verde, Folha e Floresta, certo?
+[19:45] Atendente: Boa noite, Tatiane. Isso mesmo. Os níveis são definidos pelos pontos acumulados nos últimos 12 meses.
+[19:47] Cliente: Então o nível Verde é o básico?
+[19:48] Atendente: Sim. O nível Verde vai de 0 a 4.999 pontos e dá os benefícios básicos do Clube Verde.
+[19:50] Cliente: E o Folha? Quanto é preciso?
+[19:51] Atendente: O Folha começa em 5.000 pontos e vai até 14.999. Nele, o frete é grátis em compras acima de R$ 149 no Sudeste, e o atendimento é prioritário.
+[19:53] Cliente: E isso conta o ano passado?
+[19:54] Atendente: Não. Só contam os pontos dos últimos 12 meses. Por isso, o nível pode mudar de um ano para o outro.
+[19:56] Cliente: Ok. E o Floresta?
+[19:57] Atendente: O Floresta começa em 15.000 pontos acumulados nos últimos 12 meses. Ele tem frete grátis em qualquer valor no Sudeste, 5% de pontos extras e acesso antecipado às ofertas.
+[19:59] Cliente: Uau. E as campanhas que dobram pontos?
+[20:00] Atendente: Campanhas pontuais podem dobrar os pontos, 6 por R$ 1, mas só no período divulgado. Fora dele, vale a regra normal de 3 pontos.
+[20:02] Cliente: Entendi tudo agora. Obrigada.
+[20:03] Atendente: De nada, Tatiane. Se quiser, acompanhe seu nível no aplicativo.
+---
+Resolução: Cliente esclarecida sobre os níveis Verde, Folha e Floresta, definidos pelos pontos acumulados nos últimos 12 meses, com os benefícios de cada um e a regra das campanhas pontuais.

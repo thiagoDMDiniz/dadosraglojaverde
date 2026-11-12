@@ -1,0 +1,28 @@
+ATENDIMENTO LV-2026-425304 (PRODUTO)
+
+Protocolo: LV-2026-425304
+Canal: chat do site
+Data: 06/01/2026
+Cliente: Aline (CPF ***.***.***-**)
+Atendente: Rafael
+
+---
+[13:02] Cliente: Oi, vocês têm o smartphone da linha azul disponível na unidade Pampulha?
+[13:03] Atendente: Oi, Aline. Aqui é o Rafael. Vou consultar o estoque da Pampulha agora.
+[13:04] Cliente: Preciso pra hoje, estou com pressa.
+[13:05] Atendente: Entendi. Tenho uma unidade reservada para você na Pampulha, mas a reserva dura 7 dias corridos.
+[13:06] Cliente: Como faço a reserva?
+[13:07] Atendente: Pelo aplicativo, em Reservar na loja, escolha a unidade Pampulha e confirme o item. Você recebe o aviso por e-mail.
+[13:09] Cliente: e para retirar, preciso levar algo?
+[13:10] Atendente: Leve documento com foto e o número do pedido ou a nota. A retirada é possível a partir de 4 horas depois da confirmação do pagamento.
+[13:12] Cliente: E se eu pagar no Pix?
+[13:13] Atendente: O Pix tem desconto de 5% e expira em 30 minutos. Depois disso, o pedido é cancelado automaticamente.
+[13:15] Cliente: Ok. E se eu quiser parcelar?
+[13:16] Atendente: No cartão de crédito dá para parcelar em até 10 vezes sem juros, com parcela mínima de R$ 50, mas o desconto do Pix não se combina com parcelamento.
+[13:18] Cliente: em quantas vezes ficaria no cartão?
+[13:19] Atendente: Depende do valor final. Mostro no carrinho as opções liberadas para o seu pedido.
+[13:21] Cliente: Obrigada. Vou reservar e passar aí.
+[13:22] Atendente: Combinado, Aline. Sua reserva fica disponível por 7 dias corridos a partir da confirmação.
+
+---
+Resolução: a cliente reservou o smartphone na unidade Pampulha pelo aplicativo e recebeu as orientações de retirada, de prazo da reserva e de formas de pagamento.

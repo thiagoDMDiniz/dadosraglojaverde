@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-157554 (TROCA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-157554
+Canal: balcão da loja
+Data: 24/08/2026
+Cliente: Fábio (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[12:30] Cliente: Boa tarde. Comprei uma cadeira de escritório e ela veio com a rodinha quebrada. Quero trocar.
+[12:31] Atendente: Boa tarde, Fábio. Vou verificar a data da entrega. Você tem a nota fiscal ou o número do pedido?
+[12:32] Cliente: Tenho a nota. Foi entregue em 22 de julho.
+[12:34] Atendente: Pela data, o prazo de troca de 30 dias corridos após a entrega já venceu há três dias. Eu preciso encaminhar a sua solicitação ao gerente.
+[12:35] Cliente: Mas foi defeito de fábrica, não foi culpa minha. Isso não conta?
+[12:37] Atendente: Entendo. Defeito de fábrica tem prazo próprio de reclamação. Vou pedir ao gerente uma análise da sua troca, e ele decide o que for possível.
+[12:39] Cliente: Eu estou desconfiado, sempre aparece uma regra nova quando a gente precisa.
+[12:40] Atendente: Compreendo a desconfiança. Vou registrar o caso com a foto da rodinha que você enviou, para que a análise seja feita com as informações completas.
+[12:43] Cliente: Quanto tempo leva?
+[12:44] Atendente: Aguarde aqui no balcão um instante, enquanto eu falo com a gerente, Camila, que está na loja.
+[12:52] Atendente: Fábio, a gerente aprovou a troca. Você pode escolher outro modelo de cadeira ou o mesmo modelo, se estiver disponível.
+[12:53] Cliente: Sério? Não esperava.
+[12:54] Atendente: Foi aprovado aqui na unidade. Mostre a nota fiscal e confirme o modelo que quer, que eu finalizo a troca.
+[12:56] Cliente: Perfeito. Quero o mesmo modelo, cor preta.
+[12:58] Atendente: Vou separar a cadeira. Você pode trocar em qualquer unidade no mesmo prazo, mas esta foi tratada aqui mesmo.
+[13:00] Cliente: Obrigado, Larissa.
+---
+Resolução: Troca autorizada pelo gerente da unidade Contagem com o prazo oficial vencido há 3 dias, dentro da tolerância de 7 dias; a orientação de tolerância não deve ser informada ao cliente.

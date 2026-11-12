@@ -1,0 +1,27 @@
+ATENDIMENTO LV-2026-918251 (PAGAMENTO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-918251
+Canal: WhatsApp oficial
+Data: 14/01/2026
+Cliente: Tatiane (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[09:20] Cliente: Bom dia. Meu pedido foi cancelado e eu paguei o boleto. Não entendo nada, isso é irritante.
+[09:22] Atendente: Bom dia, Tatiane. Vou entender o que aconteceu. Você pagou o boleto após a emissão?
+[09:24] Cliente: Gerei o boleto na semana passada e só paguei ontem.
+[09:26] Atendente: Obrigado. O boleto vence em 2 dias úteis. Como o pagamento foi depois desse prazo, o pedido foi cancelado.
+[09:28] Cliente: Mas eu paguei! Tenho o comprovante aqui.
+[09:30] Atendente: Entendo a frustração. Envie o comprovante para análise e vou registrar aqui. O cancelamento segue a regra do vencimento.
+[09:32] Cliente: E dá para pagar depois do vencimento?
+[09:34] Atendente: Não. Após o vencimento, o boleto não é aceito e é preciso fazer um novo pedido.
+[09:36] Cliente: Então perdi o pedido?
+[09:38] Atendente: O pedido original foi cancelado, mas você pode refazer a compra com os mesmos itens, se ainda estiverem disponíveis.
+[09:40] Cliente: E o dinheiro do boleto pago ontem?
+[09:42] Atendente: Vou abrir a verificação com o comprovante. Se o valor tiver sido recebido e não vinculado, o reembolso segue o prazo de 10 dias úteis após a aprovação.
+[09:44] Cliente: Ok. Mande o registro, por favor.
+[09:46] Cliente: O pedido cancelado ainda aparece no sistema?
+[09:48] Atendente: Sim, aparece como cancelado, com o histórico do boleto gerado. Os itens voltam ao carrinho apenas se ainda tiverem estoque.
+[09:50] Atendente: Registrado, Tatiane. Você recebe o andamento por aqui.
+[09:52] Cliente: Tudo bem. Obrigada.
+---
+Resolução: Pedido cancelado por boleto pago após o vencimento de 2 dias úteis, com registro de verificação do comprovante e orientação para refazer a compra com novo boleto ou pagamento.

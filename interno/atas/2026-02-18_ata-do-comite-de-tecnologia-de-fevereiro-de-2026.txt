@@ -1,0 +1,38 @@
+ATA DO COMITÊ DE TECNOLOGIA DE FEVEREIRO DE 2026
+USO INTERNO. Reunião realizada em 18/02/2026, por videoconferência, das 14h às 15h30.
+
+PARTICIPANTES
+- Bruno, diretor de tecnologia (coordenador do comitê)
+- Lucas, gerente de sistemas de loja
+- Vanessa, coordenadora de suporte ao aplicativo
+- Gustavo, analista de infraestrutura
+- Priscila, representante da área de atendimento
+- Isabela, secretária do comitê (redigiu a ata)
+
+PAUTA
+1. Estabilidade do aplicativo no fechamento de janeiro
+2. Códigos ERR mais frequentes no atendimento
+3. Roadmap do segundo trimestre
+
+DISCUSSÃO
+
+Estabilidade do aplicativo. Vanessa informou que o número de quedas durante o checkout caiu após a atualização de janeiro, mas que a fila de pedidos aguardando confirmação ainda cresce em horários de pico. Gustavo explicou que a causa está no tempo de resposta do serviço de pagamento e sugeriu ampliar a capacidade da fila antes da campanha de março. Bruno concordou com a medida e pediu relatório semanal com os horários críticos.
+
+Códigos ERR mais frequentes. Priscila apresentou a contagem dos códigos registrados pelo atendimento no mês. O ERR-4217 foi o mais citado, quase sempre associado a Pix que não foi confirmado em 30 minutos, com cancelamento automático e nenhuma cobrança. O ERR-5308, de cartão recusado pela operadora, ficou em segundo lugar. O comitê recomendou que as mensagens de tela informem ao cliente que o valor não foi cobrado e que ele pode tentar outro cartão ou procurar o banco emissor.
+
+Roadmap. Lucas apresentou as entregas previstas para abril, entre elas a leitura automática da etiqueta de postagem e a tela de acompanhamento de trocas. Foi discutido se o cadastro de reciclagem entra antes ou depois da tela de trocas. A decisão foi adiar o cadastro e priorizar a tela de trocas, que já tem demanda do atendimento.
+
+DECISÕES
+
+1. Ampliar a capacidade da fila de confirmação de pagamentos antes da campanha de março.
+2. Revisar as mensagens de tela para os códigos ERR-4217 e ERR-5308, com a orientação ao cliente sobre a não cobrança.
+3. Priorizar a tela de acompanhamento de trocas no roadmap do segundo trimestre.
+4. Adiar o cadastro de reciclagem para o segundo semestre.
+
+ENCAMINHAMENTOS
+
+- Gustavo: enviar relatório semanal dos horários de pico da fila de pagamentos. Prazo: 04/03/2026.
+- Lucas: concluir os testes da leitura automática da etiqueta de postagem. Prazo: 30/03/2026.
+- Vanessa: publicar o texto revisado das mensagens de erro para homologação. Prazo: 25/02/2026.
+- Priscila: validar com o atendimento o roteiro de orientação para o ERR-7142, que trata de endereço sem atendimento da transportadora. Prazo: 06/03/2026.
+- Isabela: distribuir a ata e o cronograma do roadmap aos membros. Prazo: 20/02/2026.

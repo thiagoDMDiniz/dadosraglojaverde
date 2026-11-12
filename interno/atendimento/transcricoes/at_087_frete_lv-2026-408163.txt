@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-408163 (FRETE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-408163
+Canal: WhatsApp oficial
+Data: 15/09/2026
+Cliente: Eduardo (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[10:02] Cliente: Bom dia. Meu pedido deveria ter chegado há uns dias e ainda nada. Pode verificar?
+[10:03] Atendente: Bom dia, Eduardo. Vou consultar. Você tem o número do pedido?
+[10:04] Cliente: Tenho, vou mandar aqui.
+[10:06] Atendente: Localizei. O pedido passou do prazo previsto. A entrega padrão é de até 8 dias úteis no interior e 3 na capital, e o seu pedido já passou de 5 dias úteis de atraso.
+[10:08] Cliente: Ou seja, eles me devem alguma coisa?
+[10:09] Atendente: Sim. Quando a entrega atrasa mais de 5 dias úteis, a loja gera automaticamente um cupom de compensação, o cupom de R$ 25.
+[10:11] Cliente: Como eu uso esse cupom?
+[10:12] Atendente: O código é ATRASO25. Ele aparece na sua conta do aplicativo e pode ser aplicado na próxima compra, sem precisar pedir.
+[10:13] Cliente: E esse cupom é automático mesmo?
+[10:14] Atendente: Sim, ele é gerado sem pedido seu, pelo próprio atraso. Você só precisa verificar a conta.
+[10:16] Cliente: Ok. E o pedido, vai chegar quando?
+[10:17] Atendente: Vou registrar a reclamação de atraso no sistema. Verifique o rastreamento, que é enviado por e-mail e SMS quando o pedido sai do centro de distribuição.
+[10:19] Cliente: Certo. Não quero o cupom para depois de outro atraso, né?
+[10:20] Atendente: Não entendi exatamente. O cupom é gerado a cada atraso que passa de 5 dias úteis, então você não perde nada por esperar.
+[10:22] Cliente: Obrigado, Vinícius.
+[10:23] Atendente: Por nada, Eduardo. Qualquer novidade, responda por aqui.
+---
+Resolução: Atraso superior a 5 dias úteis confirmado, com o cupom automático ATRASO25 de R$ 25 informado ao cliente e o rastreamento indicado para acompanhar o pedido.

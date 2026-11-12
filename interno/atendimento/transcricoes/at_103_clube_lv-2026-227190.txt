@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-227190 (CLUBE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-227190
+Canal: balcão da loja
+Data: 25/03/2026
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Otto
+---
+[10:15] Cliente: Bom dia. Recebi uma mensagem falando de um cupom de aniversário do Clube Verde. É verdade?
+[10:17] Atendente: Bom dia, Cláudia. É verdade, sim. Para clientes do Clube, existe o cupom de 15% de desconto no mês do aniversário.
+[10:19] Cliente: Quanto eu ganho no total? É um percentual só?
+[10:21] Atendente: É um cupom de 15% de desconto, válido em uma única compra, no mês do seu aniversário.
+[10:23] Cliente: E posso usar em duas compras, dividindo o valor?
+[10:25] Atendente: Não. O cupom é de uma única compra. Se preferir, concentre suas compras do mês em um pedido só.
+[10:27] Cliente: Entendi. Meu aniversário é em abril, então ainda não recebi.
+[10:29] Atendente: Quando chegar o mês, o cupom aparece no aplicativo na sua conta do Clube Verde. O código é VERDE15.
+[10:31] Cliente: Ótimo. E ele vale para todo tipo de produto?
+[10:33] Atendente: Vale para compras no mês do aniversário. Eu confirmo a regra exata na hora de aplicar, porque pode haver exceções por categoria.
+[10:35] Cliente: Tudo bem. Vou esperar o mês chegar.
+[10:37] Cliente: E se o meu aniversário fosse em fevereiro, o cupom sairia em fevereiro?
+[10:39] Atendente: Sim, o cupom segue o mês do seu aniversário, em qualquer ano. Ele fica disponível no aplicativo quando o mês começar.
+[10:41] Atendente: Combinado, Cláudia. Se o cupom não aparecer, procure o balcão com o seu CPF.
+[10:43] Cliente: Obrigada, Otto. Até lá.
+---
+Resolução: Cliente informada do cupom de aniversário VERDE15, com 15% de desconto de uso único no mês do aniversário, e orientada a verificar o cupom no aplicativo.

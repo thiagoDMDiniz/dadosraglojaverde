@@ -1,0 +1,28 @@
+ATENDIMENTO LV-2026-373525 (CLUBE)
+USO INTERNO
+Protocolo: LV-2026-373525
+Canal: WhatsApp oficial
+Data: 11/07/2026
+Cliente: Marcos (CPF ***.***.***-**)
+Atendente: Otto
+---
+[11:40] Cliente: Oi! Meu aniversário é esta semana e recebi uma mensagem falando de um cupom. É verdade?
+[11:42] Atendente: Oi, Marcos! Aqui é o Otto. Sim, o Clube Verde tem um cupom de aniversário para os clientes cadastrados.
+[11:43] Cliente: Qual é o desconto?
+[11:44] Atendente: É um cupom de 15% de desconto, válido em uma única compra durante o mês do aniversário.
+[11:46] Cliente: Então dá para usar agora, já que é esta semana?
+[11:47] Atendente: Sim, desde que a compra seja feita dentro do mês do seu aniversário. O cupom vale só uma vez.
+[11:49] Cliente: E se eu comprar duas coisas em dias diferentes?
+[11:50] Atendente: Nesse caso, o cupom já foi usado na primeira compra. O segundo pedido não recebe o desconto de aniversário.
+[11:52] Cliente: Hm. Então vou comprar tudo de uma vez.
+[11:53] Atendente: Boa ideia. Você pode usar também os pontos acumulados no mesmo pedido, se houver saldo suficiente.
+[11:55] Cliente: Certo. Obrigado, Otto.
+[11:56] Atendente: Bom aniversário adiantado, Marcos!
+[11:58] Cliente: Mais uma coisa: o cupom tem algum valor mínimo?
+[12:00] Atendente: As condições completas ficam na área do Clube, no aplicativo. O que vale aqui é que ele é para uma única compra durante o mês do aniversário.
+[12:02] Cliente: Ok. E se eu não comprar nada nesse mês?
+[12:03] Atendente: Nesse caso o cupom deixa de valer e não é reativado. Por isso vale planejar a compra com antecedência.
+[12:04] Cliente: Entendi. Obrigado, Otto.
+[12:05] Atendente: Bom aniversário, Marcos!
+---
+Resolução: O cliente foi informado sobre o cupom de aniversário do Clube Verde, com cupom de 15% de desconto em uma única compra no mês do aniversário. O cliente pretende concentrar as compras em um único pedido.

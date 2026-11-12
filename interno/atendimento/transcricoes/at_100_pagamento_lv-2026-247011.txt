@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-247011 (PAGAMENTO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-247011
+Canal: telefone (SAC)
+Data: 18/10/2026
+Cliente: Patrícia (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[15:10] Cliente: Boa tarde. Posso juntar o desconto do Pix com o parcelamento no cartão?
+[15:12] Atendente: Boa tarde, Patrícia. Não. O desconto do Pix não se combina com parcelamento.
+[15:14] Cliente: Mas eu vi um desconto de 5% e um parcelamento no mesmo produto.
+[15:16] Atendente: O desconto de 5% é do Pix, e o parcelamento em até 10 vezes sem juros é do cartão. São formas diferentes, então você escolhe uma delas.
+[15:18] Cliente: Que confusão. Não podia ser mais simples?
+[15:20] Atendente: Entendo. Mesmo assim, a regra é essa e vale para todos os pedidos.
+[15:22] Cliente: E se eu pagar no Pix e depois parcelar a diferença?
+[15:24] Atendente: Não existe essa opção. Cada pedido tem uma forma de pagamento.
+[15:26] Cliente: Certo. Então qual compensa mais?
+[15:28] Atendente: Depende do valor. No Pix, você paga à vista com 5% de desconto, e o código expira em 30 minutos. No cartão, o parcelamento é sem juros, mas sem desconto.
+[15:30] Cliente: Hum. Se eu fizer as contas, o Pix sai melhor no meu caso.
+[15:32] Atendente: Faça a conta com o valor final do seu pedido. Se preferir parcelar, a parcela mínima é de R$ 50.
+[15:34] Cliente: E o desconto do Pix vale para qualquer valor?
+[15:36] Atendente: Vale para o pagamento feito no Pix. Confira o total final na tela de pagamento antes de confirmar.
+[15:38] Cliente: Obrigada. Vou pagar no Pix então.
+[15:40] Atendente: Combinado, Patrícia. Tenha uma boa tarde.
+---
+Resolução: Cliente orientada de que o desconto de 5% do Pix não se combina com o parcelamento no cartão, e de que deve escolher uma forma de pagamento para o pedido.

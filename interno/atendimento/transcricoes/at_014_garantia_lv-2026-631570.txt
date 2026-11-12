@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-631570 (GARANTIA)
+Protocolo: LV-2026-631570
+Canal: Balcão da loja
+Data: 2026-07-09
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[17:40] Cliente: Boa tarde. Meu celular parou de ligar sozinho. Comprei há oito meses. Estou com pressa.
+[17:41] Atendente: Boa tarde, Cláudia. Vou ver rapidinho. O aparelho foi comprado aqui na Lourdes?
+[17:42] Cliente: Foi, com nota fiscal.
+[17:43] Atendente: Ótimo. A garantia de 12 meses contra defeitos de fabricação vale para eletrônicos a partir da entrega. O seu está dentro do prazo.
+[17:44] Cliente: E se o problema foi eu ter deixado cair?
+[17:45] Atendente: Queda não é coberta pela garantia. Se o técnico identificar queda ou líquido, o reparo sai por conta do cliente.
+[17:46] Cliente: Não caiu, eu juro. Só parou.
+[17:47] Atendente: Então vamos abrir o chamado. O reparo é feito pela assistência autorizada e tem prazo máximo de 30 dias.
+[17:48] Cliente: E se passar de 30 dias?
+[17:49] Atendente: Depois de 30 dias, a senhora escolhe entre troca, devolução do valor ou abatimento. Não fica sem opção.
+[17:50] Cliente: Ah, bom. E se eu deixar aqui agora?
+[17:51] Atendente: Pode deixar o aparelho aqui para a triagem. Vou te entregar o protocolo e o comprovante.
+[17:53] Cliente: Pode ser. Vou deixar.
+[17:54] Atendente: Pronto. Protocolo LV-2026-631570. Boa noite, Cláudia.
+[17:55] Cliente: E enquanto isso o celular fica parado?
+[17:57] Atendente: Enquanto o chamado estiver aberto, a senhora acompanha o andamento pelo protocolo. O prazo máximo de reparo é de 30 dias, então há um limite claro para a espera.
+[17:58] Cliente: Entendi. Pelo menos sei o prazo.
+---
+Resolução: chamado de garantia aberto para o celular de oito meses de uso, com triagem no balcão e prazo máximo de reparo de 30 dias. A cliente foi informada de que queda ou líquido não são cobertos.

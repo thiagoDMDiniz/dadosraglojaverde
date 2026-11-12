@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-560631 (PRODUTO)
+
+Protocolo: LV-2026-560631
+Canal: chat do aplicativo
+Data: 15/07/2026
+Cliente: Eduardo (CPF ***.***.***-**)
+Atendente: Otto
+
+---
+[16:05] Cliente: Boa tarde. Estou em dúvida entre duas geladeiras, uma de 380 litros e outra de 430. Qual consome menos?
+[16:07] Atendente: Boa tarde, Eduardo. Aqui é o Otto. Olhe a etiqueta de eficiência e o consumo mensal informado na ficha técnica de cada modelo, porque eles variam conforme o tamanho.
+[16:08] Cliente: Achei as fichas. Uma diz 110 V e outra 220 V. Isso faz diferença?
+[16:10] Atendente: Faz. A voltagem precisa ser compatível com a tomada da casa. Confira no cadastro do seu imóvel antes de comprar.
+[16:11] Cliente: e para o interior, a voltagem muda?
+[16:12] Atendente: Não muda pela região, o que importa é a tomada. Se não tiver certeza, peça um eletricista para verificar.
+[16:14] Cliente: Ok. E se eu comprar pelo site, consigo ver se a loja tem o modelo?
+[16:15] Atendente: No site você vê o estoque da unidade que atende seu CEP. Para verificar outra unidade, pode ligar para ela ou ir até a loja.
+[16:18] Cliente: Entendi. Quanto custa a garantia dos dois?
+[16:19] Atendente: Eletrodomésticos têm garantia de 12 meses contra defeitos de fabricação. A garantia estendida, se contratada em até 30 dias após a compra, acrescenta 12 meses e custa 10% do valor do produto.
+[16:21] Cliente: Pode me mandar a ficha do de 430 por e-mail?
+[16:22] Atendente: Posso enviar para o e-mail cadastrado. Assim que chegar, você confere a voltagem e o consumo antes de decidir.
+[16:24] Cliente: Ótimo. Obrigado pela atenção.
+[16:25] Atendente: Por nada, Eduardo. Qualquer dúvida, o SAC atende de segunda a sexta, das 8h às 20h.
+
+---
+Resolução: o cliente recebeu orientação sobre voltagem, consumo e garantia para comparar as duas geladeiras e pediu o envio das fichas técnicas por e-mail para decidir com calma.

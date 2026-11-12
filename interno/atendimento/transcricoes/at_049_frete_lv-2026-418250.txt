@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-418250 (FRETE)
+USO INTERNO
+Protocolo: LV-2026-418250
+Canal: telefone (SAC)
+Data: 11/02/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[11:05] Cliente: Oi, bom dia. Escolhi retirar meu pedido na loja em vez de esperar a entrega. Quando ele fica disponível?
+[11:07] Atendente: Bom dia, Sérgio. Aqui é a Larissa. A retirada fica liberada a partir de 4 horas depois da confirmação do pagamento.
+[11:08] Cliente: Eu paguei ontem à noite. Já dá para ir hoje?
+[11:09] Atendente: Se o pagamento foi confirmado ontem, o pedido já está liberado para retirada. Verifique no aplicativo, em Meus Pedidos, se o status aparece como disponível.
+[11:11] Cliente: Hm, e documento?
+[11:12] Atendente: Leve documento com foto e o número do pedido. Sem os dois, não é possível fazer a entrega ao cliente.
+[11:14] Cliente: Ok. E até quando eu tenho para buscar?
+[11:15] Atendente: O pedido fica disponível para retirada por 7 dias corridos. Depois desse prazo, ele volta para o estoque.
+[11:17] Cliente: E se eu não puder ir no horário da loja?
+[11:18] Atendente: A loja funciona no horário da sua unidade, e você pode escolher o dia que for melhor dentro dos 7 dias.
+[11:20] Cliente: Certo, é só isso então?
+[11:21] Atendente: Isso. Se quiser, pode ligar de novo no 0800 700 0100 para confirmar.
+[11:22] Cliente: Obrigado, Larissa.
+[11:22] Atendente: Bom dia, Sérgio!
+---
+Resolução: A cliente foi informada de que a retirada na loja é liberada a partir de 4 horas depois da confirmação do pagamento, com documento com foto e número do pedido, em até 7 dias corridos.

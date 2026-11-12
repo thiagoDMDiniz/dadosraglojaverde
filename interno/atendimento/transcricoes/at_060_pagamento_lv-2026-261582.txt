@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-261582 (PAGAMENTO)
+USO INTERNO
+Protocolo: LV-2026-261582
+Canal: chat do site
+Data: 24/08/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[10:20] Cliente: Bom dia. Gerei um boleto ontem e não paguei. Agora o pedido apareceu como cancelado. O que aconteceu?
+[10:22] Atendente: Bom dia, Sérgio. Aqui é o Gustavo. Vou verificar o pedido. O boleto tem prazo de vencimento, e o pedido segue essa mesma data.
+[10:23] Cliente: Hm, e qual é o prazo?
+[10:24] Atendente: O boleto vence em 2 dias úteis a partir da emissão. Como ele não foi pago dentro desse prazo, o pedido foi cancelado.
+[10:26] Cliente: Não sabia que era tão curto. E agora?
+[10:27] Atendente: Você pode refazer o pedido e gerar um novo boleto, ou escolher outra forma de pagamento, como o Pix ou o cartão.
+[10:29] Cliente: E se eu pagar no Pix, tem desconto?
+[10:30] Atendente: Tem sim, o Pix tem 5% de desconto e expira em 30 minutos. Depois de gerado, o código precisa ser pago dentro desse tempo.
+[10:32] Cliente: Ok. E o boleto pago depois do vencimento?
+[10:33] Atendente: Um boleto vencido não é reativado. O pedido cancelado precisa ser refeito.
+[10:35] Cliente: Certo. Vou refazer usando o Pix então.
+[10:36] Atendente: Ótima escolha. Se o Pix expirar, basta gerar outro.
+[10:38] Cliente: Obrigado, Gustavo.
+[10:38] Atendente: Bom dia, Sérgio!
+---
+Resolução: Pedido cancelado por boleto vencido sem pagamento. O cliente foi informado de que o boleto vence em 2 dias úteis e de que o pedido precisa ser refeito. O cliente optou por refazer a compra no Pix.

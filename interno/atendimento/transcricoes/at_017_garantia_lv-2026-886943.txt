@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-886943 (GARANTIA)
+Protocolo: LV-2026-886943
+Canal: Balcão da loja
+Data: 2026-10-22
+Cliente: Ana (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[10:02] Cliente: Bom dia. Meu aspirador está no conserto há mais de um mês. Estou sem paciência.
+[10:03] Atendente: Bom dia, Ana. Vou olhar o chamado. Pode me dizer o número?
+[10:04] Cliente: Está no comprovante, LV-2026-886943.
+[10:06] Atendente: Localizei. O reparo passou do prazo. O prazo máximo de reparo é de 30 dias, e ele já foi ultrapassado.
+[10:07] Cliente: Então o que acontece agora?
+[10:08] Atendente: Quando o reparo passa de 30 dias, a cliente escolhe entre troca, devolução do valor ou abatimento. A escolha é sua.
+[10:10] Cliente: Quero a devolução, mas sem perder tempo.
+[10:11] Atendente: Entendo. A devolução do valor é aprovada pela loja e o reembolso é feito em até 10 dias úteis, na mesma forma de pagamento.
+[10:13] Cliente: E e se eu preferir a troca?
+[10:14] Atendente: A troca é por um produto igual, se houver em estoque. Se não houver, a senhora pode escolher outra opção.
+[10:16] Cliente: E o abatimento, como funciona?
+[10:17] Atendente: Ele é um desconto no valor pago pelo aspirador, combinado na hora. Não é o mesmo que devolução.
+[10:19] Cliente: Ok, então fico com a devolução.
+[10:20] Atendente: Certo. Vou registrar a opção no chamado e pedir a aprovação. Pode aguardar aqui mesmo.
+[10:22] Cliente: Obrigada, Bruna.
+[10:23] Atendente: Registrado sob o protocolo LV-2026-886943. Bom dia, Ana.
+---
+Resolução: reparo acima de 30 dias, com a cliente optando pela devolução do valor, a ser reembolsada em até 10 dias úteis após a aprovação. O protocolo LV-2026-886943 ficou registrado no balcão da unidade Venda Nova.

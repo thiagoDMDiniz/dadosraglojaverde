@@ -1,0 +1,22 @@
+ATENDIMENTO LV-2026-357550 (REEMBOLSO)
+Protocolo: LV-2026-357550
+Canal: WhatsApp oficial
+Data: 2026-02-28
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Natália
+---
+[16:40] Cliente: Boa tarde. A devolução foi aprovada há doze dias e o estorno no cartão não apareceu na fatura.
+[16:42] Atendente: Boa tarde, Sérgio. Vou verificar o protocolo da devolução. Pode me confirmar o número do pedido?
+[16:43] Cliente: Pedido final 4471, como está no e-mail.
+[16:45] Atendente: Localizei. A devolução foi aprovada e o reembolso está em processamento.
+[16:46] Cliente: E até quando sai? Já passou muito tempo.
+[16:48] Atendente: Pela regra, o reembolso é feito em até 10 dias úteis depois da aprovação, na mesma forma de pagamento. Como o senhor pagou no cartão, o estorno pode levar algum tempo a mais para aparecer.
+[16:50] Cliente: Mas se passou de 10 dias úteis, o que eu faço?
+[16:51] Atendente: Se o prazo já passou, eu registro a reclamação para acompanhamento. O estorno no cartão pode aparecer em até duas faturas, então antes de reclamar vale checar a próxima fatura.
+[16:53] Cliente: Não sei, parece que vai demorar mais uma fatura. E se for outra fatura?
+[16:54] Atendente: Se aparecer em outra fatura, ainda está dentro da regra. O valor é o mesmo e não há cobrança extra.
+[16:56] Cliente: Ok. Então, por favor, registra a reclamação só por garantia.
+[16:57] Atendente: Registrado. O protocolo é LV-2026-357550, e o acompanhamento segue por este canal.
+[16:58] Cliente: Obrigado.
+---
+Resolução: devolução já aprovada, com o reembolso acompanhado pelo protocolo LV-2026-357550. O cliente foi orientado sobre o prazo de 10 dias úteis e sobre o estorno que pode aparecer em outra fatura do cartão.

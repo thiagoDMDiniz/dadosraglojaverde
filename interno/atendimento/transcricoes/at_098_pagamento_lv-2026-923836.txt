@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-923836 (PAGAMENTO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-923836
+Canal: chat do site
+Data: 21/05/2026
+Cliente: Patrícia (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[12:05] Cliente: Preciso comprar agora, é urgente. O cartão foi recusado duas vezes.
+[12:07] Atendente: Oi, Patrícia. Consigo ver o motivo. Aparece algum código na tela de pagamento?
+[12:09] Cliente: ERR-5308.
+[12:11] Atendente: Certo. O código ERR-5308 indica que o cartão foi recusado pela operadora.
+[12:13] Cliente: Mas o limite do cartão está ok, eu acabei de ver no app do banco.
+[12:15] Atendente: A recusa vem da operadora, e a loja não consegue ver o limite nem o motivo exato. Por isso, o caminho é com o banco emissor.
+[12:17] Cliente: E se eu tentar de novo com o mesmo cartão?
+[12:19] Atendente: Pode tentar uma vez mais, mas se recusar de novo, o melhor é usar outro cartão ou contatar o banco emissor.
+[12:21] Cliente: Tenho outro cartão de crédito. Dá para usar?
+[12:23] Atendente: Sim. Qualquer cartão de crédito aceito pela loja serve. O parcelamento é em até 10 vezes sem juros, com parcela mínima de R$ 50.
+[12:25] Cliente: Ok. Vou usar o outro.
+[12:27] Atendente: Perfeito. Se o segundo cartão também for recusado, me chame aqui com o código para registrar o caso.
+[12:29] Cliente: E se o segundo cartão também for recusado, o pedido é cobrado?
+[12:31] Atendente: Não. O pedido só é confirmado com pagamento aprovado. Se nenhuma forma funcionar, nada é cobrado e você pode refazer a compra.
+[12:33] Cliente: Obrigada, Gustavo, vou tentar agora.
+[12:35] Atendente: Boa compra, Patrícia.
+---
+Resolução: Cartão recusado pela operadora, com orientação de tentar outro cartão ou contatar o banco emissor, e informação de que o parcelamento segue em até 10 vezes sem juros com parcela mínima de R$ 50.

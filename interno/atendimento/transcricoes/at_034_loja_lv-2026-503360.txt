@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-503360 (LOJA)
+USO INTERNO
+Protocolo: LV-2026-503360
+Canal: telefone (SAC)
+Data: 21/05/2026
+Cliente: Patrícia (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[10:31] Cliente: Bom dia. Vou até a Lourdes buscar uma encomenda. Onde eu deixo o carro?
+[10:33] Atendente: Bom dia, Patrícia. Aqui é a Priscila. A unidade Lourdes, na Rua dos Cedros, 600, não tem estacionamento próprio.
+[10:34] Cliente: Como assim? Então não tem onde parar?
+[10:35] Atendente: Existe um convênio com garagem vizinha, e os clientes têm 2 horas grátis. A loja informa essa condição no balcão de atendimento.
+[10:37] Cliente: Sei. E para o horário? A loja abre a que horas?
+[10:38] Atendente: A Lourdes funciona de segunda a sábado, das 10h às 20h. Aos domingos ela fica fechada.
+[10:40] Cliente: Está, mas e se eu demorar mais que duas horas?
+[10:42] Atendente: As duas horas grátis são do convênio. O tempo além disso segue a regra da garagem vizinha, que a loja não controla. Recomendo levar a nota fiscal ou o número do pedido para confirmar a validade do benefício.
+[10:44] Cliente: Hum. Não gosto muito dessa história de depender de terceiros.
+[10:45] Atendente: Eu entendo. Se preferir, a unidade de Buritis tem estacionamento do shopping com 2 horas grátis com nota fiscal, e o endereço é Avenida Professor Mário Werneck, 1500.
+[10:47] Cliente: Buritis é longe para mim. Vou na Lourdes mesmo, só queria saber.
+[10:48] Atendente: Claro. Se tiver alguma dificuldade no dia, pode ligar no 0800 700 0100 ou falar com a gerente Beatriz Quintão na loja.
+[10:50] Cliente: Obrigada pela informação.
+[10:50] Atendente: Eu que agradeço, Patrícia. Tenha um bom dia.
+---
+Resolução: A cliente foi informada de que a unidade Lourdes não tem estacionamento próprio e que há convênio com garagem vizinha, com 2 horas grátis. A cliente ficou ciente de que o tempo excedente depende da garagem vizinha.

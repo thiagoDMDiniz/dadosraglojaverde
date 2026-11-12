@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-993637 (TROCA)
+USO INTERNO
+Protocolo: LV-2026-993637
+Canal: balcão da loja
+Data: 06/05/2026
+Cliente: Renata (CPF ***.***.***-**)
+Atendente: Natália
+---
+[11:15] Cliente: Bom dia. Comprei um tênis aqui na Nova Lima há 12 dias e não serviu. Quero trocar.
+[11:16] Atendente: Bom dia, Renata. Aqui é a Natália. Vou verificar a compra. Você está com a nota fiscal ou o número do pedido?
+[11:17] Cliente: Estou com a nota fiscal. Aqui está.
+[11:19] Atendente: Obrigada. Pela data, a troca pode ser feita em até 30 dias corridos após a entrega, e o tênis precisa estar sem sinais de uso e na embalagem original.
+[11:20] Cliente: Ele está novinho, só provei em casa. Mas tem uma coisa: foi comprado na promoção.
+[11:22] Atendente: Entendi. Nesse caso, produtos comprados em promoção não têm devolução em dinheiro. A troca é feita somente por vale-compras, válido por 120 dias.
+[11:23] Cliente: Ah, mas e se eu quiser o mesmo tamanho?
+[11:24] Atendente: Se o tamanho estiver disponível, a troca pode ser feita por outro número, e a diferença de preço é ajustada no vale-compras.
+[11:26] Cliente: E se for outro modelo mais caro?
+[11:27] Atendente: Nesse caso o vale-compras cobre o valor do tênis, e a diferença é paga na hora. Você pode levar o tênis novo para a sua casa.
+[11:29] Cliente: Hm, então não tem jeito de receber o dinheiro?
+[11:30] Atendente: Não nesta compra. O vale-compras pode ser usado em qualquer unidade da Loja Verde, e eu deixo anotado no sistema.
+[11:32] Cliente: Tá bom. Então eu quero o vale.
+[11:33] Atendente: Certo. Vou emitir o vale-compras e registrar o protocolo LV-2026-993637. Você pode trocar o tênis aqui mesmo na Nova Lima.
+[11:35] Cliente: Obrigada.
+[11:36] Atendente: De nada, Renata. Qualquer dúvida, o SAC atende de segunda a sexta no 0800 700 0100.
+---
+Resolução: Troca de tênis solicitada em até 30 dias corridos após a entrega, na unidade Nova Lima. Como o item estava em promoção, a troca foi feita somente por vale-compras, válido por 120 dias.

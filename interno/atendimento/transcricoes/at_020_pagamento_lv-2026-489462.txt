@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-489462 (PAGAMENTO)
+Protocolo: LV-2026-489462
+Canal: WhatsApp oficial
+Data: 2026-01-28
+Cliente: Renata (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[10:12] Cliente: Bom dia. Meu cartão foi recusado duas vezes. Por que isso?
+[10:14] Atendente: Bom dia, Renata. Você pode me informar o código que apareceu na tela?
+[10:15] Cliente: Apareceu ERR-5308.
+[10:16] Atendente: Obrigada. O código ERR-5308 indica que o cartão foi recusado pela operadora. A recusa vem do banco, e a loja não tem como liberar a compra por aqui.
+[10:18] Cliente: Mas o limite é suficiente, eu checo.
+[10:19] Atendente: Pode ser. Às vezes o banco bloqueia compras online por segurança ou pede uma confirmação no aplicativo.
+[10:21] Cliente: E o que eu faço?
+[10:22] Atendente: Você pode tentar outro cartão, ou entrar em contato com o banco emissor para liberar a compra. A loja também aceita Pix e boleto.
+[10:24] Cliente: E e se eu tentar de novo amanhã?
+[10:25] Atendente: Pode tentar. O pedido não fica travado. Mas se a recusa continuar, o banco é quem pode resolver.
+[10:27] Cliente: Ok. Vou ligar para o banco.
+[10:28] Atendente: Boa ideia. Se preferir outra forma de pagamento, o pedido pode ser refeito pelo carrinho.
+[10:30] Cliente: Obrigada, Bruna.
+[10:31] Atendente: Protocolo LV-2026-489462. Bom dia, Renata.
+[10:32] Cliente: E se o cartão for de outro banco, o problema é o mesmo?
+[10:34] Atendente: A recusa depende da operadora do cartão e das regras do banco emissor. Por isso o caminho é o mesmo: outro cartão ou contato com o banco.
+[10:35] Cliente: Entendi. Obrigada.
+---
+Resolução: cartão recusado pela operadora, com orientação para tentar outro cartão ou contatar o banco emissor. A cliente informou que vai ligar para o banco e pode refazer o pedido com outra forma de pagamento.

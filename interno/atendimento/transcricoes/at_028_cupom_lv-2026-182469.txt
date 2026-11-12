@@ -1,0 +1,22 @@
+ATENDIMENTO LV-2026-182469 (CUPOM)
+Protocolo: LV-2026-182469
+Canal: Chat do aplicativo
+Data: 2026-03-11
+Cliente: Tatiane (CPF ***.***.***-**)
+Atendente: Natália
+---
+[19:02] Cliente: Boa noite. Vi nas redes sociais o cupom FRETE100, que dá 100% de desconto no frete. Funciona?
+[19:04] Atendente: Boa noite, Tatiane. Obrigada por perguntar antes de usar. Esse cupom não existe na Loja Verde.
+[19:05] Cliente: Mas o post era de uma página com o nome da loja e muita gente comentou que deu certo.
+[19:07] Atendente: Entendo a confusão. Páginas que usam o nome da loja e prometem desconto total no frete não são da Loja Verde. Nossos cupons são divulgados apenas pelo site e pelo aplicativo.
+[19:09] Cliente: Ah. E se eu colocar o código no carrinho, o que acontece?
+[19:10] Atendente: Ele não será aceito. Em alguns casos, esse tipo de página pede dados pessoais ou um pagamento antecipado. Não envie nada e não informe senha ou código de segurança.
+[19:12] Cliente: Eu já ia preencher um formulário.
+[19:13] Atendente: Recomendo que não preencha. A Loja Verde nunca pede senha, token ou código de segurança por telefone, e-mail ou mensagem.
+[19:15] Cliente: Nossa, ainda bem que perguntei. E se o post for verdadeiro?
+[19:16] Atendente: Se tiver dúvida, verifique no aplicativo a lista de cupons ativos. Qualquer cupom real aparece lá, com as regras de uso.
+[19:18] Cliente: Certo. Vou denunciar a página, então.
+[19:19] Atendente: Boa ideia. Se algum dado seu já foi enviado, avise este chat para registrarmos o caso. Protocolo LV-2026-182469.
+[19:21] Cliente: Obrigada, Natália.
+---
+Resolução: cliente alertada sobre um cupom de frete gratuito divulgado em redes sociais, que não existe na Loja Verde, e orientada a não enviar dados nem pagamentos. A cliente decidiu denunciar a página e ficou ciente de que os cupons reais aparecem no aplicativo.

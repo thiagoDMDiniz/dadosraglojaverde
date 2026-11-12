@@ -1,0 +1,25 @@
+COMUNICADO DE MUDANÇA: CONDIÇÕES DE PAGAMENTO (VERSÃO 2024)
+
+ASSUNTO
+Aumento do desconto para pagamentos por Pix.
+
+DATA
+15/12/2024
+
+PÚBLICO
+Clientes que escolhem o Pix como forma de pagamento, pelo site, pelo aplicativo ou em loja física.
+
+CORPO
+O desconto do Pix mudou. Até então, a regra anterior era esta: O desconto para pagamentos por Pix era de 3%. Essa regra esteve em vigor durante todo o ano de 2024.
+
+A partir de 01/01/2025, a regra vigente passa a ser esta: Desde 01/01/2025 o desconto para pagamentos por Pix é de 5%. O benefício vale para o valor do pedido pago por essa forma.
+
+O que muda na prática: pedidos pagos por Pix até 31/12/2024 recebem desconto de 3%. Pedidos pagos por Pix a partir de 01/01/2025 recebem desconto de 5%.
+
+Exemplo: um pedido de R$ 1.000,00 pago por Pix em dezembro de 2024 tinha desconto de R$ 30,00. O mesmo pedido pago por Pix em janeiro de 2025 passou a ter desconto de R$ 50,00.
+
+Lembre que o Pix expira em 30 minutos. Se o pagamento não for confirmado nesse prazo, o pedido é cancelado com o código ERR-4217, e nenhum valor é cobrado. O desconto do Pix não se combina com parcelamento.
+
+CONTATO
+SAC: 0800 700 0100 (segunda a sexta, das 8h às 20h, e sábados, das 8h às 14h).
+E-mail: atendimento@lojaverde.example.

@@ -1,0 +1,1125 @@
+{
+ "empresa": {
+  "nome": "Loja Verde",
+  "razao_social": "Loja Verde Comércio Varejista S.A. (empresa fictícia)",
+  "fundacao": 2009,
+  "sede": "Belo Horizonte, MG",
+  "colaboradores": 2400,
+  "site": "www.lojaverde.example",
+  "app": "aplicativo Loja Verde",
+  "sac_tel": "0800 700 0100",
+  "sac_horario": "segunda a sexta, das 8h às 20h, e sábados, das 8h às 14h",
+  "email_sac": "atendimento@lojaverde.example",
+  "email_ouvidoria": "ouvidoria@lojaverde.example",
+  "ouvidoria_prazo": "10 dias úteis",
+  "email_privacidade": "privacidade@lojaverde.example",
+  "whatsapp": "(31) 99000-0100"
+ },
+ "unidades": [
+  {
+   "nome": "Savassi",
+   "cidade": "Belo Horizonte",
+   "end": "Avenida das Acácias, 1250, Savassi",
+   "ano": 2009,
+   "m2": 4200,
+   "formato": "loja de rua (flagship)",
+   "seg_sab": "9h às 21h",
+   "dom": "10h às 18h",
+   "tel": "(31) 3000-0101",
+   "gerente": "Helena Prado",
+   "estac": "estacionamento próprio com 180 vagas, 3 horas grátis para compras acima de R$ 100",
+   "sem": []
+  },
+  {
+   "nome": "Pampulha",
+   "cidade": "Belo Horizonte",
+   "end": "Avenida Lagoa Clara, 880, Pampulha",
+   "ano": 2011,
+   "m2": 3800,
+   "formato": "loja de rua",
+   "seg_sab": "9h às 21h",
+   "dom": "10h às 18h",
+   "tel": "(31) 3000-0102",
+   "gerente": "Rogério Tavares",
+   "estac": "estacionamento próprio com 220 vagas, gratuito para clientes",
+   "sem": []
+  },
+  {
+   "nome": "Contagem",
+   "cidade": "Contagem",
+   "end": "Rua dos Ipês, 410, Eldorado",
+   "ano": 2012,
+   "m2": 3600,
+   "formato": "loja de rua",
+   "seg_sab": "9h às 20h",
+   "dom": "fechada",
+   "tel": "(31) 3000-0103",
+   "gerente": "Camila Nogueira",
+   "estac": "estacionamento próprio com 150 vagas, gratuito",
+   "sem": [
+    "Jardim e Sustentabilidade"
+   ]
+  },
+  {
+   "nome": "Betim",
+   "cidade": "Betim",
+   "end": "Avenida Jardim Verde, 2300, Centro",
+   "ano": 2014,
+   "m2": 3100,
+   "formato": "loja de rua",
+   "seg_sab": "9h às 20h",
+   "dom": "fechada",
+   "tel": "(31) 3000-0104",
+   "gerente": "Davi Ferraz",
+   "estac": "estacionamento próprio com 120 vagas, gratuito",
+   "sem": [
+    "Brinquedos"
+   ]
+  },
+  {
+   "nome": "Barreiro",
+   "cidade": "Belo Horizonte",
+   "end": "Rua das Palmeiras, 95, Barreiro",
+   "ano": 2015,
+   "m2": 2800,
+   "formato": "loja de rua",
+   "seg_sab": "9h às 20h",
+   "dom": "fechada",
+   "tel": "(31) 3000-0105",
+   "gerente": "Luciana Maciel",
+   "estac": "estacionamento conveniado ao lado, 2 horas grátis",
+   "sem": [
+    "Jardim e Sustentabilidade",
+    "Esporte e Lazer"
+   ]
+  },
+  {
+   "nome": "Venda Nova",
+   "cidade": "Belo Horizonte",
+   "end": "Avenida Padre Pedro Pinto, 3700, Venda Nova",
+   "ano": 2016,
+   "m2": 3000,
+   "formato": "loja de rua",
+   "seg_sab": "9h às 20h",
+   "dom": "10h às 16h",
+   "tel": "(31) 3000-0106",
+   "gerente": "Otávio Lemos",
+   "estac": "estacionamento próprio com 100 vagas, gratuito",
+   "sem": [
+    "Livros e Papelaria"
+   ]
+  },
+  {
+   "nome": "Lourdes",
+   "cidade": "Belo Horizonte",
+   "end": "Rua dos Cedros, 600, Lourdes",
+   "ano": 2018,
+   "m2": 2200,
+   "formato": "loja boutique (compacta)",
+   "seg_sab": "10h às 20h",
+   "dom": "fechada",
+   "tel": "(31) 3000-0107",
+   "gerente": "Beatriz Quintão",
+   "estac": "sem estacionamento próprio; convênio com garagem vizinha (2 horas grátis)",
+   "sem": [
+    "Eletrodomésticos",
+    "Brinquedos",
+    "Jardim e Sustentabilidade"
+   ]
+  },
+  {
+   "nome": "Buritis",
+   "cidade": "Belo Horizonte",
+   "end": "Avenida Professor Mário Werneck, 1500, Buritis",
+   "ano": 2019,
+   "m2": 2600,
+   "formato": "loja de shopping",
+   "seg_sab": "10h às 22h",
+   "dom": "12h às 20h",
+   "tel": "(31) 3000-0108",
+   "gerente": "Marcelo Rangel",
+   "estac": "estacionamento do shopping, 2 horas grátis com nota fiscal",
+   "sem": [
+    "Casa e Móveis"
+   ]
+  },
+  {
+   "nome": "Nova Lima",
+   "cidade": "Nova Lima",
+   "end": "Alameda das Mangabeiras, 70, Vila da Serra",
+   "ano": 2021,
+   "m2": 2900,
+   "formato": "loja de shopping",
+   "seg_sab": "10h às 22h",
+   "dom": "12h às 20h",
+   "tel": "(31) 3000-0109",
+   "gerente": "Fernanda Vilela",
+   "estac": "estacionamento do shopping, 2 horas grátis com nota fiscal",
+   "sem": [
+    "Livros e Papelaria"
+   ]
+  },
+  {
+   "nome": "Sabará",
+   "cidade": "Sabará",
+   "end": "Rua Capitão Rubens, 215, Centro Histórico",
+   "ano": 2023,
+   "m2": 2000,
+   "formato": "loja de rua (compacta)",
+   "seg_sab": "9h às 19h",
+   "dom": "fechada",
+   "tel": "(31) 3000-0110",
+   "gerente": "Ítalo Cardoso",
+   "estac": "estacionamento conveniado na mesma rua, 1 hora grátis",
+   "sem": [
+    "Casa e Móveis",
+    "Esporte e Lazer"
+   ]
+  }
+ ],
+ "valores": {
+  "prazo_troca": 30,
+  "validade_vale": 120,
+  "arrependimento": 7,
+  "reembolso": 10,
+  "etiqueta_horas": 24,
+  "vicio_duravel": 90,
+  "vicio_nao_duravel": 30,
+  "higiene_troca": "somente se o lacre estiver intacto",
+  "frete_min": 199,
+  "frete_min_outras": 299,
+  "entrega_capital": 3,
+  "entrega_interior": 8,
+  "horas_retirada": 4,
+  "atraso": 5,
+  "cupom_atraso": 25,
+  "expressa_taxa": "24,90",
+  "agendada_taxa": "14,90",
+  "retirada_prazo_dias": 7,
+  "garantia": 12,
+  "garantia_ext_meses": 12,
+  "garantia_ext_dias": 30,
+  "reparo_dias": 30,
+  "parcelas": 10,
+  "parcela_min": 50,
+  "desc_pix": 5,
+  "boleto_dias": 2,
+  "pix_minutos": 30,
+  "pontos": 3,
+  "resgate": 1000,
+  "resgate_valor": 10,
+  "expira": 12,
+  "aniversario": 15,
+  "desc_gerente": 10,
+  "tolerancia": 7,
+  "margem": 15,
+  "desc_vendedor": 3,
+  "desc_supervisor": 5
+ },
+ "codigos_nucleo": {
+  "pix": "ERR-4217",
+  "cartao": "ERR-5308",
+  "endereco": "ERR-7142"
+ },
+ "prazos_regiao": [
+  [
+   "Sudeste",
+   3,
+   8,
+   199
+  ],
+  [
+   "Sul",
+   5,
+   10,
+   299
+  ],
+  [
+   "Centro-Oeste",
+   5,
+   10,
+   299
+  ],
+  [
+   "Nordeste",
+   7,
+   12,
+   299
+  ],
+  [
+   "Norte",
+   9,
+   15,
+   299
+  ]
+ ],
+ "garantia_por_categoria": {
+  "Eletrônicos": [
+   "garantia de 12 meses",
+   "ELE",
+   12
+  ],
+  "Eletrodomésticos": [
+   "garantia de 12 meses",
+   "ELD",
+   10
+  ],
+  "Casa e Móveis": [
+   "garantia de 12 meses",
+   "CAS",
+   8
+  ],
+  "Moda e Calçados": [
+   "garantia de 3 meses",
+   "MOD",
+   0
+  ],
+  "Esporte e Lazer": [
+   "garantia de 6 meses",
+   "ESP",
+   8
+  ],
+  "Brinquedos": [
+   "garantia de 3 meses",
+   "BRQ",
+   0
+  ],
+  "Livros e Papelaria": [
+   "garantia de 30 dias",
+   "LIV",
+   0
+  ],
+  "Jardim e Sustentabilidade": [
+   "garantia de 12 meses",
+   "JAR",
+   8
+  ]
+ },
+ "cupons_validos": {
+  "BEMVINDO10": "10% de desconto na primeira compra pelo aplicativo, limitado a R$ 80 de desconto, não cumulativo com Pix",
+  "VERDE15": "cupom de aniversário do Clube Verde, 15% de desconto em uma única compra no mês do aniversário",
+  "RECICLA20": "R$ 20 de desconto na compra seguinte à entrega de um eletrônico usado no programa Recicla Verde, em compras acima de R$ 200",
+  "SEMANAVERDE": "8% de desconto em produtos da categoria Jardim e Sustentabilidade durante a Semana Verde (1 a 7 de junho de 2026)",
+  "BLACK26": "cupom da Black Friday 2026: 12% de desconto adicional em itens selecionados de Eletrônicos, de 27 a 30 de novembro de 2026, em compras acima de R$ 500",
+  "VOLTAAULAS": "10% de desconto em Livros e Papelaria de 5 a 31 de janeiro de 2026 e de 20 a 31 de julho de 2026",
+  "ATRASO25": "cupom de R$ 25 gerado automaticamente quando a entrega atrasa mais de 5 dias úteis"
+ },
+ "cupom_inexistente": "FRETE100",
+ "niveis_clube": [
+  [
+   "Verde",
+   "de 0 a 4.999 pontos acumulados nos últimos 12 meses",
+   "benefícios básicos do Clube Verde"
+  ],
+  [
+   "Folha",
+   "de 5.000 a 14.999 pontos acumulados nos últimos 12 meses",
+   "frete grátis em compras acima de R$ 149 no Sudeste e atendimento prioritário"
+  ],
+  [
+   "Floresta",
+   "a partir de 15.000 pontos acumulados nos últimos 12 meses",
+   "frete grátis em qualquer valor no Sudeste (padrão), 5% de pontos extras e acesso antecipado às ofertas"
+  ]
+ ],
+ "valores_anteriores": {
+  "prazo_troca": [
+   15,
+   "até 31/12/2023"
+  ],
+  "frete_min": [
+   149,
+   "até 31/03/2024"
+  ],
+  "pontos": [
+   2,
+   "até 30/06/2024"
+  ],
+  "desc_pix": [
+   3,
+   "até 31/12/2024"
+  ],
+  "garantia_eletronicos": [
+   6,
+   "até 31/12/2022"
+  ],
+  "parcelas": [
+   6,
+   "até 31/08/2023"
+  ],
+  "expira_pontos": [
+   24,
+   "até 31/12/2023"
+  ],
+  "reembolso": [
+   15,
+   "até 31/12/2023"
+  ],
+  "entrega_interior": [
+   12,
+   "até 30/09/2024"
+  ],
+  "tolerancia": [
+   3,
+   "até 31/12/2024"
+  ]
+ },
+ "margens": {
+  "Eletrônicos": 18,
+  "Eletrodomésticos": 22,
+  "Casa e Móveis": 38,
+  "Moda e Calçados": 46,
+  "Esporte e Lazer": 30,
+  "Brinquedos": 34,
+  "Livros e Papelaria": 28,
+  "Jardim e Sustentabilidade": 33
+ },
+ "dados_internos_por_unidade": {
+  "Savassi": {
+   "meta_mi": 3.5,
+   "colab": 171,
+   "perda": 1.6,
+   "ticket": 531
+  },
+  "Pampulha": {
+   "meta_mi": 1.5,
+   "colab": 199,
+   "perda": 1.5,
+   "ticket": 387
+  },
+  "Contagem": {
+   "meta_mi": 3.6,
+   "colab": 120,
+   "perda": 0.7,
+   "ticket": 500
+  },
+  "Betim": {
+   "meta_mi": 4.4,
+   "colab": 177,
+   "perda": 1.3,
+   "ticket": 387
+  },
+  "Barreiro": {
+   "meta_mi": 1.4,
+   "colab": 135,
+   "perda": 1.1,
+   "ticket": 353
+  },
+  "Venda Nova": {
+   "meta_mi": 4.5,
+   "colab": 179,
+   "perda": 0.8,
+   "ticket": 296
+  },
+  "Lourdes": {
+   "meta_mi": 1.9,
+   "colab": 238,
+   "perda": 1.1,
+   "ticket": 327
+  },
+  "Buritis": {
+   "meta_mi": 1.4,
+   "colab": 81,
+   "perda": 0.9,
+   "ticket": 370
+  },
+  "Nova Lima": {
+   "meta_mi": 4.7,
+   "colab": 122,
+   "perda": 1.6,
+   "ticket": 408
+  },
+  "Sabará": {
+   "meta_mi": 2.5,
+   "colab": 130,
+   "perda": 1.2,
+   "ticket": 364
+  }
+ },
+ "interno": {
+  "piso_vendedor": "R$ 2.050,00",
+  "comissao_vendedor": "1,2%",
+  "comissao_supervisor": "0,5%",
+  "vr": "R$ 38,00 por dia trabalhado",
+  "taxa_pix": "0,8%",
+  "taxa_credito": "2,9%",
+  "taxa_debito": "1,1%",
+  "prazo_forn": 45,
+  "jornada": "44 horas semanais",
+  "reuniao": "toda segunda-feira às 8h30"
+ },
+ "familias_de_erro": {
+  "pix": [
+   [
+    4202,
+    "valor pago diferente do valor do pedido"
+   ],
+   [
+    4210,
+    "chave Pix inválida na devolução do valor"
+   ],
+   [
+    4217,
+    "Pix não confirmado em 30 minutos"
+   ],
+   [
+    4232,
+    "limite do Pix da instituição do cliente excedido"
+   ],
+   [
+    4249,
+    "pagamento Pix duplicado para o mesmo pedido"
+   ],
+   [
+    4271,
+    "QR Code do Pix expirado antes do pagamento"
+   ],
+   [
+    4281,
+    "Pix bloqueado pelo banco no período noturno"
+   ],
+   [
+    4293,
+    "pagamento feito por CPF diferente do titular do pedido"
+   ],
+   [
+    4294,
+    "falha de comunicação com o banco recebedor"
+   ],
+   [
+    4299,
+    "Pix agendado não aceito para o pedido"
+   ]
+  ],
+  "cartao": [
+   [
+    5308,
+    "cartão recusado pela operadora"
+   ],
+   [
+    5326,
+    "cartão vencido"
+   ],
+   [
+    5341,
+    "código de segurança incorreto"
+   ],
+   [
+    5343,
+    "limite insuficiente para o valor da compra"
+   ],
+   [
+    5351,
+    "compra bloqueada por suspeita de fraude"
+   ],
+   [
+    5353,
+    "parcelamento acima do permitido"
+   ],
+   [
+    5355,
+    "parcela abaixo do valor mínimo de R$ 50"
+   ],
+   [
+    5372,
+    "autenticação do banco (3DS) não concluída"
+   ],
+   [
+    5380,
+    "cartão com número inválido"
+   ],
+   [
+    5393,
+    "bandeira do cartão não aceita"
+   ]
+  ],
+  "boleto": [
+   [
+    5601,
+    "boleto vencido"
+   ],
+   [
+    5626,
+    "código de barras inválido"
+   ],
+   [
+    5628,
+    "banco emissor fora do ar"
+   ],
+   [
+    5631,
+    "pagamento não compensado em 3 dias úteis"
+   ],
+   [
+    5639,
+    "boleto já pago anteriormente"
+   ],
+   [
+    5642,
+    "valor pago diferente do boleto"
+   ],
+   [
+    5645,
+    "segunda via indisponível"
+   ],
+   [
+    5655,
+    "pedido cancelado após o vencimento"
+   ],
+   [
+    5661,
+    "limite de reemissões atingido"
+   ],
+   [
+    5669,
+    "CPF do pagador diferente do cadastro"
+   ]
+  ],
+  "entrega": [
+   [
+    7114,
+    "destinatário ausente em três tentativas"
+   ],
+   [
+    7124,
+    "CEP inválido ou inexistente"
+   ],
+   [
+    7135,
+    "área de difícil acesso sem cobertura"
+   ],
+   [
+    7142,
+    "endereço não atendido pela transportadora"
+   ],
+   [
+    7143,
+    "pedido extraviado no transporte"
+   ],
+   [
+    7188,
+    "avaria identificada no transporte"
+   ],
+   [
+    7189,
+    "janela de entrega agendada indisponível"
+   ],
+   [
+    7193,
+    "volume acima do limite da transportadora"
+   ],
+   [
+    7195,
+    "prazo de entrega expirado"
+   ],
+   [
+    7199,
+    "cobertura suspensa temporariamente por chuvas"
+   ]
+  ],
+  "retirada": [
+   [
+    7408,
+    "pedido ainda não liberado para retirada"
+   ],
+   [
+    7441,
+    "documento do retirante divergente do titular"
+   ],
+   [
+    7448,
+    "terceiro sem autorização"
+   ],
+   [
+    7458,
+    "prazo de retirada de 7 dias expirado"
+   ],
+   [
+    7460,
+    "pedido aguardando separação"
+   ],
+   [
+    7463,
+    "unidade fechada por feriado"
+   ],
+   [
+    7472,
+    "código de retirada inválido"
+   ],
+   [
+    7484,
+    "pagamento pendente de confirmação"
+   ],
+   [
+    7495,
+    "item em falta na unidade"
+   ],
+   [
+    7497,
+    "QR Code de retirada já utilizado"
+   ]
+  ],
+  "troca": [
+   [
+    3105,
+    "solicitação fora do prazo de troca"
+   ],
+   [
+    3109,
+    "produto com sinais de uso"
+   ],
+   [
+    3118,
+    "embalagem original incompleta"
+   ],
+   [
+    3142,
+    "etiqueta de postagem expirada"
+   ],
+   [
+    3157,
+    "item personalizado excluído da troca"
+   ],
+   [
+    3158,
+    "nota fiscal não localizada"
+   ],
+   [
+    3168,
+    "solicitação duplicada para o mesmo pedido"
+   ],
+   [
+    3172,
+    "reembolso em análise"
+   ],
+   [
+    3176,
+    "produto devolvido diferente do pedido"
+   ],
+   [
+    3188,
+    "dados bancários inválidos para reembolso"
+   ]
+  ],
+  "garantia": [
+   [
+    3811,
+    "número de série inválido"
+   ],
+   [
+    3823,
+    "produto fora do prazo de garantia"
+   ],
+   [
+    3825,
+    "assistência técnica sem cobertura na cidade"
+   ],
+   [
+    3844,
+    "laudo técnico pendente"
+   ],
+   [
+    3862,
+    "dano por contato com líquidos"
+   ],
+   [
+    3865,
+    "lacre de segurança violado"
+   ],
+   [
+    3870,
+    "chamado de garantia já aberto"
+   ],
+   [
+    3874,
+    "peça de reposição em falta"
+   ],
+   [
+    3882,
+    "garantia estendida não contratada"
+   ],
+   [
+    3885,
+    "prazo máximo de reparo excedido"
+   ]
+  ],
+  "login": [
+   [
+    2105,
+    "senha incorreta"
+   ],
+   [
+    2114,
+    "conta bloqueada por tentativas excessivas"
+   ],
+   [
+    2117,
+    "e-mail já cadastrado"
+   ],
+   [
+    2118,
+    "CPF inválido"
+   ],
+   [
+    2130,
+    "SMS de verificação não entregue"
+   ],
+   [
+    2139,
+    "token de acesso expirado"
+   ],
+   [
+    2140,
+    "dispositivo não reconhecido"
+   ],
+   [
+    2171,
+    "cadastro incompleto"
+   ],
+   [
+    2186,
+    "sessão expirada"
+   ],
+   [
+    2195,
+    "conta pendente de verificação"
+   ]
+  ],
+  "app": [
+   [
+    2504,
+    "versão do aplicativo desatualizada"
+   ],
+   [
+    2516,
+    "falha ao carregar o carrinho"
+   ],
+   [
+    2525,
+    "erro de sincronização do pedido"
+   ],
+   [
+    2534,
+    "permissão de câmera negada"
+   ],
+   [
+    2548,
+    "notificação push não entregue"
+   ],
+   [
+    2566,
+    "falha na leitura do código de barras"
+   ],
+   [
+    2570,
+    "aplicativo sem conexão"
+   ],
+   [
+    2583,
+    "tempo de resposta esgotado"
+   ],
+   [
+    2587,
+    "cache corrompido"
+   ],
+   [
+    2591,
+    "falha ao exibir o QR Code de retirada"
+   ]
+  ],
+  "checkout": [
+   [
+    6102,
+    "item sem estoque no carrinho"
+   ],
+   [
+    6103,
+    "preço alterado durante a compra"
+   ],
+   [
+    6109,
+    "cupom inválido"
+   ],
+   [
+    6116,
+    "cupom expirado"
+   ],
+   [
+    6143,
+    "cupom não cumulativo com a promoção"
+   ],
+   [
+    6158,
+    "frete não calculado"
+   ],
+   [
+    6167,
+    "limite de quantidade por CPF atingido"
+   ],
+   [
+    6176,
+    "sessão expirada no pagamento"
+   ],
+   [
+    6194,
+    "endereço de entrega não selecionado"
+   ],
+   [
+    6198,
+    "valor mínimo do cupom não atingido"
+   ]
+  ],
+  "estoque": [
+   [
+    6602,
+    "produto indisponível no site"
+   ],
+   [
+    6611,
+    "estoque insuficiente na unidade"
+   ],
+   [
+    6619,
+    "reserva do item expirada"
+   ],
+   [
+    6624,
+    "divergência de inventário"
+   ],
+   [
+    6639,
+    "SKU descontinuado"
+   ],
+   [
+    6640,
+    "transferência entre lojas pendente"
+   ],
+   [
+    6642,
+    "kit incompleto"
+   ],
+   [
+    6675,
+    "item em separação"
+   ],
+   [
+    6687,
+    "lote bloqueado pelo controle de qualidade"
+   ],
+   [
+    6695,
+    "pré-venda encerrada"
+   ]
+  ],
+  "clube": [
+   [
+    8127,
+    "pontos insuficientes para o resgate"
+   ],
+   [
+    8139,
+    "pontos expirados"
+   ],
+   [
+    8144,
+    "resgate duplicado"
+   ],
+   [
+    8157,
+    "cadastro não vinculado ao CPF"
+   ],
+   [
+    8159,
+    "cupom de aniversário já utilizado"
+   ],
+   [
+    8170,
+    "nível não elegível ao benefício"
+   ],
+   [
+    8182,
+    "pontos pendentes de pedido não entregue"
+   ],
+   [
+    8191,
+    "CPF vinculado a outra conta"
+   ],
+   [
+    8193,
+    "limite diário de resgate atingido"
+   ],
+   [
+    8194,
+    "pontos bloqueados para análise"
+   ]
+  ],
+  "vale": [
+   [
+    8401,
+    "vale-compras expirado"
+   ],
+   [
+    8431,
+    "saldo insuficiente"
+   ],
+   [
+    8435,
+    "código do vale inválido"
+   ],
+   [
+    8439,
+    "vale já utilizado"
+   ],
+   [
+    8440,
+    "vale não acumulável com a promoção"
+   ],
+   [
+    8449,
+    "cartão-presente bloqueado"
+   ],
+   [
+    8454,
+    "recarga indisponível"
+   ],
+   [
+    8465,
+    "uso parcial não permitido no site"
+   ],
+   [
+    8469,
+    "cartão-presente de outra rede"
+   ],
+   [
+    8472,
+    "valor acima do limite permitido"
+   ]
+  ],
+  "fiscal": [
+   [
+    9126,
+    "nota fiscal não emitida"
+   ],
+   [
+    9138,
+    "CPF da nota inválido"
+   ],
+   [
+    9141,
+    "segunda via da nota indisponível"
+   ],
+   [
+    9153,
+    "divergência de endereço fiscal"
+   ],
+   [
+    9157,
+    "CNPJ inválido"
+   ],
+   [
+    9166,
+    "nota fiscal cancelada"
+   ],
+   [
+    9175,
+    "falha na comunicação com o serviço fiscal"
+   ],
+   [
+    9178,
+    "nota de devolução pendente"
+   ],
+   [
+    9197,
+    "data de emissão divergente"
+   ],
+   [
+    9198,
+    "arquivo XML indisponível"
+   ]
+  ],
+  "lgpd": [
+   [
+    9507,
+    "solicitação de exclusão em análise"
+   ],
+   [
+    9523,
+    "identidade do titular não confirmada"
+   ],
+   [
+    9529,
+    "dados vinculados a garantia ativa"
+   ],
+   [
+    9536,
+    "consentimento revogado"
+   ],
+   [
+    9551,
+    "exportação de dados em preparo"
+   ],
+   [
+    9554,
+    "correção de dados pendente"
+   ],
+   [
+    9571,
+    "solicitação feita por terceiro sem procuração"
+   ],
+   [
+    9582,
+    "solicitação duplicada"
+   ],
+   [
+    9589,
+    "prazo de resposta em contagem"
+   ],
+   [
+    9592,
+    "canal de atendimento inválido"
+   ]
+  ],
+  "b2b": [
+   [
+    9700,
+    "CNPJ não habilitado para compras"
+   ],
+   [
+    9707,
+    "limite de crédito empresarial excedido"
+   ],
+   [
+    9728,
+    "faturamento em 30 dias não aprovado"
+   ],
+   [
+    9735,
+    "inscrição estadual divergente"
+   ],
+   [
+    9740,
+    "nota fiscal com razão social divergente"
+   ],
+   [
+    9747,
+    "pedido acima da quantidade máxima"
+   ],
+   [
+    9758,
+    "contrato corporativo expirado"
+   ],
+   [
+    9765,
+    "endereço de entrega comercial não cadastrado"
+   ],
+   [
+    9772,
+    "aprovação do gestor pendente"
+   ],
+   [
+    9776,
+    "tabela de preços corporativa indisponível"
+   ]
+  ]
+ }
+}

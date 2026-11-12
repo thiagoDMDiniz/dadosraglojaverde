@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-112213 (FRETE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-112213
+Canal: balcão da loja
+Data: 03/01/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Otto
+---
+[16:20] Cliente: Oi, estou sem pressa mas preciso saber. O rastreamento do meu pedido não anda faz dois dias.
+[16:22] Atendente: Oi, Sérgio. Vou consultar o número de rastreamento. Você tem o pedido em mãos?
+[16:24] Cliente: Tenho aqui, é de dezembro, mas o status parou em "postado".
+[16:26] Atendente: Vi o registro. O rastreamento só é atualizado quando o pedido sai do centro de distribuição, e a notificação chega por e-mail e SMS.
+[16:28] Cliente: Então a informação parou no centro?
+[16:30] Atendente: Não necessariamente. Pode haver um intervalo sem atualização até a próxima movimentação da transportadora. Ainda não há atraso registrado.
+[16:32] Cliente: E o código de rastreio mudou?
+[16:34] Atendente: Não mudou. Ele continua o mesmo, e pode ser acompanhado no site ou no aplicativo.
+[16:36] Cliente: Então devo aguardar mais um pouco?
+[16:38] Atendente: Recomendo aguardar. Se o prazo máximo passar de 5 dias úteis sem entrega, o cupom automático de atraso é gerado, então não se preocupe.
+[16:40] Cliente: Certo. E se eu não receber nada?
+[16:42] Atendente: Aí me procure novamente com o número do pedido e eu abro a verificação com a transportadora.
+[16:44] Cliente: E se o pedido tiver ido para outro endereço por engano?
+[16:46] Atendente: Traga o caso ao balcão com o número do pedido e a nota. A equipe confere o destino antes de qualquer alteração.
+[16:48] Cliente: Ok, obrigado.
+[16:50] Atendente: Por nada, Sérgio. Bom início de ano.
+---
+Resolução: Cliente orientado de que o rastreamento é atualizado quando o pedido sai do centro de distribuição, sem atraso registrado no momento, e de que o código de rastreio permanece o mesmo.

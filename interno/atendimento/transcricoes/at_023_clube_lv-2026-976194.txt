@@ -1,0 +1,22 @@
+ATENDIMENTO LV-2026-976194 (CLUBE)
+Protocolo: LV-2026-976194
+Canal: Chat do aplicativo
+Data: 2026-01-26
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Natália
+---
+[18:20] Cliente: Boa tarde. Quantos pontos eu ganho no Clube Verde? Não entendi o cálculo.
+[18:22] Atendente: Boa tarde, Cláudia. Veja: cada R$ 1 gasto vale 3 pontos. Assim, uma compra de R$ 200 gera 600 pontos.
+[18:23] Cliente: Ok. E quando eu troco por dinheiro?
+[18:25] Atendente: A cada 1000 pontos acumulados, o cliente resgata R$ 10 de desconto. Você pode juntar os pontos e usar na compra seguinte.
+[18:26] Cliente: E se eu não usar? Eles somem?
+[18:27] Atendente: Os pontos expiram 12 meses depois da data da compra. Por isso vale usar com regularidade.
+[18:29] Cliente: Então, se eu comprei em janeiro do ano passado, já perdi?
+[18:30] Atendente: Pelo seu histórico, as compras de mais de 12 meses já expiraram. Mas posso ver o saldo atual no aplicativo, em Clube Verde.
+[18:32] Cliente: Hum. E se eu tiver mais pontos que o outro?
+[18:33] Atendente: Os níveis dependem do total acumulado nos últimos 12 meses. Verde vai de 0 a 4.999 pontos, Folha de 5.000 a 14.999, e Floresta a partir de 15.000.
+[18:35] Cliente: Entendi. Vou conferir o saldo.
+[18:36] Atendente: Isso. Se algum ponto não aparecer, me avise com o protocolo LV-2026-976194.
+[18:37] Cliente: Obrigada, Natália.
+---
+Resolução: explicado o acúmulo de 3 pontos por R$ 1 gasto, o resgate de R$ 10 a cada 1000 pontos acumulados e a expiração de 12 meses depois da compra. A cliente foi orientada a conferir o saldo no aplicativo.

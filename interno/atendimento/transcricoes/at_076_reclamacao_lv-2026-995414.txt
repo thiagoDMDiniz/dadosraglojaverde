@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-995414 (RECLAMAÇÃO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-995414
+Canal: WhatsApp oficial
+Data: 18/09/2026
+Cliente: Fábio (CPF ***.***.***-**)
+Atendente: Natália
+---
+[13:10] Cliente: Estou há três semanas tentando trocar uma cafeteira com defeito e ninguém resolve. Quero registrar uma reclamação formal.
+[13:11] Atendente: Oi, Fábio. Entendo a frustração e sinto muito pelo transtorno. Pode me dizer o número do pedido?
+[13:13] Cliente: É o pedido de agosto. Já mandei foto e nada.
+[13:14] Atendente: Vi o histórico. Vou registrar a reclamação e encaminhar à ouvidoria, que dá a resposta em até 10 dias úteis.
+[13:16] Cliente: Dez dias úteis? Isso é um absurdo, já estou esperando há tempo demais.
+[13:17] Atendente: Eu sei que é um prazo longo. Enquanto isso, a ouvidoria acompanha o caso, e o registro fica vinculado ao seu pedido.
+[13:19] Cliente: E até lá, ninguém me liga?
+[13:20] Atendente: Não há contato obrigatório antes da resposta, mas você pode acompanhar o andamento pelo e-mail ouvidoria@lojaverde.example.
+[13:22] Cliente: Quero o protocolo então.
+[13:23] Atendente: O protocolo é o deste atendimento. Ele já está registrado e vinculado ao pedido, então não precisa repetir a história.
+[13:25] Cliente: Está bem. A cafeteira tem garantia ainda?
+[13:26] Atendente: Eletrodomésticos têm 12 meses de garantia contra defeitos de fabricação a partir da entrega. Se o defeito for confirmado, o reparo tem prazo máximo de 30 dias.
+[13:28] Cliente: Ok. Quero que o caso seja resolvido, não só registrado.
+[13:29] Atendente: Entendo. Vou anotar seu pedido de prioridade na observação do caso, para que a equipe veja o histórico completo.
+[13:31] Cliente: Obrigado pela atenção.
+[13:32] Atendente: Eu que agradeço, Fábio. Qualquer novidade, respondemos por aqui.
+---
+Resolução: Reclamação registrada e encaminhada à ouvidoria, com prazo de resposta de 10 dias úteis, e observação de prioridade anotada no caso vinculado ao pedido do cliente.

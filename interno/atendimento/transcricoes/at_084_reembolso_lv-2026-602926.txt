@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-602926 (REEMBOLSO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-602926
+Canal: chat do aplicativo
+Data: 24/02/2026
+Cliente: Mariana (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[19:05] Cliente: Oi. Paguei com Pix uma compra que cancelei. Quando eu recebo o reembolso?
+[19:07] Atendente: Oi, Mariana. Vou verificar o cancelamento. Você tem o número do pedido?
+[19:09] Cliente: Tenho sim, é o pedido de fevereiro.
+[19:11] Atendente: Localizei. O cancelamento foi aprovado e o reembolso é feito em até 10 dias úteis, na mesma forma de pagamento usada na compra.
+[19:13] Cliente: Pix, então volta para o Pix?
+[19:15] Atendente: Sim, na mesma forma de pagamento. O valor não passa pelo cartão, então não aparece em fatura.
+[19:17] Cliente: E a data de hoje conta?
+[19:19] Atendente: A contagem começa a partir da aprovação, em dias úteis. Como o cancelamento foi aprovado hoje, o prazo corre a partir de amanhã.
+[19:21] Cliente: Ok. Eu tinha pago com desconto de 5%, o desconto volta junto?
+[19:23] Atendente: O reembolso é do valor pago. O desconto de Pix já está refletido nesse valor, então o cálculo é feito sobre o que você desembolsou.
+[19:25] Cliente: Entendi. Tudo certo então.
+[19:27] Atendente: Isso. Se passar de 10 dias úteis sem o valor, responda por aqui com o número do pedido.
+[19:29] Cliente: E se passar dos 10 dias úteis, o que eu faço?
+[19:31] Atendente: Responda por aqui com o número do pedido, que eu abro a verificação com o financeiro.
+[19:33] Cliente: Obrigada, Gustavo.
+[19:35] Atendente: Por nada, Mariana. Tenha uma boa noite.
+---
+Resolução: Cancelamento de pedido pago com Pix aprovado, com reembolso em até 10 dias úteis na mesma forma de pagamento e orientação sobre a contagem do prazo a partir da aprovação.

@@ -1,0 +1,27 @@
+ATENDIMENTO LV-2026-579187 (PAGAMENTO)
+Protocolo: LV-2026-579187
+Canal: Chat do aplicativo
+Data: 2026-01-25
+Cliente: Carlos (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[21:30] Cliente: Boa noite. Gerei um boleto ontem e não paguei. Meu pedido sumiu do app.
+[21:32] Atendente: Boa noite, Carlos. Vou verificar. Pode me passar o número do pedido?
+[21:33] Cliente: Pedido 40218.
+[21:35] Atendente: Encontrei. O pedido foi cancelado porque o boleto venceu sem pagamento. Esse é o comportamento padrão do sistema.
+[21:36] Cliente: Mas eu ia pagar hoje cedo, quase deu.
+[21:38] Atendente: Entendo, mas a regra é clara: O boleto vence em 2 dias úteis após a emissão, e o pedido só fica ativo até o vencimento.
+[21:39] Cliente: Ah, eu achei que tinha mais tempo. Está irritante.
+[21:41] Atendente: Sei que é chato. Não tenho como reativar o mesmo pedido, mas posso ajudar a refazer a compra com a mesma forma de pagamento.
+[21:43] Cliente: E se eu pagar hoje o boleto antigo? Ainda vale?
+[21:44] Atendente: Não, depois do vencimento o boleto não é mais aceito. Gere um novo boleto pelo novo pedido.
+[21:46] Cliente: Ok. Refaz para mim então.
+[21:47] Atendente: Feito. O novo pedido tem o mesmo produto e o boleto aparece no carrinho. Pague dentro de 2 dias úteis para não perder de novo.
+[21:49] Cliente: Pode deixar, pago agora.
+[21:50] Atendente: Ótimo. Protocolo LV-2026-579187. Boa noite, Carlos.
+[21:52] Cliente: E o boleto tem desconto se eu pagar antes?
+[21:54] Atendente: Não há desconto no boleto. O desconto de 5% é só do Pix, e o cartão pode ser parcelado em até 10 vezes sem juros.
+[21:55] Cliente: Ah, então da próxima vez vou de Pix.
+[21:56] Atendente: Boa escolha, desde que pague dentro dos 30 minutos de validade do código.
+---
+Resolução: boleto vencido e pedido cancelado automaticamente, sem reativação do pedido anterior. O cliente refez a compra com novo boleto e foi orientado a pagar dentro do prazo.

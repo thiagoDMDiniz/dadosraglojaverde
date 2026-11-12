@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-391149 (CLUBE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-391149
+Canal: telefone (SAC)
+Data: 12/05/2026
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Otto
+---
+[09:02] Cliente: Oi, rápido. Quantos pontos eu ganho em uma compra de R$ 600?
+[09:04] Atendente: Bom dia, Lucas. Lembre que cada R$ 1 gasto vale 3 pontos. Então uma compra de R$ 600 gera 1800 pontos.
+[09:06] Cliente: E o resgate? Quanto vale?
+[09:08] Atendente: A cada 1000 pontos acumulados, você resgata R$ 10 de desconto. Escrevendo sem o ponto, são 1000 pontos por R$ 10.
+[09:10] Cliente: E no meu caso, quanto dá?
+[09:12] Atendente: Com 1800 pontos, o resgate de 1000 gera R$ 10 de desconto, e sobram 800 pontos para a próxima vez.
+[09:14] Cliente: Só isso? Achei que fosse mais.
+[09:16] Atendente: Os pontos valem mais quando somados. Por isso, muitos clientes acumulam antes de resgatar.
+[09:18] Cliente: E esses pontos não vencem?
+[09:20] Atendente: Os pontos expiram 12 meses depois da data da compra, então é bom usar antes desse prazo.
+[09:22] Cliente: Entendi. Vou usar no próximo mês.
+[09:24] Atendente: Ótimo. Os pontos aparecem no aplicativo, na área do Clube Verde, com a data de cada compra.
+[09:26] Cliente: E se eu fizer uma compra de R$ 50, ganho pontos também?
+[09:28] Atendente: Sim. Cada R$ 1 gasto vale 3 pontos, então R$ 50 geram 150 pontos, que se somam aos demais.
+[09:30] Cliente: Valeu, Otto.
+[09:32] Atendente: Até mais, Lucas.
+---
+Resolução: Cliente informado de que cada R$ 1 gasto vale 3 pontos, de que a cada 1000 pontos acumulados há R$ 10 de desconto, e de que os pontos expiram 12 meses depois da data da compra.

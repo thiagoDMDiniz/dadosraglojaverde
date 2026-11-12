@@ -1,0 +1,22 @@
+ATENDIMENTO LV-2026-203382 (PRIVACIDADE)
+USO INTERNO
+Protocolo: LV-2026-203382
+Canal: balcão da loja
+Data: 25/06/2026
+Cliente: Mariana (CPF ***.***.***-**)
+Atendente: Natália
+---
+[16:20] Cliente: Boa tarde. Quero que apaguem todos os meus dados do cadastro de vocês. Dá para fazer aqui?
+[16:22] Atendente: Boa tarde, Mariana. Aqui é a Natália. Esse pedido é tratado pela equipe de privacidade, e eu posso registrar a solicitação agora mesmo.
+[16:23] Cliente: Tá. Mas e os meus pedidos antigos? Vocês vão apagar tudo?
+[16:25] Atendente: Os dados de compra são guardados por 5 anos, por exigência legal. Por isso alguns registros podem permanecer, mesmo após o pedido de exclusão.
+[16:26] Cliente: E o que mais vocês têm de mim?
+[16:28] Atendente: Além do cadastro, a loja mantém o histórico de compras e as preferências de contato. A equipe de privacidade vai responder sobre cada item.
+[16:30] Cliente: Hm. E se eu quiser só parar de receber mensagem?
+[16:31] Atendente: Essa opção também pode ser pedida na mesma solicitação. Vou deixar isso anotado para que a resposta cubra os dois pontos.
+[16:33] Cliente: Ok. Me passa o contato para acompanhar.
+[16:34] Atendente: O e-mail da equipe é privacidade@lojaverde.example. A resposta chega em até 15 dias, e a solicitação já está registrada com o protocolo LV-2026-203382.
+[16:36] Cliente: Ótimo. Obrigada.
+[16:36] Atendente: Pode contar com a gente, Mariana. Se precisar de algo mais, a unidade Lourdes segue atendendo.
+---
+Resolução: A solicitação de exclusão de dados foi registrada. A cliente foi informada de que os dados de compra são guardados por 5 anos e de que a resposta será enviada pelo e-mail privacidade@lojaverde.example em até 15 dias.

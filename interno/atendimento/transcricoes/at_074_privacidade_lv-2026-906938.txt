@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-906938 (PRIVACIDADE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-906938
+Canal: telefone (SAC)
+Data: 06/04/2026
+Cliente: Aline (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[09:01] Cliente: Preciso que apaguem meus dados. Estou com pressa, pode ser rápido?
+[09:03] Atendente: Bom dia, Aline. Vou registrar o pedido de exclusão. Primeiro, confirme o e-mail cadastrado na conta, sem informar senha.
+[09:05] Cliente: É o e-mail pessoal que uso desde 2019.
+[09:07] Atendente: Registrado. Esse tipo de pedido é tratado pelo canal de privacidade, que responde em até 15 dias.
+[09:09] Cliente: Pode mandar por aqui mesmo?
+[09:11] Atendente: O pedido formal deve ser enviado para privacidade@lojaverde.example, com o protocolo deste atendimento no assunto. Eu já deixei a anotação na sua ficha.
+[09:13] Cliente: E o histórico de pedidos também?
+[09:15] Atendente: Os dados de compra são guardados por 5 anos, conforme a legislação. Por isso, alguns registros de pedidos não podem ser apagados antes desse prazo.
+[09:17] Cliente: Mas os cadastros e as preferências de e-mail eu consigo tirar?
+[09:19] Atendente: Sim, esses podem ser revistos no pedido. Na resposta, informamos o que foi excluído e o que precisa ser mantido por obrigação legal.
+[09:21] Cliente: Está bom. Quero o protocolo por escrito.
+[09:23] Atendente: O número é o do cabeçalho deste atendimento. Ele também aparece no seu histórico de contato, no aplicativo.
+[09:25] Cliente: Só mais uma coisa: o meu telefone também sai da base?
+[09:27] Atendente: Sim, os dados de contato podem ser excluídos no pedido. Os dados de compra seguem guardados por 5 anos.
+[09:29] Cliente: Obrigada, era isso.
+[09:31] Atendente: Tenha um bom dia, Aline.
+---
+Resolução: Pedido de exclusão de dados registrado com o protocolo deste atendimento e encaminhado ao canal de privacidade, com aviso de que os dados de compra são mantidos por 5 anos.

@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-805251 (PRODUTO)
+Protocolo: LV-2026-805251
+Canal: Balcão da loja
+Data: 2026-03-17
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Otto
+---
+[14:05] Cliente: Boa tarde. Vocês têm o smartphone da vitrine em estoque? Estou em Betim e queria ver antes de comprar.
+[14:07] Atendente: Boa tarde, Lucas. Aqui em Betim o modelo está esgotado, mas consigo verificar na Pampulha. Um momento.
+[14:10] Cliente: Pode ver, por favor.
+[14:12] Atendente: Tem unidade disponível na Pampulha, na cor preta. Quer que eu reserve?
+[14:13] Cliente: Quero, mas a reserva é de quanto tempo?
+[14:14] Atendente: A reserva é feita pelo aplicativo, e a validade aparece na tela de confirmação. Eu não consigo estender o prazo pelo balcão.
+[14:16] Cliente: Ok. Como eu faço pelo aplicativo?
+[14:17] Atendente: Abra o aplicativo, procure o produto, escolha a opção de reserva em loja e selecione a unidade Pampulha. Depois confirme.
+[14:20] Cliente: Achei. Fiz a reserva agora.
+[14:21] Atendente: Perfeito. Você pode retirar na Pampulha com documento com foto e o número da reserva. A loja tem horário das 9h às 21h, de segunda a sábado.
+[14:23] Cliente: Vou passar lá amanhã. Obrigado.
+[14:24] Atendente: Combinado. Protocolo LV-2026-805251. Até amanhã, Lucas.
+[14:25] Cliente: E se eu chegar lá e o aparelho tiver outra cor?
+[14:27] Atendente: A reserva vale para o modelo e a cor escolhidos. Se mudar a cor, a reserva deve ser refeita pelo aplicativo, por isso confirme antes de sair de casa.
+[14:28] Cliente: Certo. Vou conferir a cor no app.
+[14:29] Atendente: Boa ideia. Assim não há surpresa na retirada.
+---
+Resolução: smartphone indisponível em Betim, com reserva feita pelo aplicativo para retirada na unidade Pampulha. O cliente foi orientado a levar documento com foto e o número da reserva.

@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-273939 (FRETE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-273939
+Canal: chat do site
+Data: 18/06/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[19:15] Cliente: Boa noite. Estou finalizando a compra e aparece um código de erro na tela. Que código é esse?
+[19:17] Atendente: Boa noite, Sérgio. Pode me dizer o código exato que aparece?
+[19:19] Cliente: ERR-7142. Não consigo seguir para o pagamento.
+[19:21] Atendente: Obrigada. O código ERR-7142 indica que o endereço informado não é atendido pela transportadora.
+[19:23] Cliente: Mas é um endereço normal, aqui em Santa Luzia.
+[19:25] Atendente: Entendo. Isso ocorre quando o CEP não tem cobertura de entrega para aquela região. Você pode conferir o CEP digitado e tentar de novo.
+[19:27] Cliente: Já conferi três vezes. Não muda nada.
+[19:29] Atendente: Então a alternativa é a retirada na loja, que não depende da transportadora.
+[19:31] Cliente: E então eu pego na loja mesmo?
+[19:33] Atendente: Sim. Escolha a retirada na unidade mais próxima no fim da compra. Ela fica liberada a partir de 4 horas depois da confirmação do pagamento.
+[19:35] Cliente: E se eu escolher a loja Pampulha?
+[19:37] Atendente: Pampulha funciona das 9h às 21h de segunda a sábado, com estacionamento próprio gratuito e 220 vagas. Pode ser a melhor opção para você.
+[19:39] Cliente: Esse erro acontece com outros CEPs do bairro?
+[19:41] Atendente: Pode acontecer, porque a cobertura é por endereço. Se o CEP completo estiver certo e o erro continuar, a retirada na loja é a saída.
+[19:43] Cliente: Ok, vou fazer assim então. Obrigado, Bruna.
+[19:45] Atendente: Por nada, Sérgio. Se o erro voltar, me chame por aqui com o código.
+---
+Resolução: Cliente orientado de que o código ERR-7142 indica que o endereço não é atendido pela transportadora, com a alternativa de retirada na loja, liberada a partir de 4 horas após a confirmação do pagamento.

@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-515470 (GARANTIA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-515470
+Canal: telefone (SAC)
+Data: 01/03/2026
+Cliente: Tatiane (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[10:10] Cliente: Estou ligando pela terceira vez. Meu aparelho está na assistência há mais de um mês. Quero uma solução.
+[10:12] Atendente: Bom dia, Tatiane. Entendo a demora. Vou consultar o chamado e o status do reparo.
+[10:14] Cliente: Eu desconfio que vocês estão enrolando, sempre dizem que vai resolver.
+[10:16] Atendente: Compreendo a desconfiança. Pelo registro, o reparo passou de 30 dias, e isso dá ao cliente direito de escolha.
+[10:18] Cliente: Que escolha?
+[10:20] Atendente: O prazo máximo de reparo é de 30 dias. Depois dele, você escolhe entre troca, devolução do valor ou abatimento.
+[10:22] Cliente: Hum. E qual dessas é mais rápida?
+[10:24] Atendente: A troca depende de estoque do mesmo modelo. A devolução do valor segue a forma de pagamento, e o abatimento é aplicado na próxima compra.
+[10:26] Cliente: Eu prefiro a devolução, não quero mais esse aparelho.
+[10:28] Atendente: Certo, vou registrar essa escolha no chamado. Você recebe a confirmação por e-mail.
+[10:30] Cliente: Quanto tempo leva para o dinheiro voltar?
+[10:32] Atendente: Depois de aprovada a devolução, o reembolso é feito em até 10 dias úteis, na mesma forma de pagamento usada na compra.
+[10:34] Cliente: E o aparelho fica com a assistência até quando?
+[10:36] Atendente: Até a resolução do chamado. Depois da escolha, você acompanha cada etapa pelo aplicativo, em Meus Pedidos.
+[10:38] Cliente: Está bem. Confirme então.
+[10:40] Atendente: Confirmado, Tatiane. Se o prazo não for cumprido, responda ao e-mail com o número do chamado.
+---
+Resolução: Reparo que passou do prazo máximo de 30 dias teve a escolha da cliente registrada no chamado, optando pela devolução do valor, com reembolso em até 10 dias úteis após a aprovação.

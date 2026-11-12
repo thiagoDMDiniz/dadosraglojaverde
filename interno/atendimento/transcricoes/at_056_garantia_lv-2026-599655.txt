@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-599655 (GARANTIA)
+USO INTERNO
+Protocolo: LV-2026-599655
+Canal: WhatsApp oficial
+Data: 06/06/2026
+Cliente: Mariana (CPF ***.***.***-**)
+Atendente: Otto
+---
+[08:40] Cliente: Oi, Otto. Mandei um aspirador para o conserto há mais de um mês e ninguém me deu retorno. Preciso disso logo.
+[08:42] Atendente: Oi, Mariana. Aqui é o Otto. Vou consultar o chamado. Você tem o número do protocolo do conserto?
+[08:43] Cliente: Tenho, vou mandar aqui.
+[08:45] Atendente: Recebi. O prazo máximo de reparo é de 30 dias, e esse chamado já passou desse prazo.
+[08:46] Cliente: Pois é. E agora? Eu não quero ficar esperando mais.
+[08:47] Atendente: Entendo. Depois dos 30 dias, você pode escolher entre três opções: troca do produto, devolução do valor ou abatimento.
+[08:49] Cliente: Hm. Eu prefiro a devolução do valor.
+[08:50] Atendente: Certo. Vou registrar a sua escolha no chamado. Antes de confirmar, você quer seguir com a troca ou com o abatimento, caso queira manter o aparelho?
+[08:52] Cliente: Não, a devolução mesmo. Mas e se o aspirador já estiver quase consertado?
+[08:53] Atendente: Nesse caso a assistência informa a situação. Mas a escolha é sua, e a decisão precisa ser registrada aqui.
+[08:55] Cliente: Ok. Então pode seguir com a devolução.
+[08:56] Atendente: Registrado. A equipe financeira informa o prazo de reembolso, que é contado a partir da aprovação.
+[08:58] Cliente: Obrigada, Otto.
+[08:58] Atendente: Bom dia, Mariana!
+---
+Resolução: Reparo de aspirador com prazo vencido, acima de 30 dias. A cliente escolheu a devolução do valor, opção entre troca, devolução do valor e abatimento, e a decisão foi registrada no chamado.

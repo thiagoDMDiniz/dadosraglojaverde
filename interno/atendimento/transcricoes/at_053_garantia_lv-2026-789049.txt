@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-789049 (GARANTIA)
+USO INTERNO
+Protocolo: LV-2026-789049
+Canal: chat do site
+Data: 14/03/2026
+Cliente: Mariana (CPF ***.***.***-**)
+Atendente: Natália
+---
+[19:30] Cliente: Boa noite. Meu celular parou de ligar sozinho, e ele tem uns 8 meses de uso. Tem garantia ainda?
+[19:32] Atendente: Boa noite, Mariana. Aqui é a Natália. Eletrônicos têm garantia de 12 meses contra defeitos de fabricação, a partir da entrega.
+[19:33] Cliente: Então ainda está dentro do prazo?
+[19:35] Atendente: Sim. Como a compra foi entregue há 8 meses, o aparelho está coberto pela garantia de fabricação.
+[19:36] Cliente: E se eu tiver deixado cair?
+[19:38] Atendente: Quedas não são cobertas. A garantia não inclui danos causados por queda, contato com líquidos, oscilação da rede elétrica ou uso em desacordo com o manual.
+[19:39] Cliente: Ah, não caí. Ele simplesmente desligou sozinho.
+[19:41] Atendente: Nesse caso, a abertura do chamado é feita pelo aplicativo, e a assistência autorizada faz a avaliação técnica.
+[19:42] Cliente: Como eu abro o chamado?
+[19:44] Atendente: Entre no aplicativo, vá em Meus Pedidos, escolha o produto e selecione a opção de assistência. O chamado sai com o seu protocolo.
+[19:46] Cliente: Ok. E se tiver que consertar, quanto tempo leva?
+[19:47] Atendente: O prazo máximo de reparo é de 30 dias. Se passar disso, você escolhe entre troca, devolução do valor ou abatimento.
+[19:49] Cliente: Bem, vou abrir o chamado agora.
+[19:50] Atendente: Perfeito, Mariana. Se o lacre estiver violado, a garantia não se aplica, então mantenha o aparelho como está.
+---
+Resolução: Celular com 8 meses de uso e defeito de funcionamento, dentro da garantia de 12 meses. A cliente foi orientada a abrir chamado pelo aplicativo para avaliação da assistência autorizada.

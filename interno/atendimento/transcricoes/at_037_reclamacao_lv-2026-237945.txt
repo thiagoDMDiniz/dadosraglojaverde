@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-237945 (RECLAMAÇÃO)
+USO INTERNO
+Protocolo: LV-2026-237945
+Canal: chat do site
+Data: 04/04/2026
+Cliente: Ricardo (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[09:40] Cliente: Quero reclamar. Comprei uma cafeteira no site, veio com a tampa trincada e ninguém responde meus e-mails.
+[09:42] Atendente: Bom dia, Ricardo. Aqui é a Priscila. Sinto muito pela situação. Vou registrar a sua reclamação com todas as informações.
+[09:44] Cliente: Já tentei três vezes. Nada.
+[09:45] Atendente: Entendo a frustração. Antes de tudo, você já pediu a troca pelo aplicativo?
+[09:47] Cliente: Pedi, mas disseram que não era possível. E agora?
+[09:48] Atendente: O produto com defeito pode ser reclamado dentro do prazo de garantia, e a resolução é feita em até 30 dias. Vou abrir o registro com o número do pedido.
+[09:50] Cliente: E se não der certo?
+[09:51] Atendente: Se não ficar satisfeito com a resposta, você pode procurar a ouvidoria pelo e-mail ouvidoria@lojaverde.example. O prazo de resposta da ouvidoria é de 10 dias úteis.
+[09:53] Cliente: Dez dias. Isso é muito.
+[09:54] Atendente: Eu sei. Mas o registro fica com o seu protocolo, e você pode acompanhar a qualquer momento.
+[09:56] Cliente: Tá. Manda o protocolo então.
+[09:57] Atendente: Está registrado sob o protocolo LV-2026-237945. Também deixei anotado o relato da trinca na tampa, com fotos se você as tiver.
+[09:59] Cliente: Tenho sim, eu mando.
+[10:00] Atendente: Ótimo. Pode enviar as fotos por este mesmo chat ou pelo WhatsApp oficial, (31) 99000-0100.
+---
+Resolução: A reclamação sobre a cafeteira com tampa trincada foi registrada sob o protocolo LV-2026-237945. O cliente foi informado de que a ouvidoria responde em 10 dias úteis, pelo e-mail ouvidoria@lojaverde.example.

@@ -1,0 +1,27 @@
+ATENDIMENTO LV-2026-737095 (TROCA)
+Protocolo: LV-2026-737095
+Canal: chat do aplicativo
+Data: 27/07/2026
+Unidade/origem: e-commerce
+Cliente: Fábio (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[09:12] Cliente: Boa tarde. Comprei um fone de ouvido no site e ele fez um ruído estranho depois de duas semanas. Quero trocar.
+[09:14] Atendente: Boa tarde, Fábio. Sinto muito pelo problema. Vou verificar seu pedido. Pode me informar o número do pedido ou o e-mail da compra?
+[09:15] Cliente: Pedido não tenho aqui, mas a compra foi em junho. Acho que dá para ver pelo meu CPF.
+[09:17] Atendente: Localizei a compra. A entrega foi registrada há mais tempo que o prazo de troca de 30 dias corridos após a entrega. Preciso verificar a situação com o supervisor.
+[09:19] Cliente: Como assim, passou? Eu nem usei direito.
+[09:21] Atendente: Entendo. O prazo para troca de qualquer produto é de 30 dias corridos após a entrega, com o item sem sinais de uso e na embalagem original. Vou registrar a análise.
+[09:24] Cliente: e a garantia? é defeito, não é arrependimento.
+[09:26] Atendente: Para defeito, a reclamação precisa ser feita em até 30 dias para produtos não duráveis ou em até 90 dias para duráveis. Como o fone é um produto de uso contínuo, vou verificar a classificação correta antes de responder.
+[09:31] Cliente: beleza. enquanto isso, e se eu tiver o cupom?
+[09:32] Atendente: Os cupons vigentes não alteram o prazo de troca, mas vou informar o gerente sobre a sua situação.
+[09:40] Atendente: Fábio, o gerente analisou o caso e aprovou a troca. A devolução segue o procedimento padrão.
+[09:41] Cliente: sério? obrigado. e se eu tiver comprado na promoção?
+[09:43] Atendente: Para produtos comprados em promoção, a troca é feita somente por vale-compras, válido por 120 dias a partir da emissão, sem devolução em dinheiro. Não consigo confirmar se a sua compra entrou na promoção sem ver o pedido completo.
+[09:45] Cliente: não lembro. era aquele de 20% que apareceu no app.
+[09:47] Atendente: Vou conferir na sequência. Se a compra foi promocional, você recebe o vale-compras. Se não foi, a devolução segue em dinheiro na mesma forma de pagamento.
+[09:58] Cliente: ok, pode gerar a etiqueta.
+[10:01] Atendente: Etiqueta gerada. Ela chega por e-mail em até 24 horas. Acesse o aplicativo, Meus Pedidos, Trocar ou devolver, para acompanhar o envio.
+---
+Resolução: Gerente autorizou a troca como exceção, com base em tolerância de 7 dias (uso interno, não comunicada ao cliente), após o prazo oficial de 30 dias já vencido há 3 dias. Atendente confirmou as regras de promoção e de reembolso ao cliente.

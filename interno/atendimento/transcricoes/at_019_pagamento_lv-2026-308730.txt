@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-308730 (PAGAMENTO)
+Protocolo: LV-2026-308730
+Canal: Chat do site
+Data: 2026-10-03
+Cliente: Marcos (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[15:40] Cliente: Pedido cancelado do nada. Paguei no Pix e apareceu uma mensagem com erro. Que palhaçada.
+[15:42] Atendente: Boa tarde, Marcos. Entendo a irritação. Pode me dizer o código que apareceu na tela?
+[15:43] Cliente: ERR-4217.
+[15:44] Atendente: Obrigada. O código ERR-4217 indica que o pagamento por Pix não foi confirmado em 30 minutos.
+[15:45] Cliente: Mas eu paguei! Tenho o comprovante aqui.
+[15:46] Atendente: Pelo sistema, o Pix não chegou dentro do prazo de 30 minutos. Por isso o pedido foi cancelado automaticamente.
+[15:48] Cliente: E cobraram o dinheiro?
+[15:49] Atendente: Não. Nenhum valor foi cobrado no cancelamento. Se o pagamento saiu da sua conta, o banco acerta a devolução, e a loja não tem cobrança pendente.
+[15:50] Cliente: E agora? Eu quero o produto.
+[15:51] Atendente: Você pode fazer um novo pedido e pagar de novo. O Pix tem desconto de 5% e expira em 30 minutos, então vale pagar logo depois de gerar o código.
+[15:53] Cliente: Mas e se eu pagar e demorar?
+[15:54] Atendente: Se o Pix for pago depois de 30 minutos, o sistema não aceita. Nesse caso, a loja não consegue reabrir o pedido.
+[15:56] Cliente: Ok, faço de novo então. Pode me passar o link?
+[15:57] Atendente: Vou te enviar pelo próprio carrinho. Mantenha o aplicativo do banco aberto para pagar rápido.
+[15:59] Cliente: Combinado. Obrigado.
+[16:00] Atendente: Protocolo LV-2026-308730. Bom pagamento, Marcos.
+---
+Resolução: pedido cancelado porque o Pix não foi confirmado em 30 minutos, sem cobrança pelo cancelamento. O cliente foi orientado a fazer um novo pedido e a pagar dentro do prazo.

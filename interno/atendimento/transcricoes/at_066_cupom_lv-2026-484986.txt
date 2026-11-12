@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-484986 (CUPOM)
+USO INTERNO
+Protocolo: LV-2026-484986
+Canal: chat do aplicativo
+Data: 05/07/2026
+Cliente: Ana (CPF ***.***.***-**)
+Atendente: Otto
+---
+[17:10] Cliente: Oi! Vi que tem um cupom de boas-vindas. Posso usar na minha primeira compra no app?
+[17:12] Atendente: Oi, Ana! Aqui é o Otto. Sim, o cupom BEMVINDO10 é para a primeira compra feita pelo aplicativo.
+[17:13] Cliente: E quanto ele dá?
+[17:14] Atendente: São 10% de desconto, limitado a R$ 80 de desconto no total.
+[17:15] Cliente: Ah, e se eu pagar no Pix?
+[17:16] Atendente: O BEMVINDO10 não é cumulativo com o Pix. Ou você usa o cupom, ou o desconto do Pix, não os dois.
+[17:18] Cliente: Hm. Qual é melhor então?
+[17:19] Atendente: Depende do valor da compra. Faça as duas contas no carrinho antes de finalizar, que o sistema mostra o total de cada opção.
+[17:21] Cliente: Certo. E se eu parcelar? O cupom vale no cartão?
+[17:22] Atendente: O cupom pode ser usado com o cartão, mas o desconto do Pix não se combina com parcelamento. Se for parcelado no cartão, o cupom continua valendo.
+[17:24] Cliente: Ok. Vou simular as duas formas.
+[17:25] Atendente: Perfeito. E se o cupom não aparecer, verifique se a compra é a primeira feita pelo aplicativo.
+[17:27] Cliente: Obrigada, Otto. Vou olhar agora.
+[17:27] Atendente: Bom proveito, Ana!
+---
+Resolução: A cliente foi informada do cupom BEMVINDO10, que dá 10% de desconto na primeira compra pelo aplicativo, limitado a R$ 80, e que não é cumulativo com Pix. A cliente vai comparar as formas de pagamento no carrinho.

@@ -1,0 +1,22 @@
+ATENDIMENTO LV-2026-134513 (FRETE)
+Protocolo: LV-2026-134513
+Canal: Balcão da loja
+Data: 2026-06-28
+Cliente: Juliana (CPF ***.***.***-**)
+Atendente: Otto
+---
+[15:10] Cliente: Boa tarde. Quero saber o prazo de entrega para o meu endereço em Belo Horizonte.
+[15:11] Atendente: Boa tarde, Juliana. Para capitais do Sudeste, a entrega padrão leva até 3 dias úteis depois da confirmação do pagamento.
+[15:12] Cliente: Está demorando. Já paguei hoje cedo.
+[15:13] Atendente: Entendo a irritação. O prazo conta a partir da confirmação do pagamento. Se o pagamento foi hoje cedo, a previsão aparece no pedido, no aplicativo.
+[15:15] Cliente: E para o interior?
+[15:16] Atendente: Para o interior do Sudeste, a entrega padrão leva até 8 dias úteis. O frete grátis, na região, vale acima de R$ 199.
+[15:17] Cliente: Eu moro em Sete Lagoas, que é interior. Então são 8 dias?
+[15:18] Atendente: Sim, nesse caso, o limite é de 8 dias úteis. A previsão exata sai no rastreamento assim que o pedido sair do centro de distribuição.
+[15:20] Cliente: Eu preciso disso para uma data específica. Tem como acelerar?
+[15:21] Atendente: Para o seu caso, a retirada na loja é uma opção. A partir de 4 horas depois da confirmação do pagamento, o pedido fica pronto para retirada, e ele fica disponível por 7 dias corridos.
+[15:23] Cliente: Ah, então sim. Posso retirar na Pampulha?
+[15:24] Atendente: Pode. Leve documento com foto e o número do pedido.
+[15:25] Cliente: Combinado. Obrigada.
+---
+Resolução: cliente informada sobre o prazo de até 3 dias úteis para capitais e de até 8 dias úteis para o interior do Sudeste. Ela optou pela retirada na loja da Pampulha para cumprir a data necessária.

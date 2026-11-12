@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-262763 (FRETE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-262763
+Canal: chat do aplicativo
+Data: 20/08/2026
+Cliente: Ana (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[18:11] Cliente: Oi. Moro em Salvador. A partir de que valor o frete é grátis?
+[18:12] Atendente: Oi, Ana. Para a sua região, o frete é grátis acima de R$ 299.
+[18:14] Cliente: Hum, Salvador é Nordeste, então não é aquele valor de 199?
+[18:15] Atendente: Isso mesmo. O limite de R$ 199 vale só para o Sudeste. Nas demais regiões, incluindo o Nordeste, o valor é acima de R$ 299.
+[18:17] Cliente: E se eu comprar R$ 250?
+[18:18] Atendente: Nesse caso o frete é cobrado normalmente. Se você acrescentar um item, o total passa de R$ 299 e o frete deixa de ser cobrado.
+[18:20] Cliente: Entendi. E o prazo para Salvador?
+[18:21] Atendente: Na região Nordeste, a entrega padrão leva até 7 dias úteis para a capital e até 12 dias úteis para o interior, a contar da confirmação do pagamento.
+[18:23] Cliente: Ok, então sou capital. Mas as taxas de entrega expressa e agendada?
+[18:24] Atendente: A entrega expressa é só para capitais do Sudeste, com pedidos aprovados até 12h. A agendada, de manhã ou à tarde, tem taxa de R$ 14,90.
+[18:26] Cliente: Então para mim é a padrão mesmo.
+[18:27] Atendente: Sim. Se quiser, ao finalizar o pedido o próprio carrinho mostra o valor do frete para o seu CEP.
+[18:29] Cliente: Perfeito, obrigada pela clareza.
+[18:30] Atendente: Por nada, Ana. Bom final de semana.
+---
+Resolução: Cliente informada de que o frete é grátis acima de R$ 299 no Nordeste, com prazo padrão de até 7 dias úteis para a capital, e de que a entrega expressa é restrita ao Sudeste.

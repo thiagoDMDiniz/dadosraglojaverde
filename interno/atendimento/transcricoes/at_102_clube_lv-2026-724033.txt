@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-724033 (CLUBE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-724033
+Canal: balcão da loja
+Data: 08/04/2026
+Cliente: Fábio (CPF ***.***.***-**)
+Atendente: Otto
+---
+[18:20] Cliente: Boa tarde. Eu tinha pontos do Clube Verde e agora não aparecem mais. Vocês sumiram com eles?
+[18:22] Atendente: Boa tarde, Fábio. Vou consultar seu extrato de pontos. Você se lembra de quando fez as compras?
+[18:24] Cliente: Compras de um ano atrás, mais ou menos.
+[18:26] Atendente: Entendo a sua frustração. Pelo extrato, esses pontos expiraram. Os pontos expiram 12 meses depois da data da compra.
+[18:28] Cliente: Mas ninguém me avisou! Isso é golpe, fazer pontos sumirem.
+[18:30] Atendente: Compreendo o incômodo. A regra vale para todos os clientes e está descrita no regulamento do Clube Verde, disponível no aplicativo.
+[18:32] Cliente: Eu nunca li regulamento nenhum.
+[18:34] Atendente: Faz sentido. Por isso, sempre que você fizer uma compra, vale checar a data dos pontos no aplicativo antes do prazo.
+[18:36] Cliente: E há algum jeito de recuperar?
+[18:38] Atendente: Pontos expirados não são reativados. Mas os pontos que ainda estão dentro de 12 meses continuam disponíveis e podem ser resgatados.
+[18:40] Cliente: Certo. Então me mostra o que ainda tenho.
+[18:42] Atendente: Vou mostrar agora na tela. Os pontos que restam aparecem separados por data de compra, e você decide o resgate.
+[18:44] Cliente: E quando eu ganhar mais pontos, eles voltam?
+[18:46] Atendente: Os pontos novos entram normalmente, com a data da nova compra. Cada compra começa sua contagem de 12 meses.
+[18:48] Cliente: Ok. Anota aí que não gostei nada disso.
+[18:50] Atendente: Anotado, Fábio. Registrei sua manifestação no atendimento, com o protocolo deste caso.
+---
+Resolução: Cliente informado de que os pontos expiram 12 meses depois da data da compra, com os pontos vencidos não reativados e a manifestação registrada no protocolo deste atendimento.

@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-930629 (SUSTENTABILIDADE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-930629
+Canal: WhatsApp oficial
+Data: 28/03/2026
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[08:45] Cliente: Tenho um celular antigo parado em casa. Onde eu descarto e tem alguma vantagem?
+[08:46] Atendente: Bom dia, Lucas. Temos o programa Recicla Verde para eletrônicos usados. Você pode levar o aparelho a uma das nossas unidades, que fica no mesmo setor de Jardim e Sustentabilidade.
+[08:48] Cliente: Qualquer unidade aceita? Não tinha visto isso no app.
+[08:49] Atendente: Aceita. Basta entregar o aparelho no balcão e dizer que é para o programa. O destino é a reciclagem correta, e a equipe confirma o recebimento com o número do atendimento.
+[08:51] Cliente: E a vantagem, existe mesmo?
+[08:52] Atendente: Existe. Depois de entregar um eletrônico usado no programa, você recebe o cupom RECICLA20, de R$ 20 de desconto na compra seguinte, em compras acima de R$ 200.
+[08:54] Cliente: Só acima de 200? Eu compro pouca coisa.
+[08:55] Atendente: Sim, o valor mínimo é esse. O cupom vale para a compra seguinte à entrega do aparelho.
+[08:57] Cliente: E se a compra for de R$ 150?
+[08:58] Atendente: Nesse caso o cupom não é aplicado. Vale a pena aguardar uma compra maior, mas o descarte continua sendo a melhor destinação.
+[09:00] Cliente: Ok. Preciso apagar os dados do celular antes?
+[09:01] Atendente: Sim, faça o backup e a redefinição de fábrica, e retire o chip e o cartão de memória.
+[09:03] Cliente: Certo, vou fazer isso no fim de semana.
+[09:04] Atendente: Perfeito, Lucas. Guarde o número deste atendimento para acompanhar o recebimento do aparelho.
+---
+Resolução: Cliente orientado sobre o descarte de eletrônico usado no programa Recicla Verde e sobre o cupom RECICLA20, válido em compra acima de R$ 200 após a entrega do aparelho.

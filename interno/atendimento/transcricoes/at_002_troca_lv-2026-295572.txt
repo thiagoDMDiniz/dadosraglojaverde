@@ -1,0 +1,22 @@
+ATENDIMENTO LV-2026-295572 (TROCA)
+Protocolo: LV-2026-295572
+Canal: WhatsApp oficial
+Data: 2026-10-17
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[14:02] Cliente: Oi! Comprei um fone na promoção semana passada e mudei de ideia. Quero o dinheiro de volta, sem vale.
+[14:04] Atendente: Oi, Cláudia, tudo bem? Vou te ajudar. Você recebeu o fone há quantos dias?
+[14:05] Cliente: Recebi faz 9 dias, a caixa está fechada.
+[14:07] Atendente: Obrigado. O prazo para troca é de até 30 dias corridos após a entrega, então você está dentro dele. Mas preciso ser transparente: como o fone foi comprado em promoção, não há devolução em dinheiro.
+[14:08] Cliente: Hmm. E se foi na promoção?
+[14:09] Atendente: Nesse caso, a troca é feita somente por vale-compras, válido por 120 dias a partir da emissão. Não é possível converter o valor em dinheiro.
+[14:11] Cliente: Ninguém me avisou que era promoção quando comprei.
+[14:12] Atendente: Entendo que isso frustra. Consigo conferir no pedido se o preço foi registrado como promocional. Um momento, por favor.
+[14:16] Cliente: Pode ser. Estava com desconto de vitrine.
+[14:17] Atendente: Confirmado, o item entrou como promocional. Então a regra se aplica. Posso seguir com a troca por vale-compras ou prefere manter o fone e avaliar outra opção?
+[14:19] Cliente: Vou pegar o vale então. Mas quero o pedido com a observação.
+[14:20] Atendente: Combinado. A observação já está no pedido e o protocolo é LV-2026-295572. Obrigado pela compreensão, Cláudia.
+[14:21] Cliente: Valeu, Vinícius. Boa tarde!
+---
+Resolução: troca em promoção convertida em vale-compras, somente por vale-compras, válido por 120 dias a partir da emissão, sem devolução em dinheiro. A cliente aceitou a condição depois da confirmação do preço promocional no pedido.

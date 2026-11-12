@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-805548 (FRETE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-805548
+Canal: chat do site
+Data: 26/03/2026
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[20:40] Cliente: Boa noite. Quero saber o prazo de entrega. Moro em Belo Horizonte.
+[20:41] Atendente: Boa noite, Lucas. Para capitais do Sudeste, a entrega padrão é em até 3 dias úteis após a confirmação do pagamento.
+[20:43] Cliente: E o frete? Meu pedido vai dar uns R$ 180.
+[20:44] Atendente: Na região Sudeste, o frete é grátis acima de R$ 199. Com R$ 180, o frete é cobrado normalmente.
+[20:46] Cliente: Ok. E para o interior?
+[20:47] Atendente: Para o interior do Sudeste, o prazo padrão é de até 8 dias úteis após a confirmação do pagamento. O limite de frete grátis continua sendo acima de R$ 199.
+[20:49] Cliente: Minha mãe mora em Divinópolis, então seria o interior.
+[20:50] Atendente: Isso. Nesse caso o prazo é de até 8 dias úteis, e o endereço de entrega define a região, não a loja de retirada.
+[20:52] Cliente: E se eu escolher a retirada na loja, o prazo é o mesmo?
+[20:53] Atendente: Na retirada, o pedido fica disponível a partir de 4 horas depois da confirmação do pagamento, com documento com foto. Não há prazo de transporte.
+[20:55] Cliente: Entendi. Vou escolher a entrega, pois ela vai para a minha mãe.
+[20:56] Atendente: Perfeito. Você pode acompanhar o pedido pelo e-mail ou SMS, que avisam quando sai do centro de distribuição.
+[20:58] Cliente: Ótimo, obrigado.
+[20:59] Atendente: Por nada, Lucas. Boa noite.
+---
+Resolução: Cliente informado de que a entrega padrão leva até 3 dias úteis para capitais e até 8 dias úteis para o interior do Sudeste, com frete grátis acima de R$ 199, e do rastreamento por e-mail e SMS.

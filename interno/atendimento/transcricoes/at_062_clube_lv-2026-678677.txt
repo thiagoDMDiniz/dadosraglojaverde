@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-678677 (CLUBE)
+USO INTERNO
+Protocolo: LV-2026-678677
+Canal: chat do aplicativo
+Data: 26/04/2026
+Cliente: Ana (CPF ***.***.***-**)
+Atendente: Otto
+---
+[12:05] Cliente: Oi, rápido: quantos pontos eu ganho no Clube Verde por compra?
+[12:07] Atendente: Oi, Ana! Aqui é o Otto. Cada R$ 1 gasto vale 3 pontos.
+[12:08] Cliente: Então uma compra de R$ 100 dá 300 pontos?
+[12:09] Atendente: Isso mesmo. A cada 1000 pontos acumulados você resgata R$ 10 de desconto.
+[12:11] Cliente: E se eu tiver 500 pontos, já posso resgatar algo?
+[12:12] Atendente: Ainda não. O resgate é feito a cada 1000 pontos acumulados, então com 500 você ainda não tem o desconto.
+[12:14] Cliente: E os pontos expiram?
+[12:15] Atendente: Sim. Os pontos expiram 12 meses depois da data da compra, por isso vale usar com regularidade.
+[12:17] Cliente: Hm. E o que é isso de pontos dobrados?
+[12:18] Atendente: Campanhas pontuais podem dobrar os pontos, passando para 6 por R$ 1, mas só no período divulgado.
+[12:20] Cliente: Entendi. Tem alguma coisa extra para aniversário?
+[12:21] Atendente: Tem o cupom de aniversário VERDE15, de 15% de desconto em uma única compra, usado no mês do seu aniversário.
+[12:23] Cliente: Legal. Mas a compra não fica ativa o ano todo?
+[12:24] Atendente: Não, o cupom vale só no mês do aniversário e em uma compra apenas.
+[12:26] Cliente: Ok, obrigada pelas explicações.
+[12:26] Atendente: Quando quiser, eu mostro o seu saldo de pontos aqui.
+---
+Resolução: A cliente foi informada de que cada R$ 1 gasto vale 3 pontos, que a cada 1000 pontos acumulados há resgate de R$ 10, e que os pontos expiram 12 meses depois da data da compra. A cliente também recebeu informação sobre o cupom de aniversário.

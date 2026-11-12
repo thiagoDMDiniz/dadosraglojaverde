@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-763319 (GARANTIA)
+USO INTERNO
+Protocolo: LV-2026-763319
+Canal: chat do aplicativo
+Data: 07/10/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Natália
+---
+[18:02] Cliente: Oi, tudo bem? Comprei uma TV há uns vinte dias e agora quero contratar a garantia estendida. Ainda dá?
+[18:04] Atendente: Oi, Sérgio! Aqui é a Natália. Vou verificar a data da compra. A garantia estendida pode ser contratada em até 30 dias após a compra e acrescenta 12 meses.
+[18:05] Cliente: Ótimo, então estou dentro do prazo.
+[18:06] Atendente: Isso. Como a compra foi há cerca de vinte dias, a contratação ainda é possível.
+[18:08] Cliente: E quanto custa?
+[18:09] Atendente: Para eletrônicos, o custo é de 12% do valor do produto. O valor é cobrado uma única vez, e a garantia começa a contar depois da garantia padrão.
+[18:11] Cliente: Hm, isso é bastante. Vale a pena?
+[18:12] Atendente: Depende do uso. A garantia padrão de eletrônicos já é de 12 meses contra defeitos de fabricação, e a estendida soma mais 12 meses.
+[18:14] Cliente: Entendi. E ela cobre queda?
+[18:15] Atendente: Não. Quedas, contato com líquidos e oscilação da rede elétrica não são cobertos, mesmo com a garantia estendida.
+[18:17] Cliente: Certo. Quero contratar então.
+[18:19] Atendente: Vou gerar a contratação pelo aplicativo, na aba de pedidos. Confirme os dados da compra antes de finalizar.
+[18:21] Cliente: Pode gerar. Obrigado!
+[18:22] Atendente: Pronto, Sérgio. O protocolo é LV-2026-763319, e você recebe a confirmação por e-mail.
+---
+Resolução: Garantia estendida contratada dentro do prazo de 30 dias após a compra, com custo de 12% do valor do produto para eletrônicos. A cliente foi informada de que o período acrescenta 12 meses à garantia padrão.

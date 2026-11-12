@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-205105 (CLUBE)
+Protocolo: LV-2026-205105
+Canal: Chat do site
+Data: 2026-03-14
+Cliente: Ricardo (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[11:05] Cliente: Oi, tenho pouco tempo. Qual a diferença entre os níveis do Clube Verde?
+[11:07] Atendente: Oi, Ricardo. São três níveis, de acordo com os pontos acumulados nos últimos 12 meses. Verde vai de 0 a 4.999 pontos e traz os benefícios básicos.
+[11:08] Cliente: E o próximo?
+[11:09] Atendente: O nível Folha começa em 5.000 pontos e vai até 14.999. Nele, há frete grátis em compras acima de R$ 149 no Sudeste e atendimento prioritário.
+[11:11] Cliente: Hum. E no Floresta?
+[11:12] Atendente: Floresta começa a partir de 15.000 pontos. Tem frete grátis em qualquer valor no Sudeste, 5% de pontos extras e acesso antecipado às ofertas.
+[11:14] Cliente: Esse "5% de pontos extras" é sobre a compra?
+[11:15] Atendente: Sobre os pontos acumulados nas compras, sim. Ou seja, o cliente Floresta ganha mais pontos em cada compra.
+[11:17] Cliente: E se eu estiver no Folha agora, eu passo pra Floresta quando?
+[11:18] Atendente: Assim que o total de pontos dos últimos 12 meses chegar a 15.000. O nível é recalculado com base nesse período.
+[11:20] Cliente: Certo. Tem campanha para ganhar mais pontos?
+[11:21] Atendente: Campanhas pontuais podem dobrar os pontos, com 6 pontos por R$ 1, mas só no período divulgado. Fique de olho nos avisos do aplicativo.
+[11:23] Cliente: Ok, obrigado.
+[11:24] Atendente: Seu protocolo é LV-2026-205105. Bom dia, Ricardo.
+---
+Resolução: explicados os níveis Verde, Folha e Floresta, com seus pontos e benefícios, e a regra de recálculo dos últimos 12 meses. O cliente ficou ciente de que as campanhas pontuais valem somente no período divulgado.

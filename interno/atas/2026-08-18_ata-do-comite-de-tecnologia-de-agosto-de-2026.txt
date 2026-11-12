@@ -1,0 +1,41 @@
+ATA DO COMITÊ DE TECNOLOGIA DE AGOSTO DE 2026
+USO INTERNO. Reunião realizada em 18/08/2026, por videoconferência, das 14h às 15h40.
+
+PARTICIPANTES
+- Bruno, diretor de tecnologia (coordenador do comitê)
+- Lucas, gerente de sistemas de loja
+- Vanessa, coordenadora de suporte ao aplicativo
+- Gustavo, analista de infraestrutura
+- Priscila, representante da área de atendimento
+- Isabela, secretária do comitê (redigiu a ata)
+
+PAUTA
+1. Estabilidade do aplicativo no fim de julho
+2. Códigos ERR mais frequentes em agosto
+3. Homologação da tela de acompanhamento de trocas
+4. Roadmap do último trimestre
+
+DISCUSSÃO
+
+Estabilidade do aplicativo. Gustavo informou que não houve queda de serviço em julho e que o tempo médio de resposta do pagamento se manteve dentro da meta. Vanessa relatou que os chamados de suporte relacionados ao login diminuíram após a troca do fluxo de recuperação de senha, que agora é feito somente pelo próprio aplicativo. O comitê destacou que a Loja Verde nunca pede senha, token ou código por telefone, e-mail ou mensagem.
+
+Códigos ERR mais frequentes. Priscila apresentou o levantamento de agosto. O ERR-7142, de endereço não atendido pela transportadora, teve aumento em cidades do interior, e o atendimento vem oferecendo a retirada na loja como alternativa. O ERR-5308 continua em evidência nas compras parceladas. O comitê sugeriu que a mensagem do ERR-7142 indique, além da retirada, o prazo de 4 horas após a confirmação do pagamento.
+
+Homologação da tela de trocas. Lucas apresentou a tela de acompanhamento de trocas, que mostra ao cliente a etapa do pedido e a previsão de envio da etiqueta. Os testes com atendentes mostraram que a etiqueta chega em até 24 horas, como previsto, mas que a tela precisa explicar melhor o que fazer se o e-mail não chegar. Bruno pediu que a homologação seja concluída no fim de setembro.
+
+Roadmap. Bruno apresentou as prioridades do último trimestre, com a tela de trocas em primeiro lugar, seguida da página de status automático. O cadastro de reciclagem ficou no radar, mas sem data de execução definida.
+
+DECISÕES
+
+1. Incluir na mensagem do ERR-7142 a alternativa de retirada na loja e o prazo de 4 horas após a confirmação.
+2. Ajustar a tela de trocas para orientar o cliente quando o e-mail da etiqueta não chegar.
+3. Concluir a homologação da tela de trocas até o fim de setembro.
+4. Manter a página de status automático como segunda prioridade do trimestre.
+
+ENCAMINHAMENTOS
+
+- Lucas: incluir as orientações de endereço no fluxo de trocas. Prazo: 15/09/2026.
+- Vanessa: documentar o novo fluxo de recuperação de senha para o atendimento. Prazo: 04/09/2026.
+- Gustavo: medir o tempo de resposta do pagamento por horário em setembro. Prazo: 30/09/2026.
+- Priscila: validar o texto do ERR-7142 com a equipe de atendimento. Prazo: 28/08/2026.
+- Isabela: registrar a ata e encaminhar ao comitê. Prazo: 20/08/2026.

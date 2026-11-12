@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-864795 (FRETE)
+Protocolo: LV-2026-864795
+Canal: Chat do site
+Data: 2026-10-16
+Cliente: Paulo (CPF ***.***.***-**)
+Atendente: Natália
+---
+[09:02] Cliente: Oi. O código de rastreio do meu pedido não muda há dois dias. Está normal?
+[09:04] Atendente: Oi, Paulo. Vou consultar o status. Pode me passar o número do pedido?
+[09:05] Cliente: Pedido 30712.
+[09:07] Atendente: Encontrei. O pedido saiu do centro de distribuição e está em trânsito. Às vezes a transportadora demora a atualizar o rastreio entre uma cidade e outra.
+[09:08] Cliente: Hum. Então não está perdido?
+[09:09] Atendente: Não há indicação de extravio no sistema. O rastreamento é enviado por e-mail e SMS quando o pedido sai do centro de distribuição, então o senhor pode conferir essas mensagens também.
+[09:11] Cliente: Recebi o SMS ontem à noite. E o código continua parado.
+[09:12] Atendente: Entendo a dúvida. Se a atualização não aparecer até amanhã, eu abro uma verificação com a transportadora.
+[09:14] Cliente: E até amanhã, o que faço?
+[09:15] Atendente: Aguarde o prazo normal de entrega, que aparece no pedido. Não é preciso refazer a compra.
+[09:17] Cliente: Ok. Você me avisa?
+[09:18] Atendente: Sim, vou deixar a observação no protocolo LV-2026-864795. Você recebe a atualização por e-mail e SMS.
+[09:19] Cliente: Combinado, obrigado.
+[09:20] Cliente: E se o pedido voltar para a loja?
+[09:22] Atendente: Se a entrega não for feita, o pedido pode retornar ao centro de distribuição. Nesse caso, a loja avisa e combina a nova entrega ou a retirada.
+[09:23] Cliente: Ok, então fico atento às mensagens.
+[09:24] Atendente: Isso. Acompanhe o e-mail e o SMS, que costumam trazer as primeiras atualizações.
+---
+Resolução: rastreamento sem atualização há dois dias, sem indicação de extravio, com verificação marcada para o dia seguinte caso a situação continue. O cliente foi orientado a acompanhar o e-mail e o SMS.

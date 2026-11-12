@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-483002 (PAGAMENTO)
+USO INTERNO
+Protocolo: LV-2026-483002
+Canal: balcão da loja
+Data: 27/01/2026
+Cliente: Paulo (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[13:10] Cliente: Boa tarde. Tentei pagar a compra no cartão e a máquina recusou. Aparece um código.
+[13:12] Atendente: Boa tarde, Paulo. Aqui é o Rafael. Qual é o código que aparece na tela?
+[13:13] Cliente: ERR-5308.
+[13:14] Atendente: Obrigado. O código ERR-5308 indica que o cartão foi recusado pela operadora.
+[13:15] Cliente: Mas o cartão tem limite, eu acabei de pagar a fatura.
+[13:17] Atendente: Pode ser que a operadora tenha alguma restrição no momento. Não temos acesso aos motivos internos da operadora.
+[13:18] Cliente: Hm. O que eu faço então?
+[13:19] Atendente: Você pode tentar outro cartão aqui na loja, ou entrar em contato com o banco emissor do cartão recusado.
+[13:21] Cliente: Eu tenho outro cartão, de crédito também.
+[13:22] Atendente: Pode usar. Lembre que o cartão de crédito permite até 10 vezes sem juros, com parcela mínima de R$ 50.
+[13:24] Cliente: E se for débito? Dá para pagar no débito?
+[13:25] Atendente: Sim, aqui na loja também aceitamos débito, vale-compras e cartão-presente.
+[13:27] Cliente: Ok, vou tentar o outro cartão. Se não der, eu ligo para o banco.
+[13:28] Atendente: Perfeito, Paulo. Se a segunda tentativa também for recusada, o banco emissor é o melhor caminho para entender o motivo.
+[13:30] Cliente: Obrigado, Rafael.
+[13:30] Atendente: Até logo!
+---
+Resolução: Cartão recusado pela operadora, com código ERR-5308. O cliente foi orientado a tentar outro cartão na loja ou a falar com o banco emissor. A compra foi retomada com outro cartão de crédito.

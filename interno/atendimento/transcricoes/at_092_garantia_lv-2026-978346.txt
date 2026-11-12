@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-978346 (GARANTIA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-978346
+Canal: telefone (SAC)
+Data: 13/07/2026
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Natália
+---
+[08:50] Cliente: Bom dia. Meu celular parou de ligar sozinho, sem queda nem líquido. Tenho oito meses de uso e está me deixando irritada.
+[08:51] Atendente: Bom dia, Cláudia. Sinto muito pelo transtorno. Vamos verificar a garantia. Você tem a nota fiscal ou o número do pedido?
+[08:53] Cliente: Tenho o pedido. Comprei pelo site.
+[08:54] Atendente: Localizei. Eletrônicos têm garantia de 12 meses contra defeitos de fabricação a partir da entrega, e o seu aparelho está dentro desse período.
+[08:56] Cliente: Então posso acionar agora mesmo?
+[08:57] Atendente: Pode. O acionamento é feito pelo SAC, que abre o chamado e encaminha para a assistência autorizada. Você não precisa levar o aparelho à loja.
+[08:59] Cliente: E se o problema for a tela? Às vezes também apaga.
+[09:00] Atendente: Se a tela for o defeito, tudo entra no mesmo chamado. A assistência avalia o aparelho inteiro e informa o diagnóstico antes do reparo.
+[09:02] Cliente: Quanto tempo leva o conserto?
+[09:03] Atendente: O prazo máximo de reparo é de 30 dias. Se passar disso, você escolhe entre troca, devolução do valor ou abatimento.
+[09:05] Cliente: Ok. Preciso mandar o aparelho pelo correio?
+[09:06] Atendente: Depende da assistência indicada no chamado. Ela informa a forma de envio ou a retirada, que vem pelo aplicativo.
+[09:08] Cliente: Certo. Pode abrir, por favor.
+[09:09] Atendente: Aberto, Cláudia. Guarde o número do chamado, que aparece em seguida no seu e-mail.
+[09:11] Cliente: Obrigada, Natália.
+---
+Resolução: Chamado de garantia aberto pelo SAC para celular com oito meses de uso, dentro da garantia de 12 meses contra defeitos de fabricação, com orientação sobre o prazo máximo de reparo de 30 dias.

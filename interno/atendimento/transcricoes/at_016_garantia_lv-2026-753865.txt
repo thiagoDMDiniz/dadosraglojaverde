@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-753865 (GARANTIA)
+Protocolo: LV-2026-753865
+Canal: WhatsApp oficial
+Data: 2026-03-25
+Cliente: Tatiane (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[08:30] Cliente: Bom dia. Quero contratar a garantia estendida de uma TV que comprei faz uns 20 dias.
+[08:32] Atendente: Bom dia, Tatiane. Vou verificar a compra. Você está dentro do prazo, porque a garantia estendida pode ser contratada em até 30 dias após a compra e acrescenta 12 meses ao prazo.
+[08:33] Cliente: Que bom. Quanto custa?
+[08:35] Atendente: Para eletrônicos, o custo é de 12% do valor do produto. A TV entra nessa categoria.
+[08:36] Cliente: E em quantas vezes eu consigo pagar?
+[08:37] Atendente: A garantia pode entrar no mesmo pagamento do produto ou ser cobrada à parte. Se a senhora parcelar no cartão, o parcelamento segue a regra da loja, com até 10 vezes sem juros.
+[08:39] Cliente: Ah, então dá para pagar junto. E se eu não quiser?
+[08:40] Atendente: Sem problema. A garantia de 12 meses contra defeitos de fabricação continua valendo a partir da entrega, então a estendida é uma opção, não uma obrigação.
+[08:42] Cliente: Entendi. Quero contratar.
+[08:43] Atendente: Ótimo. Vou gerar a contratação e enviar o comprovante por este canal.
+[08:45] Cliente: Pode mandar. E a estendida cobre o que?
+[08:46] Atendente: Ela cobre defeitos de fabricação no período adicional. Não cobre queda, contato com líquidos ou oscilação da rede elétrica.
+[08:48] Cliente: Tudo certo. Obrigada, Priscila.
+[08:49] Atendente: Protocolo LV-2026-753865. Bom dia, Tatiane.
+---
+Resolução: garantia estendida contratada dentro do prazo de 30 dias após a compra, com custo de 12% do valor da TV e 12 meses adicionais de cobertura. A cliente recebeu o comprovante pelo WhatsApp.

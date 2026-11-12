@@ -1,0 +1,30 @@
+ATENDIMENTO LV-2026-893884 (PAGAMENTO)
+USO INTERNO
+Protocolo: LV-2026-893884
+Canal: chat do site
+Data: 07/03/2026
+Cliente: Ricardo (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[18:30] Cliente: Oi! Posso usar o desconto do Pix junto com o parcelamento?
+[18:32] Atendente: Oi, Ricardo! Aqui é o Rafael. Não é possível. O desconto do Pix não se combina com parcelamento.
+[18:33] Cliente: Mas e se eu pagar só uma parte no Pix e o resto parcelado?
+[18:35] Atendente: Essa combinação também não é aceita no mesmo pedido. A compra fica em uma forma de pagamento só.
+[18:36] Cliente: Hum. E quanto é o desconto mesmo?
+[18:37] Atendente: O Pix tem 5% de desconto sobre o valor à vista. O pagamento precisa ser feito em até 30 minutos depois de gerado o código.
+[18:39] Cliente: Estou em dúvida. Qual compensa mais?
+[18:40] Atendente: Depende do valor da compra e de quanto você quer pagar por mês. Se preferir parcelar, o cartão de crédito aceita até 10 vezes sem juros.
+[18:42] Cliente: E se eu pagar no boleto?
+[18:43] Atendente: O boleto não tem o desconto do Pix. Ele vence em 2 dias úteis, então precisa ser pago logo depois de emitido.
+[18:45] Cliente: Ok. Acho que vou de Pix então, já que é à vista.
+[18:46] Atendente: Boa escolha, Ricardo. O desconto aparece automaticamente no carrinho.
+[18:48] Cliente: Obrigado, Rafael.
+[18:48] Atendente: Bom proveito!
+[18:50] Cliente: E se eu tiver um vale-compras? Posso usar junto com o Pix?
+[18:52] Atendente: O vale-compras é aceito como forma de pagamento nas lojas físicas. No site, as combinações possíveis são as que aparecem no carrinho.
+[18:53] Cliente: Entendi. Então pelo site o Pix é mais simples.
+[18:54] Atendente: Pode ser. Confira o total final antes de confirmar o pagamento.
+[18:55] Cliente: Obrigado de novo.
+[18:56] Atendente: Até logo, Ricardo!
+---
+Resolução: O cliente foi informado de que o Pix tem 5% de desconto e não se combina com parcelamento. O cliente optou por pagar à vista no Pix.

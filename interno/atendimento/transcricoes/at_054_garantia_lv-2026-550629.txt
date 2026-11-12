@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-550629 (GARANTIA)
+USO INTERNO
+Protocolo: LV-2026-550629
+Canal: WhatsApp oficial
+Data: 07/09/2026
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Otto
+---
+[17:20] Cliente: Oi! Derrubei água no meu notebook ontem. Ele ainda liga, mas a tela está falhando. A garantia cobre?
+[17:22] Atendente: Oi, Cláudia! Aqui é o Otto. Sinto muito pelo acidente. Antes, você consegue me dizer há quanto tempo comprou o notebook?
+[17:23] Cliente: Comprei faz uns oito meses.
+[17:25] Atendente: Eletrônicos têm garantia de 12 meses contra defeitos de fabricação. Mas nesse caso o dano foi por contato com líquidos.
+[17:26] Cliente: Então não cobre de jeito nenhum?
+[17:28] Atendente: Danos por contato com líquidos não são cobertos pela garantia. Por isso, a análise seria feita como serviço pago, fora da garantia.
+[17:29] Cliente: Hm. Eu não sabia disso.
+[17:31] Atendente: Recomendo não ligar o aparelho de novo até uma avaliação, porque isso pode piorar o dano.
+[17:32] Cliente: Vou seguir sua orientação. E se eu tiver feito o seguro?
+[17:34] Atendente: Se você tiver seguro próprio, vale consultar a seguradora. A Loja Verde só informa sobre a garantia de fabricação e a garantia estendida.
+[17:36] Cliente: Ok. E a garantia estendida, ainda dá para contratar?
+[17:37] Atendente: Ela precisa ser contratada em até 30 dias após a compra. Como sua compra tem cerca de oito meses, não é mais possível.
+[17:39] Cliente: Entendi. Obrigada pela clareza, Otto.
+[17:40] Atendente: Quando quiser, pode mandar o número do pedido aqui para verificarmos o histórico.
+---
+Resolução: Notebook com dano por contato com líquidos, que não é coberto pela garantia de 12 meses. A cliente foi orientada a não ligar o aparelho e a procurar avaliação técnica. O prazo da garantia estendida já não permite contratação.

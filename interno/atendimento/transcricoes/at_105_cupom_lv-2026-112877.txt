@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-112877 (CUPOM)
+
+Protocolo: LV-2026-112877
+Canal: chat do site
+Data: 11/05/2026
+Cliente: Paulo (CPF ***.***.***-**)
+Atendente: Priscila
+
+---
+[10:02] Cliente: Boa tarde. Tentei usar o cupom BEMVINDO10 na minha primeira compra e o site não aplicou o desconto.
+[10:03] Atendente: Boa tarde, Paulo. Sou a Priscila e vou verificar isso com você. Você escolheu pagar com Pix antes de aplicar o cupom?
+[10:04] Cliente: Sim, escolhi Pix porque achei que sairia mais barato.
+[10:05] Atendente: Entendi. O cupom BEMVINDO10 dá 10% de desconto na primeira compra pelo aplicativo, limitado a R$ 80 de desconto, mas ele não é cumulativo com Pix. Por isso o sistema não somou os dois descontos.
+[10:06] Cliente: Então um cancela o outro?
+[10:07] Atendente: Na prática, você usa um dos dois. O desconto do Pix é de 5% e expira em 30 minutos, então vale comparar o total antes de finalizar.
+[10:09] Cliente: Hmm. E se eu pagar no cartão?
+[10:10] Atendente: Nesse caso o cupom pode ser aplicado. Lembrando que o desconto do Pix não se combina com parcelamento, e o cartão de crédito pode ser parcelado em até 10 vezes sem juros, com parcela mínima de R$ 50.
+[10:12] Cliente: em quantas vezes eu consigo com esse valor?
+[10:13] Atendente: Depende do total do pedido. Posso mostrar no carrinho as opções que o sistema libera para o seu valor.
+[10:15] Cliente: Ok. Mas e se eu já tiver usado o cupom em outra conta?
+[10:16] Atendente: O BEMVINDO10 vale somente para a primeira compra pelo aplicativo. Se a conta já tiver um pedido concluído, o sistema não aplica o cupom novamente.
+[10:18] Cliente: Entendi. Vou ver as duas opções e decido.
+[10:19] Atendente: Perfeito. Qualquer dúvida, pode chamar aqui no chat ou ligar para o SAC pelo 0800 700 0100.
+
+---
+Resolução: o cliente foi orientado de que o cupom BEMVINDO10 não se soma ao desconto do Pix e optou por comparar os dois totais antes de finalizar o pedido pelo cartão.

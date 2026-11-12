@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-888785 (PAGAMENTO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-888785
+Canal: chat do site
+Data: 24/08/2026
+Cliente: Ana (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[20:31] Cliente: Boa noite. Gerei um Pix para a compra e o pedido sumiu da tela. Estou desconfiada.
+[20:33] Atendente: Boa noite, Ana. Vou consultar o pedido. Aparece algum código de erro na tela?
+[20:35] Cliente: Apareceu ERR-4217 e a mensagem de cancelado.
+[20:37] Atendente: Obrigada. O código ERR-4217 indica que o pagamento por Pix não foi confirmado em 30 minutos.
+[20:39] Cliente: Eu paguei, a gente viu o comprovante no banco.
+[20:41] Atendente: Entendo. Se o pagamento saiu do banco depois do prazo, o sistema não consegue vincular ao pedido, que foi cancelado automaticamente.
+[20:43] Cliente: E meu dinheiro já saiu?
+[20:45] Atendente: Pelo registro, nenhum valor foi cobrado do pedido cancelado. Se o débito aparecer no seu banco, a verificação é feita com o protocolo deste atendimento.
+[20:47] Cliente: Preciso refazer a compra então?
+[20:49] Atendente: Sim. Ao refazer, gere um novo Pix e pague logo em seguida, porque ele expira em 30 minutos. O desconto de 5% continua valendo.
+[20:51] Cliente: Ok. Tem como segurar o estoque enquanto eu pago?
+[20:53] Atendente: Não consigo garantir o estoque enquanto o Pix está em aberto, então faça o pagamento assim que gerar o código.
+[20:55] Cliente: E o cancelamento aparece no aplicativo?
+[20:57] Atendente: Sim, o pedido aparece como cancelado, com a data e o código ERR-4217. Assim você confere o histórico.
+[20:59] Cliente: Certo, vou refazer agora.
+[21:01] Atendente: Combinado, Ana. Se o débito aparecer sem pedido vinculado, ligue para o SAC pelo 0800 700 0100.
+---
+Resolução: Pedido cancelado automaticamente por Pix não confirmado em 30 minutos, com orientação de que nenhum valor foi cobrado e de que a compra deve ser refeita com novo código Pix.

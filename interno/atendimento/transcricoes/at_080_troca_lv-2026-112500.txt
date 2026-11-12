@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-112500 (TROCA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-112500
+Canal: balcão da loja
+Data: 01/10/2026
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[10:02] Cliente: Bom dia. Comprei uma TV na promoção semana passada e não gostei. Quero o dinheiro de volta.
+[10:03] Atendente: Bom dia, Cláudia. Vou verificar o pedido. Você está dentro do prazo de troca, mas preciso explicar uma regra antes.
+[10:05] Cliente: Qual regra? Comprei de boa-fé e paguei no cartão.
+[10:06] Atendente: Produtos comprados em promoção não têm devolução em dinheiro. A troca é somente por vale-compras, válido por 120 dias a partir da emissão.
+[10:08] Cliente: Mas eu nem usei a TV, está na caixa.
+[10:09] Atendente: Entendo. Mesmo assim, a regra vale para o item comprado em promoção, por isso não consigo emitir reembolso em dinheiro.
+[10:11] Cliente: E se eu trocar por outro modelo que não está em promoção?
+[10:12] Atendente: Mesmo assim, a troca de item de promoção segue a mesma regra: o valor sai em vale-compras. Você pode usar o vale depois na compra do modelo que quiser, dentro do prazo.
+[10:14] Cliente: Hum. Não tinha pensado nisso. E o vale vence quando?
+[10:15] Atendente: O vale-compras é válido por 120 dias a partir da emissão. A data fica impressa no comprovante, então guarde bem.
+[10:17] Cliente: Pode ser o vale então, prefiro guardar para escolher outro modelo.
+[10:18] Atendente: Ótimo. Já deixei a solicitação aberta no balcão, com a nota fiscal anexada e o valor emitido em vale-compras.
+[10:20] Cliente: Obrigada, Gustavo. Vou escolher com calma.
+[10:21] Atendente: Combinado, Cláudia. Se tiver dúvida na escolha, volte ao balcão ou ligue para o SAC.
+---
+Resolução: Cliente informada de que compras em promoção não têm devolução em dinheiro, com a troca somente por vale-compras, válido por 120 dias, e solicitação aberta no balcão com a nota fiscal anexada.

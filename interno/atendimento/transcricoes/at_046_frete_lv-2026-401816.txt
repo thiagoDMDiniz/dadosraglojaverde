@@ -1,0 +1,30 @@
+ATENDIMENTO LV-2026-401816 (FRETE)
+USO INTERNO
+Protocolo: LV-2026-401816
+Canal: chat do aplicativo
+Data: 27/01/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[21:40] Cliente: Boa noite. Moro em Salvador e queria saber a partir de que valor o frete é grátis.
+[21:42] Atendente: Boa noite, Sérgio. Aqui é o Gustavo. Para as regiões fora do Sudeste, o frete é grátis acima de R$ 299.
+[21:43] Cliente: Então eu preciso passar de R$ 299 mesmo?
+[21:44] Atendente: Isso. Acima desse valor, o frete não é cobrado na entrega padrão.
+[21:46] Cliente: E abaixo disso, quanto fica?
+[21:47] Atendente: A taxa depende do peso e do tamanho do pacote, e aparece no carrinho antes da confirmação.
+[21:49] Cliente: Hum, e o prazo para Salvador?
+[21:50] Atendente: Para a capital do Nordeste, a entrega padrão leva até 7 dias úteis após a confirmação do pagamento.
+[21:52] Cliente: E se eu escolher a expressa?
+[21:53] Atendente: A entrega expressa vale para capitais do Sudeste, e não está disponível para Salvador.
+[21:55] Cliente: Entendi. Então vou esperar juntar mais itens.
+[21:56] Atendente: Boa escolha. Assim você aproveita o frete grátis e reduz o custo da entrega.
+[21:58] Cliente: Obrigado, Gustavo.
+[21:58] Atendente: Estou à disposição, Sérgio.
+[21:59] Cliente: Mais uma coisa: se eu comprar de um vendedor de fora do estado, o frete muda?
+[22:01] Atendente: O frete é calculado pelo endereço de entrega. A região de destino é que define o prazo e a condição de frete grátis, por isso o valor aparece no carrinho antes da confirmação.
+[22:02] Cliente: Entendi. E se eu precisar falar com alguém depois?
+[22:04] Atendente: O SAC atende pelo 0800 700 0100, de segunda a sexta, das 8h às 20h, e aos sábados, das 8h às 14h.
+[22:05] Cliente: Perfeito, obrigado de novo.
+[22:06] Atendente: Até logo, Sérgio!
+---
+Resolução: O cliente foi informado de que, fora do Sudeste, o frete é grátis em compras acima de R$ 299, e de que a entrega padrão para Salvador leva até 7 dias úteis após a confirmação do pagamento. O cliente pretende completar o carrinho.

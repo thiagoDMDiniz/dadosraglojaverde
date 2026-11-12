@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-766495 (TROCA)
+Protocolo: LV-2026-766495
+Canal: Telefone (SAC)
+Data: 2026-02-10
+Cliente: Aline (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[10:03] Cliente: Bom dia. Comprei uma panela elétrica pelo aplicativo e me arrependi. Dá para devolver?
+[10:05] Atendente: Bom dia, Aline. Pode sim. Qual foi a data da entrega?
+[10:06] Cliente: Recebi há cinco dias. Ainda está lacrada.
+[10:07] Atendente: Ótimo. Compras feitas pelo site ou pelo aplicativo têm direito ao arrependimento em até 7 dias corridos após a entrega. Sua solicitação está dentro desse prazo.
+[10:09] Cliente: E o frete de ida, eu pago?
+[10:10] Atendente: Não. A devolução é integral, inclusive o frete. A senhora não paga nada por essa devolução.
+[10:12] Cliente: Estou desconfiada. Já vi reclamações de devolução que nunca chegam.
+[10:13] Atendente: Entendo a preocupação. O reembolso acontece depois que a devolução é aprovada. Eu vou abrir o pedido agora e a etiqueta de postagem chega por e-mail em até 24 horas.
+[10:15] Cliente: E o dinheiro? Volta para o cartão?
+[10:16] Atendente: Volta na mesma forma de pagamento. No cartão de crédito o estorno pode aparecer em até duas faturas, dependendo da data de fechamento.
+[10:18] Cliente: Certo. E se a etiqueta não chegar?
+[10:19] Atendente: Se não chegar em 24 horas, responda este atendimento e eu reenvio. Não precisa ligar de novo.
+[10:21] Cliente: Ok. Pode seguir.
+[10:22] Atendente: Pedido de devolução registrado sob o protocolo LV-2026-766495. Obrigado por entrar em contato, Aline.
+---
+Resolução: arrependimento aceito dentro do prazo de 7 dias corridos após a entrega, com devolução integral inclusive o frete. A cliente recebeu a orientação sobre a etiqueta e sobre a forma de reembolso.

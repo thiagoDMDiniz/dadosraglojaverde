@@ -1,0 +1,27 @@
+ATENDIMENTO LV-2026-886242 (REEMBOLSO)
+Protocolo: LV-2026-886242
+Canal: Chat do site
+Data: 2026-06-04
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[11:20] Cliente: Boa dia. Cancelei um pedido pago com Pix. Quando recebo o reembolso?
+[11:22] Atendente: Bom dia, Sérgio. Pode me informar o número do pedido para eu consultar o status?
+[11:23] Cliente: Pedido 88215.
+[11:25] Atendente: Encontrei. O cancelamento foi confirmado e o valor está na fila de devolução do Pix.
+[11:26] Cliente: E o prazo?
+[11:27] Atendente: Pela regra, o reembolso é feito em até 10 dias úteis, na mesma forma de pagamento, ou seja, para a mesma conta que pagou o Pix.
+[11:29] Cliente: E é a mesma conta?
+[11:30] Atendente: Sim. O reembolso volta para a chave ou conta usada no pagamento. Não é necessário informar nada novo.
+[11:31] Cliente: Ok. Fiz o Pix às 9h de ontem.
+[11:33] Atendente: Como o pagamento foi feito por Pix, o cancelamento é separado da confirmação do pedido. O status aparece no histórico do pedido, dentro do aplicativo.
+[11:34] Cliente: Preciso de algo mais?
+[11:35] Atendente: Não. Se passar de 10 dias úteis sem crédito, responda este chat com o número do pedido e abrimos uma reclamação.
+[11:36] Cliente: Perfeito, obrigado.
+[11:36] Atendente: Quando quiser, é só chamar. Tenha um bom dia, Sérgio.
+[11:37] Cliente: Ah, e se eu cancelar outro pedido hoje, o prazo é o mesmo?
+[11:39] Atendente: Sim. Cada devolução segue a mesma regra, com reembolso em até 10 dias úteis depois da aprovação, na mesma forma de pagamento.
+[11:40] Cliente: Certo. Só queria entender antes de cancelar.
+[11:41] Atendente: Faz muito bem em perguntar. Qualquer dúvida, é só chamar por aqui.
+---
+Resolução: reembolso do Pix em andamento, com prazo de até 10 dias úteis na mesma forma de pagamento. O cliente recebeu o passo a passo para acompanhar o status pelo histórico do pedido.

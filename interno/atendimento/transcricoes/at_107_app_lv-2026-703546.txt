@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-703546 (APP)
+
+Protocolo: LV-2026-703546
+Canal: WhatsApp oficial
+Data: 15/01/2026
+Cliente: Juliana (CPF ***.***.***-**)
+Atendente: Otto
+
+---
+[09:11] Cliente: Bom dia. Não consigo entrar no aplicativo, aparece conta bloqueada.
+[09:12] Atendente: Bom dia, Juliana. Aqui é o Otto. Vou verificar sua conta. Aparece alguma mensagem com número de erro?
+[09:13] Cliente: Aparece ERR-5308 quando tento pagar. Mas o login mesmo nem abre.
+[09:15] Atendente: Obrigado pelo detalhe. O ERR-5308 indica que o cartão foi recusado pela operadora, então é um problema separado do bloqueio. Vamos tratar o acesso primeiro.
+[09:17] Cliente: Tudo bem. Já tentei redefinir a senha duas vezes.
+[09:18] Atendente: Certo. Pelo sistema, a conta foi bloqueada por tentativas seguidas de acesso. Vou liberar o acesso por aqui, e depois você define uma senha nova.
+[09:20] Cliente: e pelo celular, precisa instalar de novo?
+[09:21] Atendente: Não precisa. Atualize o aplicativo na loja do seu aparelho e entre com o e-mail cadastrado.
+[09:24] Cliente: Consegui entrar. Mas e o cartão recusado?
+[09:25] Atendente: Tente outro cartão ou entre em contato com o banco emissor. Você também pode pagar por Pix, que tem desconto de 5% e expira em 30 minutos.
+[09:27] Cliente: e para o meu endereço, ainda entrega?
+[09:28] Atendente: Informe o CEP no carrinho. Se a transportadora não atender a região, aparece o código ERR-7142 e a alternativa é a retirada na loja.
+[09:31] Cliente: Ótimo, obrigada pela paciência.
+[09:32] Atendente: Eu que agradeço. Se o bloqueio voltar, responda por este canal com o número do protocolo.
+
+---
+Resolução: o acesso da cliente foi liberado após verificação, ela redefiniu a senha pelo aplicativo atualizado e foi orientada sobre as formas de pagamento para concluir o pedido.

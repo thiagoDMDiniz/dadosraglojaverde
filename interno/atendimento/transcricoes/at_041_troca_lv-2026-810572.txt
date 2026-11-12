@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-810572 (TROCA)
+USO INTERNO
+Protocolo: LV-2026-810572
+Canal: WhatsApp oficial
+Data: 14/04/2026
+Cliente: Marcos (CPF ***.***.***-**)
+Atendente: Natália
+---
+[08:50] Cliente: Oi. Comprei uma furadeira na promoção do site e quero o dinheiro de volta, não vale-compras.
+[08:52] Atendente: Oi, Marcos. Aqui é a Natália. Vou verificar o pedido. A compra foi feita pelo site, certo?
+[08:53] Cliente: Isso. Foi pelo aplicativo, na semana passada.
+[08:55] Atendente: Obrigada. Como o item foi comprado em promoção, a devolução em dinheiro não é possível. A troca é feita somente por vale-compras.
+[08:56] Cliente: Mas eu nem usei a furadeira. Está na caixa.
+[08:58] Atendente: Eu entendo, mas a regra vale para produtos de promoção. O vale-compras é válido por 120 dias a partir da emissão.
+[08:59] Cliente: E se eu não gostar do vale? Não tem outra opção?
+[09:01] Atendente: Para o mesmo produto, a troca por outro modelo também pode ser feita com vale. Se o modelo escolhido for mais caro, a diferença é paga no ato.
+[09:03] Cliente: Hum. E se for mais barato?
+[09:04] Atendente: O valor restante fica no vale-compras, para uso nas lojas da rede.
+[09:05] Cliente: Estou pensando. Só quero entender tudo antes.
+[09:07] Atendente: Claro. Lembre que a troca deve ser pedida em até 30 dias corridos após a entrega, com o item sem sinais de uso e na embalagem original.
+[09:09] Cliente: Ok. Vou ver se troco por outra coisa então.
+[09:10] Atendente: Perfeito. Para pedir pelo site, use aplicativo, Meus Pedidos, Trocar ou devolver. A etiqueta chega por e-mail em até 24 horas.
+[09:12] Cliente: Obrigado, Natália.
+[09:12] Atendente: Estou à disposição, Marcos.
+---
+Resolução: O cliente foi informado de que produtos comprados em promoção não têm devolução em dinheiro e que a troca é feita somente por vale-compras, válido por 120 dias. O cliente vai decidir entre trocar por outro modelo ou manter o vale.

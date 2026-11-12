@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-624972 (SUSTENTABILIDADE)
+USO INTERNO
+Protocolo: LV-2026-624972
+Canal: chat do site
+Data: 26/02/2026
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Otto
+---
+[15:10] Cliente: Oi! Tenho um celular antigo guardado em casa. Dá para dar um destino para ele?
+[15:12] Atendente: Oi, Lucas! Aqui é o Otto. Dá sim. A Loja Verde participa do programa Recicla Verde, que recebe eletrônicos usados para descarte correto.
+[15:13] Cliente: Legal. E tem alguma vantagem nisso?
+[15:15] Atendente: Tem. Depois que o eletrônico é recebido, você ganha o cupom RECICLA20, de R$ 20 de desconto na compra seguinte, em compras acima de R$ 200.
+[15:16] Cliente: Ah, e se a compra for menor?
+[15:17] Atendente: Nesse caso o cupom não serve. Ele vale só para compras acima de R$ 200, então vale planejar a compra seguinte.
+[15:19] Cliente: E o celular precisa estar funcionando?
+[15:21] Atendente: Antes de entregar, recomendo apagar seus dados pessoais, fotos e contas salvas no aparelho. Assim você fica tranquilo com o descarte.
+[15:22] Cliente: Boa dica. E onde eu entrego?
+[15:24] Atendente: Você pode consultar o ponto de entrega mais próximo no site, na seção Jardim e Sustentabilidade. Se quiser, também pode perguntar na unidade Savassi, na Avenida das Acácias, 1250.
+[15:26] Cliente: Ok, e o cupom eu uso no site mesmo?
+[15:27] Atendente: Sim, no site ou no aplicativo, na compra seguinte ao recebimento do eletrônico.
+[15:29] Cliente: Perfeito. Vou separar o aparelho esse fim de semana.
+[15:30] Atendente: Ótimo! Obrigado por se preocupar com o descarte, Lucas.
+---
+Resolução: O cliente foi orientado sobre o programa Recicla Verde e sobre o cupom RECICLA20, de R$ 20 em compras acima de R$ 200, válido na compra seguinte ao recebimento do eletrônico usado.

@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-848860 (CUPOM)
+
+Protocolo: LV-2026-848860
+Canal: WhatsApp oficial
+Data: 25/02/2026
+Cliente: Mariana (CPF ***.***.***-**)
+Atendente: Bruna
+
+---
+[15:20] Cliente: Oi, vi numa rede social o cupom FRETE100, que dá 100% de desconto no frete. Ele funciona?
+[15:21] Atendente: Oi, Mariana. Aqui é a Bruna. Esse cupom não existe na Loja Verde. Você viu onde ele foi divulgado?
+[15:22] Cliente: Foi num perfil que parecia ser de promoção, com um link para clicar.
+[15:23] Atendente: Obrigada por me contar. Pelo que você descreve, pode ser golpe. Não clique no link e não informe dados.
+[15:25] Cliente: Mas e se for verdade? E se eu já tiver feito o cadastro?
+[15:26] Atendente: Verifique seu pedido pelo aplicativo, em Meus Pedidos. A Loja Verde não divulga cupons de frete grátis desse tipo.
+[15:28] Cliente: e pelo WhatsApp, vocês mandam algum código?
+[15:29] Atendente: Não. A Loja Verde NUNCA pede senha, token ou código de segurança por telefone, e-mail ou mensagem. Se alguém pedir isso, desconsidere.
+[15:31] Cliente: Ufa. Eu cheguei a digitar meu e-mail na página.
+[15:32] Atendente: Troque a senha do aplicativo agora e ative a verificação em duas etapas, se estiver disponível. Se perceber movimentação estranha, avise o SAC pelo 0800 700 0100.
+[15:34] Cliente: Certo. E o frete do meu pedido real, continua valendo?
+[15:35] Atendente: Sim. O frete grátis é acima de R$ 199 para a região Sudeste e acima de R$ 299 nas demais regiões. Você pode conferir o valor do seu pedido no carrinho.
+[15:37] Cliente: Mais uma: e se o site me cobrar algo diferente?
+[15:38] Atendente: Me envie o número do pedido e eu verifico. Se houver cobrança indevida, o valor é tratado pelo setor financeiro.
+
+---
+Resolução: a cliente foi orientada a não usar o link divulgado nas redes sociais, a trocar a senha do aplicativo e a acionar o SAC caso note movimentação estranha. Nenhum dado sensível foi informado pela cliente ao atendente.

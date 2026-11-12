@@ -1,0 +1,28 @@
+ATENDIMENTO LV-2026-974423 (FRETE)
+USO INTERNO
+Protocolo: LV-2026-974423
+Canal: chat do aplicativo
+Data: 22/09/2026
+Cliente: Fábio (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[10:08] Cliente: Bom dia. Comprei uma cadeira de escritório e quero saber o prazo de entrega aqui em Belo Horizonte.
+[10:10] Atendente: Bom dia, Fábio. Aqui é o Gustavo. Para a capital de Minas, dentro do Sudeste, a entrega padrão leva até 3 dias úteis após a confirmação do pagamento.
+[10:11] Cliente: Ótimo. E se eu tiver que retirar em loja?
+[10:13] Atendente: A retirada pode ser feita a partir de 4 horas depois da confirmação do pagamento, com documento com foto.
+[10:14] Cliente: Sim. E para o interior?
+[10:16] Atendente: Para cidades do interior do Sudeste, o prazo padrão é de até 8 dias úteis após a confirmação do pagamento.
+[10:18] Cliente: Hum. Meu primo mora em Ouro Preto. Ele também consegue pedir?
+[10:20] Atendente: Sim, desde que o endereço de entrega esteja correto. Se o endereço for atendido pela transportadora, o prazo segue a região.
+[10:22] Cliente: Entendi. E tem como acompanhar?
+[10:23] Atendente: Tem. Você recebe o rastreamento por e-mail e SMS quando o pedido sai do centro de distribuição.
+[10:25] Cliente: Perfeito. Vou fazer o pedido hoje então.
+[10:26] Atendente: Ótimo, Fábio. Qualquer dúvida, pode me chamar aqui.
+[10:28] Cliente: Só para confirmar: Ouro Preto é interior do Sudeste, certo?
+[10:30] Atendente: Isso, Ouro Preto fica em Minas Gerais, na região Sudeste. Por isso vale o prazo de até 8 dias úteis após a confirmação do pagamento.
+[10:31] Cliente: E se fosse um endereço no Nordeste? Muda bastante?
+[10:33] Atendente: Muda sim. Para o Nordeste, os prazos e o frete grátis seguem outra tabela. Por isso o prazo final sempre aparece no carrinho, com base no CEP informado.
+[10:35] Cliente: Ótimo. Vou conferir no carrinho então.
+[10:36] Atendente: Perfeito, Fábio. Obrigado pelo contato!
+---
+Resolução: O cliente foi informado dos prazos de entrega padrão no Sudeste: até 3 dias úteis para a capital e até 8 dias úteis para o interior, após a confirmação do pagamento. O rastreamento é enviado por e-mail e SMS.

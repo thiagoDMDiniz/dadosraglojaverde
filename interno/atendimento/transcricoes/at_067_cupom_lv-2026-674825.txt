@@ -1,0 +1,22 @@
+ATENDIMENTO LV-2026-674825 (CUPOM)
+USO INTERNO
+Protocolo: LV-2026-674825
+Canal: chat do aplicativo
+Data: 11/07/2026
+Cliente: Tatiane (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[15:31] Cliente: Oi, boa tarde. Vi numa rede social o cupom FRETE100, de 100% de desconto no frete, para a Loja Verde. Ele funciona?
+[15:33] Atendente: Boa tarde, Tatiane. Aqui é a Priscila. Esse cupom não existe. A Loja Verde não tem cupom de frete grátis de 100%.
+[15:34] Cliente: Mas tinha um link com o nome e tudo. Parecia oficial.
+[15:36] Atendente: Eu entendo a confusão. Golpes desse tipo usam o nome da loja e imagens parecidas para atrair clientes. Não clique no link.
+[15:37] Cliente: Eu ia colocar meus dados para testar.
+[15:39] Atendente: Por favor, não informe dados, cartão ou senha nesse tipo de página. A Loja Verde nunca pede senha, token ou código.
+[15:41] Cliente: Ainda bem que perguntei. E o que eu faço agora?
+[15:42] Atendente: Se você já digitou algum dado, troque a senha do aplicativo e avise o seu banco. Depois, denuncie a publicação na própria rede social.
+[15:44] Cliente: Certo. E os cupons válidos, onde eu vejo?
+[15:45] Atendente: Os cupons válidos são divulgados no site oficial e no aplicativo, na área de promoções. Se estiver em dúvida, pergunte aqui antes de usar.
+[15:47] Cliente: Obrigada. Não tinha desconfiado.
+[15:48] Atendente: Foi bom você ter perguntado, Tatiane. Pode ficar tranquila.
+---
+Resolução: A cliente foi informada de que o cupom de frete de 100% de desconto divulgado nas redes sociais não existe e de que se trata de tentativa de golpe. A cliente foi orientada a não informar dados e a conferir cupons apenas nos canais oficiais.

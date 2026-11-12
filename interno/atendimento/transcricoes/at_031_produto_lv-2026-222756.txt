@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-222756 (PRODUTO)
+Protocolo: LV-2026-222756
+Canal: Telefone (SAC)
+Data: 2026-04-21
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[10:40] Cliente: Bom dia. Estou em dúvida entre duas geladeiras. Uma consome mais energia que a outra?
+[10:42] Atendente: Bom dia, Sérgio. Vou te ajudar a comparar. Quais são os dois modelos?
+[10:43] Cliente: Um de 400 litros e outro de 450 litros, mas o de 450 tem o preço um pouco maior.
+[10:45] Atendente: Certo. Os dois têm a etiqueta de consumo de energia. Vale olhar o consumo mensal em kWh, que vem na etiqueta do produto.
+[10:47] Cliente: E a voltagem? Preciso saber se pega na minha casa.
+[10:48] Atendente: Confirme a voltagem da tomada antes de comprar. Ela aparece na ficha técnica de cada modelo, no site ou no aplicativo.
+[10:50] Cliente: Ah, eu não tinha pensado nisso. Qual é o padrão?
+[10:51] Atendente: Depende do imóvel. Se não souber, o eletricista da sua casa confirma em poucos minutos.
+[10:53] Cliente: Ok. E o de 450 gasta muito mais?
+[10:54] Atendente: Depende do modelo, e os números exatos estão na etiqueta. Normalmente, o maior volume consome um pouco mais, mas não necessariamente.
+[10:56] Cliente: E o outro?
+[10:57] Atendente: O de 400 litros pode ser suficiente se a família for pequena. Você me disse que são quatro pessoas, então o de 450 é uma folga boa.
+[10:59] Cliente: Pensei nisso também. Vou ver a voltagem antes.
+[11:00] Atendente: Boa escolha. Se precisar, eu envio os dois links por este canal. Protocolo LV-2026-222756.
+---
+Resolução: cliente orientado a comparar o consumo pela etiqueta de energia e a confirmar a voltagem da tomada antes da compra. Ela ficou de verificar a ficha técnica dos dois modelos antes de decidir.

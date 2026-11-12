@@ -1,0 +1,27 @@
+ATENDIMENTO LV-2026-144404 (APP)
+
+Protocolo: LV-2026-144404
+Canal: balcão da loja
+Data: 28/07/2026
+Cliente: Patrícia (CPF ***.***.***-**)
+Atendente: Priscila
+
+---
+[11:40] Cliente: Oi, comprei uma cafeteira há três semanas e ela parou de funcionar. Quero abrir garantia.
+[11:41] Atendente: Oi, Patrícia. Sou a Priscila. A cafeteira é eletrodoméstico, com garantia de 12 meses contra defeito de fabricação a partir da entrega. Você tem a nota ou o número do pedido?
+[11:42] Cliente: Tenho o número do pedido. Mas não sei abrir o chamado.
+[11:44] Cliente: Preciso fazer pelo celular ou aqui mesmo?
+[11:45] Atendente: Pode abrir o chamado no aplicativo, e eu acompanho daqui. Abra o app, toque em Meus Pedidos, escolha o item e depois em Garantia.
+[11:47] Cliente: Achei. Mas aparece só a opção de troca.
+[11:48] Atendente: A troca de produto com defeito e o chamado de garantia são caminhos diferentes. Escolha Garantia e descreva o defeito que você observou.
+[11:50] Cliente: e se eu não lembrar exatamente o defeito?
+[11:51] Atendente: Descreva o que aconteceu, quando começou e se houve barulho ou cheiro. A assistência autorizada usa isso para agendar.
+[11:54] Cliente: Pronto, abri o chamado. Em quanto tempo resolvem?
+[11:55] Atendente: O reparo tem prazo máximo de 30 dias. Se passar disso, você escolhe troca, devolução do valor ou abatimento.
+[11:57] Cliente: Certo. E se o aparelho tiver sido molhado?
+[11:58] Atendente: Contato com líquidos não é coberto pela garantia. Nesse caso, a assistência avalia o caso antes de confirmar.
+[12:01] Cliente: Entendi. Obrigada.
+[12:02] Atendente: Por nada. O número do protocolo já está no seu e-mail.
+
+---
+Resolução: a cliente abriu o chamado de garantia pelo aplicativo com a orientação do atendente, recebeu o prazo máximo de reparo e foi informada sobre os casos que não são cobertos.

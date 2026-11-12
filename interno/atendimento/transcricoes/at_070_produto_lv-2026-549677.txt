@@ -1,0 +1,22 @@
+ATENDIMENTO LV-2026-549677 (PRODUTO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-549677
+Canal: WhatsApp oficial
+Data: 13/08/2026
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Otto
+---
+[10:21] Cliente: Oi, estou em dúvida entre duas geladeiras de duas portas. Consigo comparar pelo WhatsApp?
+[10:22] Atendente: Oi, Cláudia. Claro. Me diga os dois modelos e eu explico as diferenças que constam nas fichas técnicas.
+[10:24] Cliente: Um é o Frio Azul 430 e o outro é o Neve Plus 480. Qual gasta menos energia?
+[10:26] Atendente: Esse comparativo depende da etiqueta de consumo de energia de cada modelo. Verifique a informação na ficha técnica de cada um, na página do produto, antes de decidir.
+[10:28] Cliente: Certo. E a voltagem? Moro em apartamento e não sei qual é a da tomada.
+[10:29] Atendente: Confirme a voltagem na etiqueta do próprio aparelho e compare com a tomada da casa. Se houver dúvida, um eletricista faz a medição em poucos minutos.
+[10:31] Cliente: E se for 220?
+[10:32] Atendente: Então confira se o modelo escolhido aceita 220 V. A voltagem informada na página precisa bater com a da sua tomada, senão o aparelho pode não funcionar.
+[10:34] Cliente: Entendi. E a garantia, é igual para as duas?
+[10:35] Atendente: Sim. Eletrodomésticos têm garantia de 12 meses contra defeitos de fabricação a partir da entrega. Se quiser mais tempo, a garantia estendida pode ser contratada em até 30 dias após a compra.
+[10:37] Cliente: Obrigada. Vou medir a tomada e volto a falar com vocês.
+[10:38] Atendente: Combinado, Cláudia. Se quiser, envie por aqui o número do pedido ou a foto da etiqueta de cada modelo que eu confiro com você.
+---
+Resolução: Cliente orientada a verificar a voltagem na etiqueta do aparelho e a etiqueta de consumo na ficha técnica antes de escolher entre os dois modelos de geladeira.

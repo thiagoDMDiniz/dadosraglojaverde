@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-364210 (TROCA)
+USO INTERNO
+Protocolo: LV-2026-364210
+Canal: balcão da loja
+Data: 14/10/2026
+Cliente: Tatiane (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[13:02] Cliente: Boa tarde. Comprei um liquidificador aqui na Betim e quero trocar. Acho que o prazo já passou, mas não tive tempo antes.
+[13:04] Atendente: Boa tarde, Tatiane. Aqui é o Gustavo. Você está com a nota fiscal ou o número do pedido?
+[13:05] Cliente: Estou com a nota. Comprei há 33 dias.
+[13:07] Atendente: Pela regra, a troca de qualquer produto vale em até 30 dias corridos após a entrega, com o item sem sinais de uso e na embalagem original. Seu prazo venceu há 3 dias.
+[13:08] Cliente: Entendo, mas o aparelho nunca foi usado. Só tirei da caixa para conferir.
+[13:10] Atendente: Eu percebo que o produto está em bom estado. Não consigo aprovar essa exceção sozinho, então vou chamar o gerente da unidade.
+[13:11] Cliente: Tudo bem. E se eu não conseguir resolver aqui?
+[13:12] Atendente: Vou deixar o caso registrado e o gerente responde ainda hoje, ou no máximo em um dia útil.
+[13:14] Cliente: Ok. Pode chamar.
+[13:20] Atendente: O gerente Davi Ferraz analisou o caso e liberou a troca por esta vez, desde que o liquidificador volte sem sinais de uso e na embalagem original.
+[13:21] Cliente: Ah, que bom! E se eu quiser trocar na Savassi?
+[13:22] Atendente: A troca pode ser feita em qualquer unidade no mesmo prazo, mas, como a exceção foi aberta aqui, o ideal é concluir na Betim, com este protocolo.
+[13:24] Cliente: Certo. E a troca vai ser por outro produto?
+[13:25] Atendente: Pode ser por outro produto de mesmo valor ou por diferença paga no caixa. Leve a embalagem original para a loja.
+[13:27] Cliente: Perfeito. Obrigada, Gustavo.
+[13:27] Atendente: Foi um prazer, Tatiane. Até breve.
+---
+Resolução: Prazo de troca de 30 dias corridos após a entrega vencido há 3 dias. O caso foi escalado ao gerente Davi Ferraz, que autorizou a exceção com tolerância de 7 dias. A tolerância não foi informada à cliente, que recebeu apenas a liberação da troca por esta vez.

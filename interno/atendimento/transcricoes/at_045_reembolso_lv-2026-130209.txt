@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-130209 (REEMBOLSO)
+USO INTERNO
+Protocolo: LV-2026-130209
+Canal: telefone (SAC)
+Data: 25/05/2026
+Cliente: Mariana (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[09:03] Cliente: Oi, bom dia. Paguei com Pix e cancelei o pedido. Quando eu recebo o dinheiro?
+[09:05] Atendente: Bom dia, Mariana. Aqui é o Rafael. Você já pediu a devolução pelo aplicativo?
+[09:06] Cliente: Pedi ontem.
+[09:07] Atendente: Certo. A devolução foi aprovada. O reembolso é feito em até 10 dias úteis, na mesma forma de pagamento, que no seu caso é o Pix.
+[09:08] Cliente: Dez dias úteis? Tá demorando.
+[09:09] Atendente: Eu entendo. O prazo é contado a partir da aprovação, e não da data do pedido.
+[09:11] Cliente: E se eu tiver pago com desconto de Pix mesmo?
+[09:12] Atendente: O valor devolvido é o que foi efetivamente pago, então o reembolso segue o total da compra.
+[09:14] Cliente: Hum. Vou ter que conferir o extrato.
+[09:15] Atendente: Pode conferir sim. Se o valor não entrar até o prazo, ligue no SAC com o número do pedido.
+[09:17] Cliente: Ok. E o telefone do SAC é esse mesmo?
+[09:17] Atendente: Isso, é o 0800 700 0100. O atendimento pelo telefone é de segunda a sexta, das 8h às 20h, e aos sábados, das 8h às 14h.
+[09:19] Cliente: Entendi. Obrigada.
+[09:20] Atendente: De nada, Mariana. Bom dia!
+---
+Resolução: Devolução de pedido pago com Pix aprovada. O cliente foi informado de que o reembolso é feito em até 10 dias úteis após a aprovação, na mesma forma de pagamento, e de que o protocolo pode ser acompanhado pelo SAC.

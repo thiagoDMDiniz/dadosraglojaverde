@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-132506 (REEMBOLSO)
+USO INTERNO
+Protocolo: LV-2026-132506
+Canal: chat do aplicativo
+Data: 11/07/2026
+Cliente: Fábio (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[20:12] Cliente: Boa noite. Devolvi um fone e o estorno no cartão ainda não apareceu na fatura. Já faz umas semanas.
+[20:14] Atendente: Boa noite, Fábio. Aqui é o Gustavo. Vou localizar a devolução. Você tem o número do pedido?
+[20:15] Cliente: Tenho sim, vou te mandar.
+[20:17] Atendente: Recebi. A devolução está aprovada e o estorno foi enviado ao cartão. Como regra, o reembolso é feito em até 10 dias úteis após a aprovação.
+[20:18] Cliente: Mas já passou disso, não?
+[20:19] Atendente: Pelo que vejo, a aprovação foi registrada faz pouco tempo. Mesmo assim, o estorno no cartão de crédito pode aparecer em até duas faturas.
+[20:21] Cliente: Duas faturas? Então eu tenho que esperar a próxima e a outra.
+[20:22] Atendente: Pode acontecer. O valor é devolvido na mesma forma de pagamento, então não há cobrança adicional.
+[20:24] Cliente: E se não aparecer nem na segunda fatura?
+[20:25] Atendente: Nesse caso, você deve me chamar aqui com este protocolo e a equipe financeira confere o estorno com a operadora.
+[20:27] Cliente: Ok. E o banco pode demorar também?
+[20:28] Atendente: Sim, o banco emissor pode levar alguns dias para lançar o valor depois que a loja envia o estorno.
+[20:30] Cliente: Entendi. Vou aguardar mais uma fatura.
+[20:31] Atendente: Combinado, Fábio. Vou deixar o protocolo registrado para acompanhamento.
+[20:32] Cliente: Valeu.
+[20:32] Atendente: Até mais.
+---
+Resolução: Estorno de devolução aprovada no cartão de crédito. O cliente foi informado de que o reembolso é feito em até 10 dias úteis após a aprovação e de que o estorno pode aparecer em até duas faturas. O protocolo ficou aberto para acompanhamento.

@@ -1,0 +1,28 @@
+ATENDIMENTO LV-2026-166452 (FRETE)
+USO INTERNO
+Protocolo: LV-2026-166452
+Canal: chat do site
+Data: 18/07/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[09:15] Cliente: Bom dia. O rastreamento do meu pedido não anda faz dois dias. Está parado.
+[09:17] Atendente: Bom dia, Sérgio. Aqui é a Larissa. Vou consultar o pedido e a última movimentação.
+[09:18] Cliente: Pode ver aí?
+[09:20] Atendente: Vejo que o pedido saiu do centro de distribuição e está em trânsito para a sua cidade. A última atualização foi há dois dias.
+[09:21] Cliente: Hm, e isso é normal?
+[09:23] Atendente: Pode acontecer, principalmente quando o pedido passa por uma unidade de triagem. Não há problema com a entrega ainda.
+[09:24] Cliente: E se parar de vez?
+[09:26] Atendente: Se a movimentação não voltar em alguns dias, o caso pode ser verificado com a transportadora. Você recebe avisos por e-mail e SMS quando houver novidade.
+[09:28] Cliente: Ok. Vou esperar mais um pouco.
+[09:29] Atendente: Combinado. Já registrei a observação no protocolo LV-2026-166452.
+[09:31] Cliente: Obrigado. Espero que chegue logo.
+[09:32] Atendente: Eu também espero, Sérgio. Tenha um bom dia.
+[09:34] Cliente: Antes de sair: o código de rastreio serve para acompanhar no site?
+[09:35] Atendente: Serve. O código aparece no e-mail de envio e também na tela do pedido, no aplicativo, na aba de entrega.
+[09:37] Cliente: Ok. E se a transportadora precisar de alguma coisa na entrega?
+[09:38] Atendente: A entrega segue as regras da transportadora contratada, e os avisos chegam por e-mail e SMS. Se houver dúvida, o SAC pode orientar.
+[09:40] Cliente: Certo, obrigado.
+[09:41] Atendente: Bom dia, Sérgio. Fique à vontade para chamar aqui.
+---
+Resolução: Rastreamento sem atualização há dois dias, com pedido em trânsito. A cliente foi orientada a aguardar as notificações de e-mail e SMS e o caso foi registrado no protocolo LV-2026-166452 para verificação, caso a movimentação não retorne.

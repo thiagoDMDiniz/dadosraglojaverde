@@ -1,0 +1,40 @@
+ATA DO COMITÊ DE TECNOLOGIA DE MAIO DE 2026
+USO INTERNO. Reunião realizada em 18/05/2026, por videoconferência, das 14h às 15h20.
+
+PARTICIPANTES
+- Bruno, diretor de tecnologia (coordenador do comitê)
+- Lucas, gerente de sistemas de loja
+- Vanessa, coordenadora de suporte ao aplicativo
+- Gustavo, analista de infraestrutura
+- Priscila, representante da área de atendimento
+- Isabela, secretária do comitê (redigiu a ata)
+
+PAUTA
+1. Estabilidade do aplicativo durante a Semana Verde
+2. Códigos ERR mais frequentes em maio
+3. Roadmap do terceiro trimestre
+
+DISCUSSÃO
+
+Estabilidade do aplicativo. Gustavo informou que a ampliação da fila de pagamentos, feita em março, reduziu o tempo de espera nos horários de pico. Durante a Semana Verde, o aplicativo registrou o maior número de acessos já medido, sem queda de serviço. Vanessa relatou que a maioria das reclamações de lentidão veio de aparelhos antigos e que o time avaliará a compatibilidade mínima com o sistema operacional.
+
+Códigos ERR mais frequentes. Priscila apresentou o levantamento do mês. O ERR-5308, de cartão recusado pela operadora, passou a ser o código mais citado no atendimento, principalmente em compras parceladas acima de R$ 500. O ERR-4217, de Pix não confirmado em 30 minutos, caiu depois da revisão das mensagens de tela. O comitê analisou se o texto do ERR-5308 deve sugerir ao cliente a troca de cartão ou a procura do banco emissor, e confirmou que a orientação atual está adequada.
+
+Roadmap. Lucas apresentou o andamento da tela de acompanhamento de trocas, que entrou em testes internos, e da leitura automática da etiqueta de postagem, já homologada. A equipe propôs que a próxima entrega seja a página de status automático de pedidos, pedida pelo atendimento aos sábados. Bruno aprovou a proposta, desde que a página não altere o fluxo de pagamento.
+
+Segurança. Gustavo lembrou que a Loja Verde nunca pede senha, token ou código de segurança por telefone, e-mail ou mensagem. Recomendou que essa informação apareça de forma destacada na tela de confirmação de pedidos e nas mensagens automáticas.
+
+DECISÕES
+
+1. Manter a orientação atual do texto do ERR-5308 nas telas de atendimento.
+2. Priorizar, no roadmap do terceiro trimestre, a página de status automático de pedidos.
+3. Testar a compatibilidade mínima do aplicativo com aparelhos antigos antes de qualquer corte de suporte.
+4. Incluir o aviso de segurança sobre senhas e códigos na tela de confirmação de pedidos.
+
+ENCAMINHAMENTOS
+
+- Lucas: entregar o cronograma da página de status automático. Prazo: 08/06/2026.
+- Vanessa: levantar os modelos de aparelho com mais reclamações de lentidão. Prazo: 05/06/2026.
+- Gustavo: documentar o efeito da ampliação da fila no tempo de espera. Prazo: 15/06/2026.
+- Priscila: validar com o atendimento o texto do aviso de segurança. Prazo: 29/05/2026.
+- Isabela: enviar a ata e o painel de acessos ao comitê. Prazo: 22/05/2026.

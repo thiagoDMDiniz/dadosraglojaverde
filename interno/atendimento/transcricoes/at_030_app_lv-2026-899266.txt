@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-899266 (APP)
+Protocolo: LV-2026-899266
+Canal: Telefone (SAC)
+Data: 2026-01-10
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[13:20] Cliente: Boa tarde. Preciso abrir uma garantia, mas não achei onde fazer isso.
+[13:22] Atendente: Boa tarde, Lucas. Posso te orientar. O acionamento da garantia é feito por chamado no aplicativo, e não diretamente por telefone.
+[13:23] Cliente: Chamado no aplicativo? Onde fica?
+[13:24] Atendente: Abra o aplicativo, entre em Meus Pedidos e escolha o produto com problema. Depois toque na opção de suporte ou garantia.
+[13:26] Cliente: Achei a opção. Mas aparece um botão de cancelamento também. Cuidado.
+[13:27] Atendente: Não toque nesse botão. Ele cancela o pedido, e não abre chamado. O correto é o que fala de defeito ou garantia.
+[13:29] Cliente: Ok. Depois de abrir, o que acontece?
+[13:30] Atendente: O chamado é encaminhado à assistência autorizada. Você recebe as atualizações no aplicativo e por e-mail.
+[13:32] Cliente: E quanto tempo demora?
+[13:33] Atendente: O prazo máximo de reparo é de 30 dias. Se passar disso, você escolhe entre troca, devolução do valor ou abatimento.
+[13:35] Cliente: Certo. Vou abrir pelo app agora.
+[13:36] Atendente: Ótimo. Protocolo LV-2026-899266. Qualquer dúvida é só ligar de novo.
+[13:37] Cliente: Obrigado, Bruna.
+[13:38] Cliente: E se o aplicativo não mostrar o botão de garantia?
+[13:40] Atendente: Atualize o aplicativo pela loja do celular e tente de novo. Se o botão continuar sumido, me ligue novamente que eu abro o chamado pelo sistema.
+[13:41] Cliente: Perfeito. Vou atualizar agora.
+---
+Resolução: cliente orientado a abrir a garantia pelo chamado no aplicativo, com o caminho Meus Pedidos e a atenção ao botão de cancelamento. O prazo máximo de reparo de 30 dias e as opções após esse prazo foram explicados.

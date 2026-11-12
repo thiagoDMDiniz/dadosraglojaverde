@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-417989 (TROCA)
+USO INTERNO
+Protocolo: LV-2026-417989
+Canal: chat do site
+Data: 10/01/2026
+Cliente: Carlos (CPF ***.***.***-**)
+Atendente: Natália
+---
+[18:20] Cliente: Boa noite. Comprei um fone pelo aplicativo e me arrependi. Dá para devolver?
+[18:22] Atendente: Boa noite, Carlos. Aqui é a Natália. Compras feitas pelo site ou aplicativo têm direito ao arrependimento. Você recebeu o produto quando?
+[18:23] Cliente: Recebi há 5 dias.
+[18:24] Atendente: Então está dentro do prazo. O arrependimento pode ser solicitado em até 7 dias corridos após a entrega.
+[18:26] Cliente: E o frete eu pago?
+[18:27] Atendente: Não. Na devolução por arrependimento a Loja Verde devolve o valor integral, inclusive o frete.
+[18:28] Cliente: Perfeito. E o reembolso, quando sai?
+[18:30] Atendente: Depois que a devolução é aprovada, o reembolso é feito em até 10 dias úteis, na mesma forma de pagamento.
+[18:31] Cliente: Paguei no cartão. Dá para ver na fatura?
+[18:33] Atendente: No cartão de crédito o estorno pode aparecer em até duas faturas, dependendo do fechamento do banco.
+[18:34] Cliente: Hum, então pode demorar.
+[18:35] Atendente: Pode. Mas o prazo de devolução é contado a partir da aprovação, e o acompanhamento fica no seu protocolo.
+[18:37] Cliente: E como eu peço isso agora?
+[18:38] Atendente: Acesse o aplicativo, vá em Meus Pedidos e escolha Trocar ou devolver. A etiqueta de postagem chega por e-mail em até 24 horas.
+[18:40] Cliente: Ótimo, vou fazer agora. Obrigado.
+[18:40] Atendente: Até logo, Carlos!
+---
+Resolução: O cliente foi orientado sobre o arrependimento de compra feita pelo aplicativo, dentro do prazo de 7 dias corridos após a entrega, com devolução integral inclusive o frete e reembolso em até 10 dias úteis.

@@ -1,0 +1,28 @@
+ATENDIMENTO LV-2026-835898 (APP)
+Classificação: USO INTERNO
+Protocolo: LV-2026-835898
+Canal: chat do aplicativo
+Data: 18/05/2026
+Cliente: Marcos (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[14:02] Cliente: Boa tarde. A TV que comprei em março deu defeito na barra de som. Como eu faço para pedir a garantia?
+[14:03] Atendente: Boa tarde, Marcos. Vou ajudar. O acionamento da garantia é feito por chamado no aplicativo, e a assistência autorizada cuida do reparo. Você está logado na conta usada na compra?
+[14:04] Cliente: Estou sim.
+[14:04] Atendente: Ótimo. Abra Meus Pedidos, escolha o pedido e toque em Abrir chamado. Descreva o defeito com o máximo de detalhes possível, porque isso agiliza a análise.
+[14:06] Cliente: Achei a opção. Aparece um campo com a data da entrega.
+[14:07] Atendente: Isso mesmo. A garantia conta a partir da entrega. Informe a data real, que consta no comprovante do pedido.
+[14:08] Cliente: Entregue em 2 de março. Ainda está dentro do prazo?
+[14:09] Atendente: Sim. Eletrônicos têm garantia de 12 meses contra defeitos de fabricação a partir da entrega. Você está dentro desse período, então o chamado segue normalmente.
+[14:10] Cliente: E preciso levar a TV na loja?
+[14:11] Atendente: Não precisa. Depois de aberto, o chamado mostra a assistência autorizada e as etapas de coleta ou atendimento. O prazo máximo de reparo é de 30 dias, e você acompanha tudo pelo próprio aplicativo.
+[14:12] Cliente: E a barra de som entra junto?
+[14:13] Atendente: Entra, desde que o chamado descreva os dois itens. Se forem de pedidos diferentes, abra um chamado para cada um.
+[14:14] Cliente: E se a TV tiver caído? Foi minha culpa, bateu na estante.
+[14:15] Atendente: Quedas não são cobertas pela garantia. Mesmo assim, o chamado registra o caso e a assistência faz a avaliação técnica e informa o resultado antes de qualquer decisão.
+[14:17] Cliente: Entendi. Vou abrir agora mesmo.
+[14:18] Atendente: Perfeito. Guarde o número do chamado. Se tiver dúvidas, o SAC atende pelo 0800 700 0100, de segunda a sexta, das 8h às 20h.
+[14:19] Cliente: Obrigado, Larissa. Chamado aberto.
+[14:20] Atendente: Ótimo, Marcos. Boa tarde e bom uso da TV.
+---
+Resolução: Chamado de garantia aberto pelo aplicativo, com a data de entrega informada e a orientação de acompanhar a assistência autorizada sem levar o aparelho à loja.

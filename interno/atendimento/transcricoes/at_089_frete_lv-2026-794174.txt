@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-794174 (FRETE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-794174
+Canal: balcão da loja
+Data: 14/04/2026
+Cliente: Aline (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[13:05] Cliente: Boa tarde. Meu marido vai retirar o pedido da minha compra. Ele pode ir sem mim?
+[13:06] Atendente: Boa tarde, Aline. Pode sim. Quem retira precisa apresentar documento com foto e informar o número do pedido.
+[13:08] Cliente: Ele tem documento com foto, então não tem problema?
+[13:09] Atendente: Não tem problema, desde que o nome do documento seja válido. O balcão confere a identidade de quem está retirando.
+[13:11] Cliente: E ele precisa levar algo meu?
+[13:12] Atendente: Só o número do pedido. Se você tiver o comprovante, também ajuda a agilizar.
+[13:14] Cliente: Quando o pedido fica pronto? Paguei agora de manhã.
+[13:15] Atendente: A retirada é liberada a partir de 4 horas depois da confirmação do pagamento. Como o pagamento foi pela manhã, deve estar liberado.
+[13:17] Cliente: Eu estou irritada, já tinha dito que faria a retirada hoje e não consegui vir.
+[13:18] Atendente: Entendo, Aline. Vou confirmar aqui no sistema se o pedido está disponível para retirada.
+[13:20] Cliente: Sim, por favor, e verifique se ele pode retirar mesmo sem eu estar aqui.
+[13:21] Atendente: Está disponível. Como o titular do pedido é você, o balcão libera a retirada para quem apresentar o documento com foto.
+[13:23] Cliente: Ok, obrigada.
+[13:24] Atendente: Sabará fica aberta até as 19h de segunda a sábado, então ele consegue retirar hoje. O estacionamento conveniado da rua oferece 1 hora grátis.
+---
+Resolução: Cliente informada de que o marido pode retirar o pedido com documento com foto e número do pedido, com liberação a partir de 4 horas após a confirmação do pagamento, e de que a unidade Sabará funciona até as 19h.

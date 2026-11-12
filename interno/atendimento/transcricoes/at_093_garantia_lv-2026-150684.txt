@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-150684 (GARANTIA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-150684
+Canal: telefone (SAC)
+Data: 04/06/2026
+Cliente: Paulo (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[14:20] Cliente: Boa tarde. Derrubei água no notebook ontem à noite e ele não liga. Ainda tenho garantia?
+[14:21] Atendente: Boa tarde, Paulo. Sinto muito. Pode me dizer quando o aparelho foi entregue?
+[14:22] Cliente: Foi em março. Mas a garantia cobre, né?
+[14:23] Atendente: A garantia cobre defeitos de fabricação, mas não cobre contato com líquidos. Como o problema foi a água, o caso não entra na cobertura.
+[14:25] Cliente: Mas o notebook estava funcionando até ontem. Não foi defeito?
+[14:26] Atendente: Entendo a sua dúvida. Mesmo assim, a regra de exclusão é clara: contato com líquidos não é coberto. A avaliação técnica pode confirmar a causa.
+[14:28] Cliente: E se eu levar num técnico particular antes?
+[14:29] Atendente: Isso é uma decisão sua. Vale saber que, na assistência autorizada, o diagnóstico vem antes de qualquer valor, e o laudo do técnico pode ajudar na análise.
+[14:31] Cliente: Então vale a pena abrir o chamado mesmo assim?
+[14:32] Atendente: Vale, porque a assistência confirma a causa. Se o laudo indicar defeito de fábrica, o caso é tratado como garantia.
+[14:34] Cliente: Ok. Quero entender antes de pagar qualquer coisa.
+[14:35] Atendente: Perfeito. Nenhum valor é cobrado sem o seu consentimento. Você pode consultar o andamento pelo aplicativo.
+[14:37] Cliente: Entendi. Vou abrir o chamado e acompanhar.
+[14:38] Atendente: Boa decisão, Paulo. Se surgir dúvida, o SAC atende pelo 0800 700 0100.
+---
+Resolução: Cliente informado de que o contato com líquidos não é coberto pela garantia, com orientação para abrir o chamado para avaliação técnica e acompanhar o andamento pelo aplicativo.

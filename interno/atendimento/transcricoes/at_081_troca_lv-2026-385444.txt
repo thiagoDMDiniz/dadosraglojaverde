@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-385444 (TROCA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-385444
+Canal: telefone (SAC)
+Data: 12/09/2026
+Cliente: Ricardo (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[15:02] Cliente: Comprei um fone pelo aplicativo há cinco dias e me arrependi. Quero devolver. Já chegou e está lacrado.
+[15:03] Atendente: Boa tarde, Ricardo. Compras feitas pelo site ou pelo aplicativo têm direito de arrependimento em até 7 dias corridos após a entrega.
+[15:05] Cliente: Então estou dentro do prazo?
+[15:06] Atendente: Está. Os cinco dias já passaram do início da contagem, e você ainda tem alguns dias para pedir a devolução.
+[15:07] Cliente: Mas o fone está lacrado, eu nem abri a caixa.
+[15:08] Atendente: Que bom. No arrependimento, o item precisa estar na embalagem original. Se o lacre estiver intacto, o processo segue normalmente.
+[15:10] Cliente: E o frete, eu pago?
+[15:11] Atendente: Não. No arrependimento, a devolução é integral, inclusive o frete da compra.
+[15:12] Cliente: Ótimo. E como eu peço isso? Não quero ir na loja.
+[15:13] Atendente: Pelo aplicativo: acesse Meus Pedidos, escolha o pedido e toque em Trocar ou devolver. A etiqueta de postagem chega por e-mail em até 24 horas.
+[15:15] Cliente: Já tentei pelo app e deu erro ontem.
+[15:16] Atendente: Lamento. Vou abrir a solicitação aqui pelo SAC, então você não precisa repetir o pedido.
+[15:18] Cliente: Obrigado. E o reembolso, quando sai?
+[15:19] Atendente: Depois que a devolução for aprovada, o reembolso sai em até 10 dias úteis, na mesma forma de pagamento usada na compra.
+[15:21] Cliente: Está bem, é o que eu queria saber.
+[15:22] Atendente: Perfeito, Ricardo. Você recebe a etiqueta por e-mail. Qualquer dúvida, ligue no 0800 700 0100.
+---
+Resolução: Solicitação de arrependimento aberta pelo SAC dentro do prazo de 7 dias corridos após a entrega, com devolução integral inclusive o frete e etiqueta de postagem enviada por e-mail.

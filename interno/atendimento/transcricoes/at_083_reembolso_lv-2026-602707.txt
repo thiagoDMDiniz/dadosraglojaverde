@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-602707 (REEMBOLSO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-602707
+Canal: telefone (SAC)
+Data: 01/02/2026
+Cliente: Juliana (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[09:40] Cliente: Bom dia. Devolvi um produto e o estorno não apareceu na fatura do cartão. Já passou um mês.
+[09:42] Atendente: Bom dia, Juliana. Vou localizar a devolução. Você tem o número do pedido ou o protocolo da devolução?
+[09:44] Cliente: Tenho o número do pedido. A devolução foi aprovada em dezembro.
+[09:46] Atendente: Localizei. A devolução está aprovada, e o reembolso é feito em até 10 dias úteis, na mesma forma de pagamento usada na compra.
+[09:48] Cliente: Mas já passou muito mais que isso.
+[09:50] Atendente: Pelo registro, o estorno foi processado. No cartão de crédito, o valor pode demorar a aparecer, porque o banco lança o estorno em até duas faturas.
+[09:52] Cliente: E em quantas faturas aparece?
+[09:54] Atendente: Pode ser na fatura atual ou na seguinte, no máximo em duas. Se nenhuma delas mostrar o valor, me ligue novamente com o número deste protocolo.
+[09:56] Cliente: Entendi. Então o dinheiro não sumiu.
+[09:58] Atendente: Não. O estorno está registrado, o que muda é só o momento em que a fatura mostra o crédito.
+[10:00] Cliente: Ok. Vou conferir na fatura do mês que vem.
+[10:02] Cliente: Se eu ligar de novo, preciso de algum número?
+[10:04] Atendente: Use o protocolo deste atendimento e o número do pedido. Assim quem atender já vê o histórico completo.
+[10:06] Atendente: Combinado, Juliana. Caso não apareça, ligue pelo 0800 700 0100, de segunda a sexta.
+[10:08] Cliente: Obrigada, era isso.
+---
+Resolução: Estorno da devolução aprovada confirmado como processado, com orientação de que o crédito pode aparecer em até duas faturas e que o reembolso segue o prazo de 10 dias úteis.

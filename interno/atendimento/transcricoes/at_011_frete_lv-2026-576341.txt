@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-576341 (FRETE)
+Protocolo: LV-2026-576341
+Canal: WhatsApp oficial
+Data: 2026-05-16
+Cliente: Marcos (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[12:02] Cliente: Oi, Vinícius. Fiz um pedido para retirar na loja e não vou conseguir ir. Quem pode buscar?
+[12:04] Atendente: Oi, Marcos. Quem retira precisa apresentar documento com foto e o número do pedido. Pode ser outra pessoa?
+[12:05] Cliente: Pode ser meu irmão? O pedido está no meu nome.
+[12:06] Atendente: Sim, desde que ele leve documento com foto e o número do pedido. A loja confere os dados na retirada.
+[12:08] Cliente: E a partir de quando dá para buscar? Paguei ontem.
+[12:09] Atendente: A retirada fica disponível a partir de 4 horas depois da confirmação do pagamento. Como o pagamento foi confirmado ontem, o pedido já está liberado.
+[12:10] Cliente: Ótimo. E se for só amanhã?
+[12:11] Atendente: Amanhã também funciona. O pedido fica disponível por 7 dias corridos, então dá tempo.
+[12:13] Cliente: Perfeito. Manda o número para ele no WhatsApp?
+[12:14] Atendente: Não envio o número para terceiros por aqui. Por segurança, o senhor deve passar o número ao seu irmão diretamente.
+[12:15] Cliente: Ah, faz sentido. Pode deixar.
+[12:16] Atendente: Tudo certo. Protocolo LV-2026-576341. Qualquer coisa é só chamar por aqui.
+[12:17] Cliente: Valeu, Vinícius!
+[12:18] Cliente: E se ele não conseguir ir e eu precisar cancelar a retirada?
+[12:20] Atendente: O pedido pode ser cancelado pelo aplicativo, na tela do próprio pedido, antes da retirada. Depois de retirado, a regra de troca vale normalmente.
+[12:21] Cliente: Perfeito, obrigado pela explicação.
+---
+Resolução: retirada autorizada para terceiro com documento com foto e número do pedido, disponível a partir de 4 horas depois da confirmação do pagamento e por 7 dias corridos. O cliente foi orientado a repassar o número diretamente ao irmão.

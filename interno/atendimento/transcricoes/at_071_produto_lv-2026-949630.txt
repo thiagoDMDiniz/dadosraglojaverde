@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-949630 (PRODUTO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-949630
+Canal: chat do site
+Data: 25/10/2026
+Cliente: Renata (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[09:12] Cliente: Bom dia. Vi um smartphone no site e queria saber se tem na unidade Pampulha.
+[09:13] Atendente: Bom dia, Renata. Vou consultar o estoque da unidade Pampulha. Você prefere ver o modelo pelo código do produto ou pelo nome?
+[09:14] Cliente: Pelo nome, é o modelo azul de 256 GB.
+[09:16] Atendente: Encontrei. Ele aparece disponível na Pampulha. Para retirar, a unidade fica na Avenida Lagoa Clara, 880, e funciona das 9h às 21h de segunda a sábado.
+[09:18] Cliente: Perfeito. Posso reservar pelo site ou tem que ir até a loja?
+[09:19] Atendente: Você pode fazer o pedido pelo site ou pelo aplicativo e escolher a retirada na Pampulha. Não é preciso ir até a loja antes.
+[09:21] Cliente: Entendi. E então retiro hoje?
+[09:22] Atendente: Depende do horário da confirmação. A retirada na loja fica disponível a partir de 4 horas depois da confirmação do pagamento, com documento com foto.
+[09:24] Cliente: Ah, então é um tempinho. E se eu pagar no Pix, muda o prazo?
+[09:25] Atendente: O prazo de retirada é o mesmo. O Pix tem 5% de desconto e expira em 30 minutos, então confirme o pagamento logo após gerar o código.
+[09:27] Cliente: Acho que vou de cartão, tenho medo de perder o prazo do Pix.
+[09:28] Atendente: Faz sentido. No cartão de crédito, o pagamento pode ser feito em até 10 vezes sem juros, com parcela mínima de R$ 50.
+[09:30] Cliente: Ótimo. Vou fazer agora e levo o documento.
+[09:31] Atendente: Combinado. O pedido fica disponível na loja por 7 dias corridos. Qualquer dúvida, o WhatsApp oficial é (31) 99000-0100.
+---
+Resolução: Cliente informada de que o smartphone está disponível na unidade Pampulha, com retirada possível a partir de 4 horas após a confirmação do pagamento e com documento com foto.

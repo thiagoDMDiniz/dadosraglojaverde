@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-216383 (FRETE)
+Protocolo: LV-2026-216383
+Canal: Balcão da loja
+Data: 2026-04-01
+Cliente: Eduardo (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[11:14] Cliente: Bom dia. Tentei finalizar a compra no site e apareceu um erro. Não sei se fiz algo errado.
+[11:16] Atendente: Bom dia, Eduardo. Você lembra o código que apareceu na tela?
+[11:16] Cliente: Acho que era ERR-7142. Não tenho certeza.
+[11:18] Atendente: O código ERR-7142 indica que o endereço informado não é atendido pela transportadora. Por isso o pedido não avança. Não foi erro seu.
+[11:20] Cliente: Mas eu moro em Venda Nova, é bem perto daqui.
+[11:21] Atendente: Vou conferir o cadastro do endereço com você. Pode confirmar o CEP?
+[11:23] Cliente: Confirmo, é o mesmo do meu documento.
+[11:24] Atendente: Obrigado. O endereço está correto, mas a transportadora não cobre aquela rua no momento. Não é possível entregar por frete.
+[11:26] Cliente: E agora? Eu preciso desse produto esta semana.
+[11:27] Atendente: A alternativa é a retirada na loja. Você pode buscar aqui mesmo na Venda Nova, sem custo de frete.
+[11:29] Cliente: Então eu pego lá mesmo? E se eu não puder vir?
+[11:30] Atendente: Aí alguém pode retirar, com documento com foto e o número do pedido. O pedido fica disponível por 7 dias corridos.
+[11:32] Cliente: Ok. Vou comprar pela retirada então.
+[11:33] Atendente: Perfeito. Vou te ajudar a refazer o pedido com essa opção, Eduardo.
+---
+Resolução: pedido recusado pelo frete por limitação da transportadora no endereço, com a retirada na loja Venda Nova como alternativa. O cliente refez a compra escolhendo a retirada.

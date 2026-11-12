@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-230192 (PAGAMENTO)
+USO INTERNO
+Protocolo: LV-2026-230192
+Canal: WhatsApp oficial
+Data: 20/08/2026
+Cliente: Marcos (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[15:40] Cliente: Oi, meu pedido foi cancelado! Eu paguei no Pix e o sistema disse que não confirmou.
+[15:42] Atendente: Oi, Marcos. Aqui é a Priscila. Vou verificar o pedido. Está aparecendo algum código de erro?
+[15:43] Cliente: Está sim, ERR-4217.
+[15:45] Atendente: Obrigada. O código ERR-4217 indica que o pagamento por Pix não foi confirmado em 30 minutos. O pedido é cancelado automaticamente e nenhum valor é cobrado.
+[15:46] Cliente: Mas eu paguei! Eu vi o comprovante.
+[15:48] Atendente: Entendo. Pode ter acontecido de o pagamento ser feito depois do prazo de 30 minutos. Nesse caso, o pagamento não foi vinculado ao pedido.
+[15:50] Cliente: E agora? Tenho que comprar tudo de novo?
+[15:51] Atendente: Você pode fazer um novo pedido, e o carrinho pode ser refeito em poucos minutos. Confira se o Pix é pago dentro do prazo indicado na tela.
+[15:53] Cliente: Hum, e se eu pagar de novo agora?
+[15:54] Atendente: Se o pagamento for feito novamente dentro dos 30 minutos do novo pedido, ele é confirmado normalmente.
+[15:56] Cliente: Ok, vou refazer. E o dinheiro do primeiro Pix?
+[15:57] Atendente: Como nenhum valor foi cobrado pelo pedido cancelado, vou verificar com o financeiro e te retorno por aqui.
+[15:59] Cliente: Combinado. Obrigado, Priscila.
+[16:00] Atendente: Até logo, Marcos!
+---
+Resolução: Pedido cancelado automaticamente por Pix não confirmado em tempo, com o código ERR-4217. O cliente foi orientado a refazer o pedido e a conferir o prazo do Pix na tela. A equipe financeira vai verificar o pagamento anterior.

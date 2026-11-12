@@ -1,0 +1,30 @@
+ATENDIMENTO LV-2026-171898 (PAGAMENTO)
+USO INTERNO
+Protocolo: LV-2026-171898
+Canal: chat do aplicativo
+Data: 06/01/2026
+Cliente: Ricardo (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[20:10] Cliente: Boa noite, Priscila! Quero parcelar em 10 vezes. Consigo?
+[20:12] Atendente: Boa noite, Ricardo. Aqui é a Priscila. Sim, no cartão de crédito é possível parcelar em até 10 vezes sem juros.
+[20:13] Cliente: Perfeito. E o valor de cada parcela?
+[20:14] Atendente: Depende do total da compra. Mas a parcela mínima é de R$ 50, então o valor da compra precisa comportar pelo menos isso em cada parcela.
+[20:16] Cliente: Ah, então no meu carrinho ficou em 10 vezes de R$ 38?
+[20:17] Atendente: Essa opção não aparece, porque ficaria abaixo da parcela mínima. O sistema oferece parcelamento menor, ou você pode reduzir o número de parcelas.
+[20:19] Cliente: Entendi. E se eu usar outro cartão?
+[20:20] Atendente: Pode usar, desde que a parcela mínima seja respeitada no cartão escolhido.
+[20:22] Cliente: Hm. E no Pix, tem parcelamento?
+[20:23] Atendente: Não. O Pix tem desconto de 5% à vista e expira em 30 minutos. Ele não se combina com parcelamento.
+[20:25] Cliente: Ok, então eu fico com as parcelas no cartão mesmo.
+[20:26] Atendente: Perfeito. Você pode escolher a quantidade de parcelas na hora de pagar.
+[20:27] Cliente: Valeu, Priscila.
+[20:27] Atendente: Bom proveito, Ricardo!
+[20:29] Cliente: Mais uma dúvida: se eu parcelar em 10 vezes, a primeira parcela cai quando?
+[20:31] Atendente: A primeira parcela entra na fatura do cartão conforme a data de fechamento do banco emissor. A loja não controla essa data.
+[20:32] Cliente: Entendi. E se eu quiser parcelar em menos vezes?
+[20:33] Atendente: Pode escolher qualquer número de parcelas até 10, desde que a parcela mínima de R$ 50 seja respeitada em cada uma delas.
+[20:35] Cliente: Tudo bem. Então vou no cartão mesmo.
+[20:36] Atendente: Ótimo, Ricardo. Até logo!
+---
+Resolução: O cliente foi informado de que o cartão de crédito permite até 10 vezes sem juros, com parcela mínima de R$ 50, e de que o Pix não se combina com parcelamento. O cliente optou por parcelar no cartão.

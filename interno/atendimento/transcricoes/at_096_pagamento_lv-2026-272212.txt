@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-272212 (PAGAMENTO)
+Classificação: USO INTERNO
+Protocolo: LV-2026-272212
+Canal: telefone (SAC)
+Data: 25/07/2026
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[16:02] Cliente: Quero parcelar a compra do fone em 10 vezes. Consigo?
+[16:03] Atendente: Boa tarde, Lucas. Sim, no cartão de crédito dá para parcelar em até 10 vezes sem juros.
+[16:05] Cliente: Ótimo. Vou no site e escolho essa opção.
+[16:06] Atendente: Antes de escolher, saiba que a parcela mínima é de R$ 50. Isso significa que, para 10 parcelas, o pedido precisa ter pelo menos R$ 500.
+[16:08] Cliente: Como assim? Meu pedido é de R$ 380.
+[16:09] Atendente: Nesse caso, o parcelamento em 10 vezes não está disponível. Você pode escolher menos parcelas, desde que cada uma fique em pelo menos R$ 50.
+[16:11] Cliente: E se eu parcelar em 12?
+[16:12] Atendente: O limite é de 10 vezes sem juros no cartão. Não temos opção com mais parcelas.
+[16:14] Cliente: Que irritante. Então ficaria em 7?
+[16:15] Atendente: Com R$ 380, sete parcelas de R$ 54,29 ainda respeitam o mínimo, mas oito ficariam abaixo de R$ 50. O ideal é pagar à vista no Pix, que tem 5% de desconto e expira em 30 minutos.
+[16:17] Cliente: Hum, não tinha pensado no Pix.
+[16:18] Atendente: Pensando no seu valor, é a opção mais econômica. Você também pode esperar e somar mais itens ao carrinho.
+[16:20] Cliente: Pode ser. Vou ver aqui com calma.
+[16:21] Atendente: Combinado, Lucas. Qualquer dúvida, o WhatsApp oficial é (31) 99000-0100.
+---
+Resolução: Cliente informado de que o parcelamento em até 10 vezes sem juros exige parcela mínima de R$ 50, e de que o Pix, com 5% de desconto, é a opção mais econômica para o valor do pedido.

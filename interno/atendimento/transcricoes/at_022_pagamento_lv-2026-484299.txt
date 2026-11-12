@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-484299 (PAGAMENTO)
+Protocolo: LV-2026-484299
+Canal: Chat do aplicativo
+Data: 2026-02-26
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Natália
+---
+[12:01] Cliente: Oi, rapidinho: posso usar o desconto do Pix e parcelar ao mesmo tempo?
+[12:03] Atendente: Oi, Cláudia. O desconto do Pix não se combina com parcelamento. São duas opções separadas.
+[12:04] Cliente: E se eu pagar no Pix em 2 vezes?
+[12:05] Atendente: O Pix não é parcelado. Ele é pagamento à vista, com 5% de desconto sobre o valor do pedido.
+[12:06] Cliente: Hum. Então qual compensa mais?
+[12:08] Atendente: Depende do que você prefere. Se pagar à vista, o Pix dá 5% de desconto e expira em 30 minutos depois de gerado. Se parcelar, o cartão aceita até 10 vezes sem juros, com parcela mínima de R$ 50.
+[12:10] Cliente: E no débito?
+[12:11] Atendente: O débito existe apenas nas lojas físicas. No site e no aplicativo, as opções são Pix, boleto e cartão de crédito.
+[12:13] Cliente: Ok. Então pago no cartão, sem Pix.
+[12:14] Atendente: Perfeito. Se quiser, eu calculo o valor de cada parcela para o seu pedido.
+[12:15] Cliente: Pode calcular, por favor.
+[12:17] Atendente: Pronto. Em 10 vezes, cada parcela fica em R$ 48,90. Como o valor ficou abaixo do mínimo, o sistema ajusta o número de parcelas para respeitar o mínimo de R$ 50.
+[12:19] Cliente: Então faz 9 vezes?
+[12:20] Atendente: Isso. Em 9 vezes, cada parcela fica acima de R$ 50. Confirmo se quiser fechar.
+[12:21] Cliente: Pode fechar em 9.
+[12:22] Atendente: Certo. Protocolo LV-2026-484299. Obrigada pela preferência, Cláudia.
+---
+Resolução: cliente informada de que o desconto do Pix não se combina com parcelamento e de que a parcela mínima é de R$ 50. A cliente optou pelo cartão em 9 vezes após o cálculo do sistema.

@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-438332 (LOJA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-438332
+Canal: telefone (SAC)
+Data: 10/10/2026
+Cliente: Aline (CPF ***.***.***-**)
+Atendente: Natália
+---
+[11:05] Cliente: Oi, bom dia. Vou até a loja da Lourdes de carro. Tem onde deixar?
+[11:06] Atendente: Bom dia, Aline. A unidade Lourdes é uma loja boutique e não tem estacionamento próprio, mas tem convênio com garagem vizinha.
+[11:07] Cliente: Como funciona esse convênio?
+[11:08] Atendente: A garagem fica perto da unidade, e o cliente tem 2 horas grátis. Basta apresentar o comprovante de compra ou o número do pedido na saída.
+[11:10] Cliente: E se eu não comprar nada, só olhar?
+[11:11] Atendente: Nesse caso, a regra de 2 horas continua valendo para a permanência, mas peça ao caixa a validação antes de sair para garantir o desconto.
+[11:13] Cliente: Entendi. E se eu ficar mais de duas horas?
+[11:14] Atendente: Depois das 2 horas, a garagem cobra a tarifa normal. Por isso, sugiro chegar já com a intenção de compra definida.
+[11:16] Cliente: Ok. E o horário da loja? Abre no sábado?
+[11:17] Atendente: Sim. A Lourdes funciona de segunda a sábado, das 10h às 20h. Aos domingos, a unidade fica fechada.
+[11:19] Cliente: Certo, então sábado de manhã dá para ir.
+[11:20] Atendente: Dá sim. Se quiser, consulte antes o estoque no site, porque a unidade é compacta e alguns departamentos não existem lá.
+[11:22] Cliente: Quais departamentos não existem na Lourdes?
+[11:23] Atendente: Eletrodomésticos, Brinquedos e Jardim e Sustentabilidade. Para esses itens, a retirada pode ser feita em outra unidade.
+[11:25] Cliente: Perfeito, obrigada, Natália.
+---
+Resolução: Cliente informada sobre o convênio com garagem vizinha da unidade Lourdes, com 2 horas grátis mediante comprovante de compra, e sobre os departamentos que não existem na loja.

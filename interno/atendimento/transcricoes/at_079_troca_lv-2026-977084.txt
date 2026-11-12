@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-977084 (TROCA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-977084
+Canal: balcão da loja
+Data: 03/06/2026
+Cliente: Carlos (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[11:14] Cliente: Oi, comprei um tênis há 12 dias e não serviu. Ainda posso trocar?
+[11:16] Atendente: Oi, Carlos. Sim, você ainda está dentro do prazo de troca. A troca é possível em até 30 dias corridos após a entrega.
+[11:18] Cliente: Ótimo. O tênis está sem uso e a caixa é a original.
+[11:20] Atendente: Perfeito. O item precisa estar sem sinais de uso e na embalagem original, e a nota fiscal ou o número do pedido é suficiente.
+[11:22] Cliente: Quero trocar por outro número. Dá para ser igual?
+[11:24] Atendente: Dá sim, desde que o número esteja disponível nesta unidade. Vou verificar aqui no sistema.
+[11:26] Cliente: E se o tênis tivesse sido comprado na promoção?
+[11:28] Atendente: Aí a regra muda. Produtos comprados em promoção não têm devolução em dinheiro e a troca é somente por vale-compras, válido por 120 dias a partir da emissão.
+[11:30] Cliente: Entendi. Mas esse não foi em promoção, né?
+[11:32] Atendente: Não consta promoção nesse pedido. Então a troca por outro número segue normalmente, sem vale.
+[11:34] Cliente: Ótimo. Tem o 42 disponível?
+[11:36] Atendente: Tem sim. Vou separar e você confere antes de sair.
+[11:38] Cliente: E se o número novo também não servir?
+[11:40] Atendente: Você pode voltar aqui dentro do mesmo prazo de 30 dias corridos após a entrega, com a nota fiscal ou o número do pedido.
+[11:42] Cliente: Perfeito, obrigado. Pode separar.
+[11:44] Atendente: Feito, Carlos. Você pode trocar em qualquer unidade no mesmo prazo, bastando apresentar a nota ou o número do pedido.
+---
+Resolução: Troca do tênis por outro número autorizada no balcão dentro do prazo de 30 dias corridos após a entrega, com a orientação de que compras em promoção são trocadas somente por vale-compras.

@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-582439 (CUPOM)
+Protocolo: LV-2026-582439
+Canal: Balcão da loja
+Data: 2026-06-21
+Cliente: Patrícia (CPF ***.***.***-**)
+Atendente: Bruna
+---
+[16:20] Cliente: Oi, boa tarde! Ouvi falar de um cupom de boas-vindas e quero usar com o Pix. Pode?
+[16:22] Atendente: Boa tarde, Patrícia! Qual cupom você tem em mente?
+[16:23] Cliente: O BEMVINDO10. Um amigo meu usou na primeira compra dele.
+[16:25] Atendente: Ótimo. O BEMVINDO10 dá 10% de desconto na primeira compra pelo aplicativo, limitado a R$ 80 de desconto. Ele é válido somente para quem ainda não comprou com a gente.
+[16:26] Cliente: Eu nunca comprei, então sou elegível. E no Pix?
+[16:28] Atendente: Aí tem um detalhe. O BEMVINDO10 não é cumulativo com o Pix. Você escolhe um dos dois, e o sistema aplica o melhor para você no pagamento.
+[16:30] Cliente: Hum, mas eu queria juntar os dois.
+[16:31] Atendente: Entendo. Infelizmente não é possível. Se o pedido for pelo aplicativo, pode comparar os dois valores no carrinho antes de pagar.
+[16:33] Cliente: E se eu comprar aqui na loja?
+[16:34] Atendente: Na loja física o BEMVINDO10 não é aplicado, porque ele vale apenas na primeira compra pelo aplicativo. Aqui você pode pagar no débito, no vale-compras ou no cartão-presente.
+[16:36] Cliente: Então pelo aplicativo, e com o cupom, o valor é melhor?
+[16:37] Atendente: Depende do pedido. Vou simular os dois para você agora, se quiser me passar o produto.
+[16:39] Cliente: É um liquidificador. Pode simular.
+[16:41] Atendente: Pronto. Com o cupom, o desconto fica mais alto. Então o aplicativo é a melhor opção para você.
+[16:42] Cliente: Ok, obrigada, Bruna. Vou comprar pelo app então.
+[16:43] Atendente: Perfeito. Protocolo LV-2026-582439. Boas compras, Patrícia!
+---
+Resolução: cupom BEMVINDO10 explicado como válido na primeira compra pelo aplicativo, limitado a R$ 80 e não cumulativo com Pix. A cliente decidiu comprar pelo aplicativo com o cupom após a simulação de valores.

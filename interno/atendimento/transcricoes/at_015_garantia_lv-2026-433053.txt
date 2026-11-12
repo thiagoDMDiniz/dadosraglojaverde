@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-433053 (GARANTIA)
+Protocolo: LV-2026-433053
+Canal: Chat do aplicativo
+Data: 2026-06-06
+Cliente: Mariana (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[20:11] Cliente: Boa noite. Derrubei água em cima do meu notebook. Ele ligou ainda, mas a tela piscou. A garantia cobre?
+[20:13] Atendente: Boa noite, Mariana. Sinto muito pelo susto. Essa situação é coberta pela garantia?
+[20:14] Cliente: Não sei. Estou meio sem saber o que fazer.
+[20:16] Atendente: Vou explicar com calma. A garantia de 12 meses cobre defeitos de fabricação, mas não cobre contato com líquidos. Como a água atingiu o equipamento, o reparo não entra na garantia.
+[20:18] Cliente: Ai, que chato. Mas eu desligo ele agora?
+[20:19] Atendente: Sim, desligue e retire a bateria se for possível. Não tente ligar de novo antes da avaliação técnica.
+[20:21] Cliente: Ok, desliguei. E a garantia estendida também não ajuda?
+[20:22] Atendente: A estendida segue a mesma regra. Ela não cobre contato com líquidos, nem queda ou uso em desacordo com o manual.
+[20:24] Cliente: Entendi. Então vou pagar o conserto?
+[20:25] Atendente: Podemos avaliar o aparelho na assistência autorizada. O orçamento sai depois da avaliação, e você decide se faz o reparo.
+[20:27] Cliente: Ok. Quanto tempo leva?
+[20:28] Atendente: O prazo máximo de reparo é de 30 dias, quando o chamado é aberto no aplicativo.
+[20:30] Cliente: Certo. Pode abrir o chamado.
+[20:31] Atendente: Aberto. Protocolo LV-2026-433053. Qualquer atualização chega por aqui.
+---
+Resolução: dano por líquido fora da cobertura da garantia e da garantia estendida, com chamado aberto para avaliação paga pela cliente. A cliente foi orientada a desligar o notebook antes da avaliação técnica.

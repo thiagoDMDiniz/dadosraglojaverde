@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-209918 (GARANTIA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-209918
+Canal: balcão da loja
+Data: 03/07/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Otto
+---
+[11:40] Cliente: Oi, comprei um notebook há 20 dias e quero contratar a garantia estendida. Ainda dá tempo?
+[11:41] Atendente: Oi, Sérgio. Dá sim. A garantia estendida pode ser contratada em até 30 dias após a compra e acrescenta 12 meses à garantia padrão.
+[11:43] Cliente: Pensei que só desse para fazer no dia da compra.
+[11:44] Atendente: Não. O prazo vai até 30 dias após a compra. Como você está dentro dele, é só escolher a contratação aqui no balcão.
+[11:46] Cliente: E o custo, é quanto?
+[11:47] Atendente: Para eletrônicos, o custo é de 12% do valor do produto. Para eletrodomésticos é 10%, e para os demais itens, 8%.
+[11:49] Cliente: Então no meu notebook seria 12%. Faz diferença no que ela cobre?
+[11:50] Atendente: Ela cobre defeitos de fabricação por mais 12 meses. Não cobre queda, contato com líquidos, oscilação da rede elétrica ou uso em desacordo com o manual.
+[11:52] Cliente: Entendi. E se o notebook já tiver tido um problema?
+[11:53] Atendente: Vou precisar verificar o histórico do aparelho antes da contratação. Se houver chamado aberto, a garantia estendida começa a valer depois da análise.
+[11:55] Cliente: Ok, sem chamado. Quero contratar.
+[11:56] Atendente: Ótimo. Vou emitir a garantia estendida com a data de hoje. Guarde o comprovante, que é a prova da contratação.
+[11:58] Cliente: Obrigado, Otto.
+[11:59] Atendente: Por nada, Sérgio. Bom dia e bom uso do notebook.
+---
+Resolução: Garantia estendida contratada no balcão dentro do prazo de 30 dias após a compra, com custo de 12% do valor do notebook e acréscimo de 12 meses à garantia padrão.

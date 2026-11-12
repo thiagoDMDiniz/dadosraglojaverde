@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-442692 (CLUBE)
+Protocolo: LV-2026-442692
+Canal: WhatsApp oficial
+Data: 2026-09-05
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Otto
+---
+[07:45] Cliente: Bom dia. Cadê meus pontos do Clube Verde? Tinha bastante e sumiu tudo.
+[07:47] Atendente: Bom dia, Sérgio. Vou verificar o extrato. Pode me informar a data das compras que geraram os pontos?
+[07:49] Cliente: Foram compras de julho do ano passado.
+[07:51] Atendente: Entendi. Os pontos expiram 12 meses depois da data da compra. Como as compras são de julho do ano passado, os pontos já expiraram.
+[07:52] Cliente: Mas ninguém me avisou! Isso é golpe?
+[07:54] Atendente: Não é golpe. A regra está nos termos do Clube Verde, e o aplicativo mostra a data de expiração em cada compra.
+[07:55] Cliente: Eu não vi isso. Tem como devolver?
+[07:57] Atendente: Não consigo reativar pontos expirados. Posso registrar sua reclamação para a equipe analisar o caso.
+[07:58] Cliente: E os do ano passado, dá para usar agora?
+[08:00] Atendente: Não, porque já passaram os 12 meses da data da compra. Por isso o extrato não mostra mais esses pontos.
+[08:02] Cliente: Ok. Registra a reclamação então. Estou sem paciência.
+[08:03] Atendente: Registrado sob o protocolo LV-2026-442692. A ouvidoria responde em até 10 dias úteis, caso não esteja satisfeito com a resposta.
+[08:05] Cliente: Certo. Obrigado.
+[08:06] Cliente: Mas se eu fizer uma compra nova agora, os antigos voltam?
+[08:08] Atendente: Não. A compra nova gera pontos novos, cada R$ 1 gasto vale 3 pontos, mas os antigos continuam expirados.
+[08:09] Cliente: Ok. Então vou comprar e acumular de novo.
+[08:10] Atendente: Esse é o caminho. Acompanhe o saldo no aplicativo para ver a data de expiração de cada compra.
+---
+Resolução: pontos expirados depois de 12 meses da data da compra, sem possibilidade de reativação pelo atendimento. A reclamação foi registrada e o cliente foi informado do prazo da ouvidoria.

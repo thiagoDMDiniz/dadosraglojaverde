@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-629588 (APP)
+USO INTERNO
+Protocolo: LV-2026-629588
+Canal: telefone (SAC)
+Data: 17/02/2026
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Larissa
+---
+[18:20] Cliente: Boa noite. Não consigo entrar no aplicativo. Diz que a conta está bloqueada.
+[18:22] Atendente: Boa noite, Lucas. Aqui é a Larissa. Vou verificar o cadastro. Pode me confirmar o e-mail usado na conta?
+[18:23] Cliente: Confirmo. É o mesmo do pedido.
+[18:25] Atendente: Obrigada. A conta foi bloqueada por excesso de tentativas de acesso. Isso é uma medida de segurança e não significa que houve dano à sua conta.
+[18:26] Cliente: Ah, mas eu nem sei se errei a senha várias vezes.
+[18:27] Atendente: Entendo. Por isso vamos fazer a recuperação com calma. Vou enviar as instruções para o e-mail cadastrado.
+[18:29] Cliente: E se o e-mail não chegar?
+[18:30] Atendente: Verifique a caixa de spam. Se ainda assim não chegar, a verificação pode ser feita pelo telefone, com dados do pedido.
+[18:32] Cliente: Certo. E vocês vão me pedir a senha por telefone?
+[18:33] Atendente: Não. A Loja Verde nunca pede senha, token ou código de segurança por telefone. A senha você cria apenas no link enviado ao seu e-mail.
+[18:35] Cliente: Ufa. Pode mandar.
+[18:36] Atendente: Enviado. Quando redefinir, faça login normalmente. Se o problema voltar, entre em contato de novo com este protocolo.
+[18:38] Cliente: Obrigado, Larissa.
+[18:38] Atendente: Até logo, Lucas!
+---
+Resolução: Conta bloqueada por medida de segurança após excesso de tentativas de acesso. A recuperação foi enviada por e-mail cadastrado, e o cliente foi orientado de que a loja não solicita senha por telefone.

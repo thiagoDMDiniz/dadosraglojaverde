@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-563688 (BLACK)
+USO INTERNO
+Protocolo: LV-2026-563688
+Canal: WhatsApp oficial
+Data: 01/07/2026
+Cliente: Juliana (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[19:44] Cliente: Oi! Vi que a Black Friday de vocês vem aí. Quando começa e quando acaba?
+[19:46] Atendente: Oi, Juliana! Aqui é o Vinícius. O período da campanha é de 27 a 30 de novembro de 2026.
+[19:47] Cliente: Então dura quatro dias. E tem cupom?
+[19:49] Atendente: Tem o cupom BLACK26, com 12% de desconto adicional em itens selecionados de Eletrônicos. Ele vale nesse mesmo período.
+[19:50] Cliente: Esse vale para tudo?
+[19:52] Atendente: Não é para tudo. O cupom vale apenas em itens selecionados de Eletrônicos e só em compras acima de R$ 500.
+[19:53] Cliente: E se eu comprar um item de R$ 400 e outro de R$ 200?
+[19:55] Atendente: Nesse caso a soma passa de R$ 500 e o cupom pode ser aplicado, desde que os itens estejam na lista selecionada da campanha.
+[19:56] Cliente: E o que fica fora da lista?
+[19:58] Atendente: Os itens que não estão na seleção não recebem o desconto do BLACK26, mesmo que a compra total passe de R$ 500.
+[20:00] Cliente: Hum. E se eu quiser pagar no Pix, junta com o desconto?
+[20:01] Atendente: O desconto do Pix de 5% não se combina com parcelamento. Para o cupom, confirme no carrinho quais itens estão incluídos antes de finalizar.
+[20:03] Cliente: Entendi. Então é melhor eu olhar a lista logo no dia.
+[20:04] Atendente: Isso. Recomendo acompanhar o site e o aplicativo, e você pode me chamar aqui antes de fechar a compra.
+[20:06] Cliente: Combinado. Vou guardar essas datas.
+[20:07] Atendente: Ótimo, Juliana. Aproveite a campanha!
+---
+Resolução: A cliente foi informada do período da Black Friday, de 27 a 30 de novembro de 2026, e das condições do cupom BLACK26, que vale para itens selecionados de Eletrônicos em compras acima de R$ 500.

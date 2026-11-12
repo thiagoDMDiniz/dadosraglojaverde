@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-225465 (FRETE)
+Protocolo: LV-2026-225465
+Canal: Chat do site
+Data: 2026-06-01
+Cliente: Renata (CPF ***.***.***-**)
+Atendente: Natália
+---
+[13:05] Cliente: Boa tarde. Meu pedido deveria ter chegado na semana passada e nada. O rastreio parou.
+[13:07] Atendente: Boa tarde, Renata. Vou verificar o pedido. Pode me passar o número?
+[13:08] Cliente: Pedido 55091.
+[13:10] Atendente: Encontrei. O pedido saiu do centro de distribuição, mas houve atraso na transportadora. Já passaram mais de 5 dias úteis desde a confirmação do pagamento.
+[13:11] Cliente: Então estou com razão em reclamar?
+[13:12] Atendente: Sim. Quando a entrega atrasa mais de 5 dias úteis, a loja gera um cupom de compensação automaticamente. O cupom de R$ 25 (ATRASO25) já foi emitido na sua conta.
+[13:14] Cliente: Ah, bom. Mas o que eu quero é o pedido.
+[13:15] Atendente: Entendo. A entrega está em andamento e a previsão aparece no rastreamento, que também é enviado por e-mail e SMS.
+[13:17] Cliente: E o cupom vale para quê?
+[13:18] Atendente: Ele vale para a sua próxima compra. É só informar o código no carrinho.
+[13:19] Cliente: Ok. E se o pedido não chegar até sexta?
+[13:21] Atendente: Responda este chat com o número do pedido e eu abro uma reclamação formal. O atraso fica registrado no protocolo LV-2026-225465.
+[13:22] Cliente: Combinado. Obrigada.
+[13:23] Atendente: Bom final de semana para você, Renata.
+---
+Resolução: entrega atrasada além de 5 dias úteis, com cupom de compensação de R$ 25 emitido automaticamente. A cliente recebeu a previsão de entrega e o canal para reclamação formal caso o pedido não chegue.

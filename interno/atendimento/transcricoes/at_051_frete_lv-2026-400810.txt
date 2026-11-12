@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-400810 (FRETE)
+USO INTERNO
+Protocolo: LV-2026-400810
+Canal: telefone (SAC)
+Data: 22/06/2026
+Cliente: Marcos (CPF ***.***.***-**)
+Atendente: Natália
+---
+[12:02] Cliente: Oi, estou tentando finalizar a compra e aparece um erro. Está escrito ERR-7142. O que é isso?
+[12:04] Atendente: Oi, Marcos. Aqui é a Natália. Vou verificar o seu carrinho. Você pode me confirmar o CEP de entrega?
+[12:05] Cliente: Está certo, é em um bairro afastado da região metropolitana, do lado de lá da rodovia.
+[12:07] Atendente: Entendi. O código ERR-7142 indica que o endereço informado não é atendido pela transportadora.
+[12:08] Cliente: Mas eu moro lá há anos. Como não atende?
+[12:09] Atendente: Eu sei que é frustrante. Essa cobertura depende da transportadora, e nem sempre o endereço entra na área atendida.
+[12:11] Cliente: E agora? Eu preciso desse produto.
+[12:12] Atendente: Você tem a opção de retirar na loja. A retirada fica disponível a partir de 4 horas depois da confirmação do pagamento.
+[12:14] Cliente: Qual loja é mais perto?
+[12:15] Atendente: Para a sua região, a unidade Barreiro pode ser uma boa opção. Ela fica na Rua das Palmeiras, 95, com estacionamento conveniado ao lado.
+[12:16] Cliente: E se eu for de carro, consigo estacionar?
+[12:17] Atendente: Sim, o estacionamento conveniado fica ao lado da loja, com 2 horas grátis.
+[12:19] Cliente: Certo. Então vou retirar lá mesmo.
+[12:20] Atendente: Ótimo. Ao finalizar, escolha retirada na loja na tela de entrega. Leve documento com foto e o número do pedido.
+[12:22] Cliente: Obrigado, Natália.
+[12:22] Atendente: Até logo, Marcos!
+---
+Resolução: O sistema exibiu o código ERR-7142 por endereço não atendido pela transportadora. O cliente foi orientado a finalizar o pedido com retirada na loja, na unidade Barreiro.

@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-260267 (CLUBE)
+USO INTERNO
+Protocolo: LV-2026-260267
+Canal: chat do site
+Data: 07/05/2026
+Cliente: Patrícia (CPF ***.***.***-**)
+Atendente: Otto
+---
+[15:01] Cliente: Oi, estou confusa com os níveis do Clube Verde. O que muda entre Verde, Folha e Floresta?
+[15:03] Atendente: Oi, Patrícia! Aqui é o Otto. O nível depende dos pontos acumulados nos últimos 12 meses. Verde vai de 0 a 4.999 pontos.
+[15:04] Cliente: Ok. E o Folha?
+[15:06] Atendente: O nível Folha vai de 5.000 a 14.999 pontos. Nele, o frete é grátis em compras acima de R$ 149 no Sudeste, e há atendimento prioritário.
+[15:08] Cliente: E o Floresta?
+[15:09] Atendente: O Floresta começa em 15.000 pontos acumulados nos últimos 12 meses. Inclui frete grátis em qualquer valor no Sudeste, 5% de pontos extras e acesso antecipado às ofertas.
+[15:11] Cliente: Hm. Então no Verde eu não tenho frete grátis?
+[15:12] Atendente: No Verde você tem os benefícios básicos do Clube Verde. O frete grátis segue a regra geral da loja, de acordo com o valor da compra e a região.
+[15:14] Cliente: E como eu subo de nível?
+[15:15] Atendente: Pelos pontos acumulados nos últimos 12 meses. Campanhas pontuais podem dobrar os pontos, mas só no período divulgado.
+[15:17] Cliente: Entendi. Acho que eu sou Folha, então.
+[15:18] Atendente: Vou conferir no seu cadastro. Se tiver dúvida sobre o saldo exato, o extrato aparece no aplicativo.
+[15:20] Cliente: Obrigada, Otto.
+[15:20] Atendente: Até logo, Patrícia!
+---
+Resolução: A cliente tirou dúvidas sobre os níveis do Clube Verde: Verde, Folha e Floresta, com base nos pontos acumulados nos últimos 12 meses. A cliente indicou estar no nível Folha, e o cadastro foi conferido pelo atendente.

@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-488979 (LOJA)
+Classificação: USO INTERNO
+Protocolo: LV-2026-488979
+Canal: chat do site
+Data: 24/01/2026
+Cliente: Mariana (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[18:40] Cliente: Boa noite. Quero ir à loja de Contagem amanhã, que é domingo. Vocês abrem?
+[18:42] Atendente: Boa noite, Mariana. A unidade Contagem fica fechada aos domingos. De segunda a sábado, o horário é das 9h às 20h.
+[18:44] Cliente: Mas o site diz que tem o produto só lá. Nunca vou conseguir?
+[18:46] Atendente: Você pode consultar a disponibilidade de outras unidades pelo site. Se o item for de outra loja, o pedido pode ser feito para retirada em qualquer unidade.
+[18:48] Cliente: E a Pampulha abre no domingo?
+[18:50] Atendente: Sim. Aos domingos, a Pampulha funciona das 10h às 18h. O endereço é Avenida Lagoa Clara, 880, Pampulha, e o telefone é (31) 3000-0102.
+[18:52] Cliente: Hum. Não sei se é perto de casa.
+[18:54] Atendente: Se preferir, a unidade Savassi também abre aos domingos, das 10h às 18h, e tem estacionamento próprio com 180 vagas.
+[18:56] Cliente: Está bem. Mas e se eu chegar e o produto não estiver lá?
+[18:58] Atendente: Antes de sair de casa, confirme o estoque no aplicativo. Se houver divergência, o atendimento pode oferecer a alternativa de retirada ou de entrega.
+[19:00] Cliente: E se eu for de carro, a Pampulha tem onde parar?
+[19:02] Atendente: Tem estacionamento próprio com 220 vagas, gratuito para clientes, então não precisa se preocupar.
+[19:04] Cliente: Ok, então vou pesquisar primeiro. Obrigada pela paciência.
+[19:06] Atendente: Por nada, Mariana. Se precisar, o SAC atende de segunda a sexta, das 8h às 20h, e aos sábados, das 8h às 14h.
+---
+Resolução: Cliente orientada de que a unidade Contagem está fechada aos domingos e que a Pampulha e a Savassi abrem das 10h às 18h, com confirmação de estoque antes da visita.

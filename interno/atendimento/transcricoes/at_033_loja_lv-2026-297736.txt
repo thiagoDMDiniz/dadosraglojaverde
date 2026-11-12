@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-297736 (LOJA)
+USO INTERNO
+Protocolo: LV-2026-297736
+Canal: WhatsApp oficial
+Data: 28/04/2026
+Cliente: Renata (CPF ***.***.***-**)
+Atendente: Natália
+---
+[14:05] Cliente: Oi, boa tarde. Queria retirar um pedido na unidade de Contagem amanhã. Vocês abrem no domingo?
+[14:07] Atendente: Boa tarde, Renata! Aqui é a Natália. A unidade de Contagem fica fechada aos domingos, então a retirada não pode ser feita amanhã nessa loja.
+[14:08] Cliente: Ah, que chato. Eu não tinha visto isso no site.
+[14:09] Atendente: Entendo. A Contagem funciona de segunda a sábado, das 9h às 20h. Se o seu pedido estiver liberado, posso sugerir outra saída.
+[14:10] Cliente: Pode sugerir. Eu moro perto do centro.
+[14:12] Atendente: A unidade da Pampulha, na Avenida Lagoa Clara, 880, abre aos domingos das 10h às 18h. A retirada na loja só é liberada a partir de 4 horas depois da confirmação do pagamento, e é preciso levar documento com foto.
+[14:14] Cliente: E na Savassi, é o mesmo horário de domingo?
+[14:15] Atendente: Na Savassi o domingo também vai das 10h às 18h. A loja fica na Avenida das Acácias, 1250, e tem estacionamento próprio com 180 vagas.
+[14:17] Cliente: Hmm. E se eu não conseguir ir até lá antes das 18h?
+[14:18] Atendente: Nesse caso o pedido fica disponível para retirada por 7 dias corridos a partir da liberação, então você pode escolher outro dia da semana.
+[14:20] Cliente: Certo. Mas o número do pedido eu levo junto com o documento?
+[14:21] Atendente: Isso mesmo. Leve o documento com foto e o número do pedido. Se preferir, o telefone da Pampulha é (31) 3000-0102 para confirmar o horário no dia.
+[14:23] Cliente: Obrigada, vou na Pampulha então.
+[14:23] Atendente: Perfeito, Renata. Qualquer dúvida, é só chamar pelo WhatsApp oficial, (31) 99000-0100.
+---
+Resolução: A unidade de Contagem está fechada aos domingos. A cliente foi orientada a retirar o pedido na Pampulha, com documento com foto e número do pedido, dentro do prazo de 7 dias corridos.

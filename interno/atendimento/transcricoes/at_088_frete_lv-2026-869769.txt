@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-869769 (FRETE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-869769
+Canal: WhatsApp oficial
+Data: 18/06/2026
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Otto
+---
+[17:30] Cliente: Oi, paguei o pedido e quero retirar na loja hoje. Quando fica pronto?
+[17:32] Atendente: Oi, Lucas. A retirada na loja fica liberada a partir de 4 horas depois da confirmação do pagamento.
+[17:34] Cliente: Paguei agora há uns vinte minutos. Então só daqui a quatro horas?
+[17:36] Atendente: Isso. Contando da confirmação, em quatro horas o pedido estará disponível para retirada na unidade escolhida.
+[17:38] Cliente: E o que eu levo?
+[17:40] Atendente: Documento com foto, da pessoa que vai retirar. O número do pedido ajuda a agilizar o atendimento no balcão.
+[17:42] Cliente: Tenho RG. E se eu chegar antes do horário?
+[17:44] Atendente: O pedido não fica liberado antes das quatro horas, então é melhor chegar depois. Não se preocupe, o pedido fica disponível por 7 dias corridos.
+[17:46] Cliente: Ah, bom. Preciso levar o cartão também?
+[17:48] Atendente: Não é necessário apresentar o cartão. Basta o documento com foto e o número do pedido.
+[17:50] Cliente: Certo. E se eu não puder retirar hoje?
+[17:52] Atendente: Sem problema. Você tem 7 dias corridos para retirar, contados a partir da liberação.
+[17:54] Cliente: E a unidade Savassi fecha que horas hoje?
+[17:56] Atendente: A Savassi funciona das 9h às 21h de segunda a sábado. Confira o horário da unidade escolhida antes de sair.
+[17:58] Cliente: Ótimo, vou na loja mais tarde então.
+[18:00] Atendente: Combinado, Lucas. Se a unidade estiver com dúvida no pedido, responda por aqui que eu ajudo.
+---
+Resolução: Cliente informado de que a retirada na loja é liberada a partir de 4 horas depois da confirmação do pagamento, com documento com foto, e de que o pedido fica disponível por 7 dias corridos.

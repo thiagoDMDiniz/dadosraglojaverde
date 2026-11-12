@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-334680 (GOLPE)
+Classificação: USO INTERNO
+Protocolo: LV-2026-334680
+Canal: balcão da loja
+Data: 22/09/2026
+Cliente: Paulo (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[16:30] Cliente: Boa tarde. Recebi uma ligação de uma central dizendo que é da Loja Verde e pediu um token que chegou no meu celular.
+[16:32] Atendente: Boa tarde, Paulo. Você fez alguma coisa com o código, falou ou digitou em algum lugar?
+[16:34] Cliente: Não, desliguei na hora. Mas eles sabiam o meu nome completo e o último pedido.
+[16:36] Atendente: Ainda assim, precisamos deixar claro: a Loja Verde nunca pede senha, token ou código de segurança por telefone, e-mail ou mensagem.
+[16:38] Cliente: Então foi golpe?
+[16:40] Atendente: Tudo indica que sim. Dados de um pedido podem vazar de outras fontes, por isso não confirme nada com quem liga, mesmo que a pessoa diga que é da loja.
+[16:42] Cliente: E se ligarem de novo amanhã?
+[16:44] Atendente: Não atenda pedindo confirmação de dados e, se possível, bloqueie o número. Para falar com a gente, use somente o SAC pelo 0800 700 0100 ou o aplicativo.
+[16:46] Cliente: Tá bom. Vou avisar minha mãe também, ela recebe muita ligação.
+[16:48] Atendente: Boa ideia. Se o cartão ou a conta bancária tiverem sido usados, procure o banco emissor imediatamente.
+[16:50] Cliente: Eu nem sei se o número era mesmo da loja. Como eu confirmo?
+[16:52] Atendente: Pelo SAC oficial, no 0800 700 0100, ou pelo aplicativo. Nunca confirme pelo número que ligou.
+[16:54] Cliente: Obrigado, Rafael. Já vou ligar no banco.
+[16:56] Atendente: Ótimo, Paulo. Registramos o relato aqui no balcão. Tenha uma boa tarde.
+---
+Resolução: Cliente orientado de que a Loja Verde nunca pede senha, token ou código de segurança, com o relato registrado no balcão e a recomendação de contatar o banco emissor.

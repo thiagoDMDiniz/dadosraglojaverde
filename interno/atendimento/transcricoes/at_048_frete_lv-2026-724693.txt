@@ -1,0 +1,26 @@
+ATENDIMENTO LV-2026-724693 (FRETE)
+USO INTERNO
+Protocolo: LV-2026-724693
+Canal: chat do site
+Data: 18/01/2026
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Otto
+---
+[14:30] Cliente: Oi. Meu pedido de livros deveria ter chegado e ainda nem saiu do lugar.
+[14:32] Atendente: Oi, Cláudia! Aqui é o Otto. Vou consultar o pedido. Você tem o número?
+[14:33] Cliente: Tenho, é o que está no e-mail.
+[14:35] Atendente: Obrigado. Vejo que a entrega passou do prazo previsto e já está em atraso há 6 dias úteis.
+[14:36] Cliente: Isso é um absurdo. Eu paguei o frete.
+[14:38] Atendente: Sinto muito pelo transtorno. Quando a entrega atrasa mais de 5 dias úteis, o sistema gera uma compensação automática para o cliente.
+[14:39] Cliente: E qual é a compensação?
+[14:41] Atendente: Você recebe um cupom de R$ 25 para usar na sua próxima compra. O código é ATRASO25.
+[14:42] Cliente: Hum, e esse cupom vale para tudo?
+[14:44] Atendente: Ele pode ser usado em qualquer compra da rede, de acordo com as condições do próprio cupom.
+[14:45] Cliente: Mas o pedido continua atrasado?
+[14:47] Atendente: Vou acompanhar a transportadora. Quando houver saída do centro de distribuição, você recebe o rastreamento por e-mail e SMS.
+[14:49] Cliente: Ok, então me avisa se mudar.
+[14:50] Atendente: Combinado. Registrei o caso no protocolo LV-2026-724693 com a informação do atraso.
+[14:52] Cliente: Obrigada, Otto.
+[14:52] Atendente: Estou à disposição, Cláudia.
+---
+Resolução: Pedido com atraso de 6 dias úteis, acima do limite de 5 dias úteis. A cliente recebeu o cupom de compensação ATRASO25, com cupom de R$ 25, e o caso foi registrado para acompanhamento da entrega.

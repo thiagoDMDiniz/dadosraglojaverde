@@ -1,0 +1,42 @@
+ATA DO COMITÊ DE TECNOLOGIA DE NOVEMBRO DE 2026
+USO INTERNO. Reunião realizada em 18/11/2026, por videoconferência, das 14h às 15h30.
+
+PARTICIPANTES
+- Bruno, diretor de tecnologia (coordenador do comitê)
+- Lucas, gerente de sistemas de loja
+- Vanessa, coordenadora de suporte ao aplicativo
+- Gustavo, analista de infraestrutura
+- Priscila, representante da área de atendimento
+- Isabela, secretária do comitê (redigiu a ata)
+
+PAUTA
+1. Preparação do aplicativo para a Black Friday
+2. Resultado da tela de acompanhamento de trocas
+3. Códigos ERR mais frequentes em outubro
+4. Roadmap do primeiro trimestre do próximo ano
+
+DISCUSSÃO
+
+Preparação para a Black Friday. Gustavo apresentou o plano de capacidade para o período de 27 a 30 de novembro. A fila de confirmação de pagamentos será ampliada, e o time de plantão terá acesso direto aos registros de erro. Vanessa pediu que a página de status automático seja liberada antes da campanha, como teste, para reduzir chamadas de acompanhamento. Bruno aprovou a liberação somente após simulação de carga em ambiente de homologação.
+
+Tela de trocas. Lucas informou que a tela de acompanhamento de trocas está em produção em todas as lojas com aplicativo e que o número de dúvidas sobre a etiqueta de postagem diminuiu. A mensagem para o caso de e-mail não recebido foi incluída na tela, como definido em agosto. Priscila relatou que o atendimento recebeu poucos pedidos de orientação, o que indica que o fluxo está claro.
+
+Códigos ERR. Priscila apresentou o levantamento de outubro. O ERR-5308, de cartão recusado pela operadora, segue como o mais citado, e o atendimento reforçou a orientação de que o cliente pode tentar outro cartão ou contatar o banco emissor. O ERR-4217 teve queda contínua desde a revisão das mensagens. O ERR-7142 caiu em cidades do interior, após a inclusão da alternativa de retirada na loja.
+
+Roadmap do próximo ano. Bruno apresentou as prioridades do primeiro trimestre. A página de status automático deve ser entregue em definitivo, seguida da análise do cadastro de reciclagem, que aguarda o retorno financeiro solicitado pela diretoria. Gustavo lembrou que o ambiente de testes precisa de manutenção antes do fim do ano e pediu uma janela de parada programada em dezembro.
+
+DECISÕES
+
+1. Liberar a página de status automático como teste controlado somente após simulação de carga.
+2. Manter a ampliação da fila de confirmação de pagamentos para o período da campanha.
+3. Programar janela de manutenção do ambiente de testes para dezembro.
+4. Manter a análise do cadastro de reciclagem como prioridade do primeiro trimestre do próximo ano.
+
+ENCAMINHAMENTOS
+
+- Gustavo: concluir a simulação de carga da página de status automático. Prazo: 25/11/2026.
+- Gustavo: programar a janela de manutenção de dezembro. Prazo: 27/11/2026.
+- Lucas: entregar o relatório de desempenho da tela de trocas do quarto trimestre. Prazo: 15/12/2026.
+- Vanessa: preparar o roteiro de suporte para os dias da campanha. Prazo: 20/11/2026.
+- Priscila: atualizar a orientação sobre o ERR-5308 para o atendimento de fim de ano. Prazo: 23/11/2026.
+- Isabela: registrar a ata e encaminhar ao comitê. Prazo: 20/11/2026.

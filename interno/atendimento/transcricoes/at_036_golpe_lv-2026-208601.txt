@@ -1,0 +1,24 @@
+ATENDIMENTO LV-2026-208601 (GOLPE)
+USO INTERNO
+Protocolo: LV-2026-208601
+Canal: chat do site
+Data: 06/03/2026
+Cliente: Sérgio (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[11:02] Cliente: Boa tarde. Recebi uma ligação de uma central dizendo que a minha conta foi invadida e pedindo o token do aplicativo.
+[11:03] Atendente: Boa tarde, Sérgio. Aqui é o Vinícius. Você fez alguma coisa com o token ou passou algum código?
+[11:05] Cliente: Eu fiquei com medo e passei os números que chegaram no celular.
+[11:06] Atendente: Vamos com calma. A primeira informação importante é que a Loja Verde nunca pede senha, token ou código de segurança por telefone, e-mail ou mensagem.
+[11:08] Cliente: Mas a pessoa falou o meu nome completo e até o último pedido.
+[11:09] Atendente: Esse tipo de golpe costuma usar dados vazados de outros lugares para parecer verdadeiro. Não confirme nada com essa pessoa.
+[11:11] Cliente: E agora? Eu troquei a senha?
+[11:12] Atendente: Troque a senha do aplicativo agora, pelo próprio aplicativo, e encerre as sessões ativas. Depois, se o banco for afetado, ligue para o número no verso do seu cartão.
+[11:14] Cliente: Já fiz. Mas e se for a mesma coisa de novo?
+[11:15] Atendente: Se alguém pedir token, senha ou código, desligue e não forneça. Se quiser conferir, entre no site oficial pelo endereço www.lojaverde.example.
+[11:17] Cliente: Certo. Isso eu não sabia.
+[11:18] Atendente: Vou registrar o caso no seu protocolo LV-2026-208601 para o time de segurança acompanhar. Se houver qualquer pedido de pagamento estranho, avise aqui.
+[11:20] Cliente: Obrigado, Vinícius. Vou ficar atento.
+[11:20] Atendente: Foi bom você ter perguntado antes de fazer mais alguma coisa.
+---
+Resolução: O cliente foi orientado de que a Loja Verde nunca pede senha, token ou código de segurança. A senha do aplicativo foi trocada pelo cliente e o caso foi registrado para acompanhamento da equipe de segurança.

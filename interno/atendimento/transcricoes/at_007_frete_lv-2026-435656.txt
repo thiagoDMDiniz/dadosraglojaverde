@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-435656 (FRETE)
+Protocolo: LV-2026-435656
+Canal: WhatsApp oficial
+Data: 2026-01-12
+Cliente: Aline (CPF ***.***.***-**)
+Atendente: Priscila
+---
+[08:41] Cliente: Oi, moro em Salvador. A partir de quanto o frete é grátis?
+[08:43] Atendente: Oi, Aline. Para a sua região, o Nordeste, o frete grátis vale acima de R$ 299.
+[08:43] Cliente: Hum. E abaixo disso?
+[08:45] Atendente: Abaixo desse valor, o frete é cobrado conforme o CEP e o peso do pedido. A entrega padrão para capitais do Nordeste leva até 7 dias úteis.
+[08:46] Cliente: Rápido não é. Tenho pressa.
+[08:47] Atendente: Entendo. Se a pressa for grande, temos entrega expressa apenas nas capitais do Sudeste, então não atende Salvador.
+[08:49] Cliente: E se eu somar dois pedidos?
+[08:51] Atendente: Se os dois pedidos forem feitos juntos e somarem mais de R$ 299, cada um sai com frete de acordo com o valor do próprio pedido. Seria melhor fechar tudo em um carrinho.
+[08:53] Cliente: Entendi. Então fecho no carrinho.
+[08:54] Atendente: Isso. No carrinho, o frete grátis aparece automaticamente quando o total passa de R$ 299.
+[08:56] Cliente: Ok. Obrigada.
+[08:57] Atendente: Qualquer dúvida sobre o rastreamento, avise por aqui. Bom dia, Aline.
+[08:58] Cliente: E se eu pagar com Pix, muda alguma coisa no frete?
+[09:00] Atendente: Não. A forma de pagamento não altera o frete. O que muda é o desconto do Pix, de 5%, que não se combina com parcelamento.
+[09:01] Cliente: Ah, então o Pix compensa mais.
+[09:03] Atendente: Depende do seu caso. Pode comparar os valores no carrinho antes de fechar o pedido.
+---
+Resolução: cliente de Salvador orientada sobre o frete grátis acima de R$ 299 e sobre o prazo padrão de até 7 dias úteis para capitais do Nordeste. A cliente decidiu fechar um único carrinho para atingir o valor.

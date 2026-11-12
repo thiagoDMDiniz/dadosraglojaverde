@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-302205 (FRETE)
+Protocolo: LV-2026-302205
+Canal: Telefone (SAC)
+Data: 2026-07-15
+Cliente: Cláudia (CPF ***.***.***-**)
+Atendente: Gustavo
+---
+[18:30] Cliente: Boa noite. Fiz um pedido para retirar na loja e ainda não consigo buscar. Estou irritada.
+[18:32] Atendente: Boa noite, Cláudia. Sinto pelo incômodo. Vou olhar o status do pedido. Qual é o número?
+[18:33] Cliente: Pagamento confirmado hoje às 10h.
+[18:35] Atendente: Obrigado. A retirada fica disponível a partir de 4 horas depois da confirmação do pagamento. Como a confirmação foi às 10h, a liberação deve estar pronta a partir das 14h.
+[18:36] Cliente: Eu fui às 16h e disseram que não estava pronto.
+[18:38] Atendente: Vou conferir com a loja. Pode ser que o pedido esteja aguardando a conferência final do estoque.
+[18:40] Cliente: E o que eu levo?
+[18:41] Atendente: Documento com foto e o número do pedido. Sem os dois, a retirada não é feita.
+[18:43] Cliente: Ah, então eu esqueci o número. Tudo bem, vou pegar no e-mail.
+[18:44] Atendente: Isso resolve. E até quando fica guardado?
+[18:45] Cliente: Pois é, quero saber isso também.
+[18:46] Atendente: O pedido fica disponível por 7 dias corridos. Depois disso, ele volta ao estoque.
+[18:48] Cliente: Ok, então amanhã eu volto.
+[18:49] Atendente: Pode voltar amanhã. Vou deixar uma observação para a loja liberar seu pedido na primeira hora.
+---
+Resolução: retirada liberada a partir de 4 horas depois da confirmação do pagamento, com observação para a loja. A cliente foi orientada a levar documento com foto e o número do pedido, e a retirar em até 7 dias corridos.

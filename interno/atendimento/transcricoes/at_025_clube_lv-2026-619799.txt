@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-619799 (CLUBE)
+Protocolo: LV-2026-619799
+Canal: Telefone (SAC)
+Data: 2026-08-09
+Cliente: Paulo (CPF ***.***.***-**)
+Atendente: Rafael
+---
+[14:10] Cliente: Boa tarde. Recebi uma mensagem de aniversário com cupom. Eu tenho direito mesmo?
+[14:12] Atendente: Boa tarde, Paulo. Parabéns antecipado. Vou conferir seu cadastro. Qual é a data de nascimento cadastrada?
+[14:13] Cliente: Dia 9 de agosto.
+[14:14] Atendente: Confirmado, hoje é o seu aniversário e o cupom está ativo. Ele é o cupom de 15% de desconto para o mês do aniversário.
+[14:16] Cliente: Ótimo. Quantas compras eu faço com ele?
+[14:17] Atendente: Só uma. O cupom de 15% de desconto vale para uma única compra no mês do aniversário.
+[14:19] Cliente: E se eu fizer duas compras no mês?
+[14:20] Atendente: Na segunda compra, o cupom já não aparece no carrinho. Por isso, recomendo juntar tudo em um único pedido.
+[14:22] Cliente: Entendi. Dá para usar junto com outro cupom?
+[14:23] Atendente: Não há combinação com outros cupons de desconto. Você escolhe o que for mais vantajoso no momento do pagamento.
+[14:25] Cliente: Tudo certo, vou fazer agora. Não sei se compro o fogão ou a geladeira.
+[14:26] Atendente: Quando quiser, eu te mostro o valor final com o cupom aplicado.
+[14:28] Cliente: Pode mostrar a geladeira, por favor.
+[14:29] Atendente: Protocolo LV-2026-619799. Confira o valor no carrinho antes de finalizar.
+---
+Resolução: cupom de aniversário do Clube Verde confirmado, com 15% de desconto para uma única compra no mês do aniversário. O cliente foi orientado a concentrar a compra em um único pedido e a não combinar o cupom com outros.

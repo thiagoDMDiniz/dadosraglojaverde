@@ -1,0 +1,23 @@
+ATENDIMENTO LV-2026-196662 (PAGAMENTO)
+Protocolo: LV-2026-196662
+Canal: Chat do site
+Data: 2026-05-28
+Cliente: Paulo (CPF ***.***.***-**)
+Atendente: Otto
+---
+[19:04] Cliente: Boa noite. Quero parcelar a compra em 10 vezes no cartão. Dá?
+[19:06] Atendente: Boa noite, Paulo. Sim, o cartão de crédito aceita em até 10 vezes sem juros.
+[19:07] Cliente: Ótimo. Então são 10 parcelas de quanto?
+[19:08] Atendente: Depende do valor total do pedido. Mas existe uma parcela mínima de R$ 50, então o pedido precisa ter valor suficiente para isso.
+[19:10] Cliente: E se o pedido for de R$ 300?
+[19:11] Atendente: Nesse caso, dez parcelas de R$ 30 ficariam abaixo do mínimo. O sistema vai limitar o número de parcelas para respeitar a parcela de R$ 50.
+[19:13] Cliente: Hum. E se eu pagar no Pix em 2 vezes?
+[19:14] Atendente: O Pix não é parcelado. O desconto do Pix não se combina com parcelamento, então não é possível usar os dois juntos.
+[19:16] Cliente: Eu queria saber a melhor opção. E no boleto?
+[19:17] Atendente: O boleto vence em 2 dias úteis e não é parcelado. Se a sua prioridade é parcelar, o cartão é a opção.
+[19:19] Cliente: Ok. Então vou de cartão mesmo, em 5 vezes.
+[19:20] Atendente: Perfeito. Com 5 parcelas, cada uma fica em pelo menos R$ 50 se o pedido for de R$ 250 ou mais. Vou confirmar o valor no seu carrinho.
+[19:22] Cliente: Entendi. Obrigado, Otto.
+[19:23] Atendente: Qualquer dúvida é só chamar por este chat. Protocolo LV-2026-196662.
+---
+Resolução: parcelamento no cartão explicado, com parcela mínima de R$ 50 e limite de até 10 vezes sem juros. O cliente optou pelo cartão em 5 vezes, já que o Pix não se combina com parcelamento.

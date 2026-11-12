@@ -1,0 +1,25 @@
+ATENDIMENTO LV-2026-744120 (APP)
+Protocolo: LV-2026-744120
+Canal: Chat do site
+Data: 2026-01-16
+Cliente: Lucas (CPF ***.***.***-**)
+Atendente: Natália
+---
+[08:55] Cliente: Não consigo entrar no aplicativo. Diz que a conta está bloqueada. Estou com pressa.
+[08:57] Atendente: Bom dia, Lucas. Entendo a pressa. Vou verificar a conta. Pode me confirmar o e-mail cadastrado, sem a senha?
+[08:58] Cliente: É o meu e-mail de sempre.
+[09:00] Atendente: Obrigada. A conta foi bloqueada temporariamente por segurança, depois de várias tentativas de acesso com senha incorreta.
+[09:01] Cliente: Eu errei umas três vezes, só isso.
+[09:02] Atendente: Faz sentido. Não vou pedir sua senha por aqui, nem por nenhum outro canal. A recuperação é feita pelo próprio aplicativo.
+[09:04] Cliente: E o e-mail antigo serve para isso?
+[09:05] Atendente: Não. Use o e-mail cadastrado atualmente. Na tela de login, escolha a opção de recuperar o acesso e siga as instruções que chegam na caixa de entrada.
+[09:07] Cliente: Chega rápido?
+[09:08] Atendente: Normalmente chega em poucos minutos. Confira também a caixa de spam, porque o e-mail pode cair lá.
+[09:10] Cliente: Ok, vou tentar agora.
+[09:11] Atendente: Se não funcionar, me chame de novo com o protocolo LV-2026-744120 para revisarmos o bloqueio.
+[09:12] Cliente: Valeu.
+[09:13] Cliente: E se eu precisar trocar a senha depois?
+[09:15] Atendente: Essa troca é feita dentro do aplicativo, na área da conta. Nunca informe a senha a ninguém, inclusive a um atendente, e desconfie de qualquer pedido de código por mensagem.
+[09:16] Cliente: Boa, obrigado pelo aviso.
+---
+Resolução: conta bloqueada temporariamente por segurança após várias tentativas com senha incorreta, sem solicitação de senha pelo atendimento. O cliente foi orientado a recuperar o acesso pelo próprio aplicativo com o e-mail cadastrado.

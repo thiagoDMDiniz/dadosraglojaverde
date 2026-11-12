@@ -1,0 +1,21 @@
+ATENDIMENTO LV-2026-762944 (TROCA)
+Protocolo: LV-2026-762944
+Canal: WhatsApp oficial
+Data: 2026-04-27
+Cliente: Fábio (CPF ***.***.***-**)
+Atendente: Vinícius
+---
+[09:12] Cliente: Boa tarde. Comprei um tênis na promoção há 12 dias e ele não serviu. Quero trocar.
+[09:14] Atendente: Boa tarde, Fábio. Sinto muito pelo transtorno. Vou verificar seu pedido. O tênis está na embalagem original e sem sinais de uso?
+[09:15] Cliente: Está na caixa, nunca usei. Só provei em casa.
+[09:17] Atendente: Perfeito. A troca de qualquer produto é aceita em até 30 dias corridos após a entrega, desde que o item esteja sem sinais de uso e na embalagem original. Seu pedido está dentro desse prazo.
+[09:18] Cliente: Ótimo. Então troco pelo mesmo modelo em outro número e pronto?
+[09:21] Atendente: Como o tênis foi comprado em promoção, a troca não gera devolução em dinheiro. Ela é feita somente por vale-compras, válido por 120 dias a partir da emissão. Com o vale você pode levar outro número ou outro modelo.
+[09:22] Cliente: Entendi. E se o outro número também não servir?
+[09:24] Atendente: Nesse caso você pode solicitar uma nova troca dentro do mesmo prazo. O pedido é feito no aplicativo, em Meus Pedidos, na opção Trocar ou devolver. A etiqueta de postagem chega por e-mail em até 24 horas.
+[09:25] Cliente: Ok. Só não quero perder o vale, porque já tive problema com isso.
+[09:27] Atendente: Entendo. O vale fica registrado na sua conta e a validade aparece no comprovante. Vou gerar o protocolo agora e deixar a observação no pedido.
+[09:29] Cliente: Pode gerar. Obrigado pela paciência.
+[09:30] Atendente: Seu protocolo é LV-2026-762944. Se tiver qualquer dúvida, é só responder esta conversa.
+---
+Resolução: troca autorizada, com o pagamento convertido em vale-compras válido por 120 dias a partir da emissão. O cliente recebeu a etiqueta de postagem e confirmou que a regra ficou clara.
