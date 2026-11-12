@@ -1,7 +1,6 @@
 # Base documental sintética da Loja Verde (para o Trabalho de RAG)
 
-Massa documental **100% fictícia** (empresa, pessoas, endereços, telefones, preços e códigos são inventados) com **1.001 documentos** (830 `.md` e 171 `.txt`, cerca de 3,2 MB e 485 mil palavras), feita para alimentar os três notebooks do Trabalho Prático de RAG (TEC II). Os textos foram redigidos por agentes Haiku a partir de um cânone único de fatos (`_meta/CANON.md`), para que os mais de mil documentos não se contradigam.
-
+Massa documental **100% fictícia** (empresa, pessoas, endereços, telefones, preços e códigos são inventados) com **1.001 documentos** (830 `.md` e 171 `.txt`, cerca de 3,2 MB e 485 mil palavras), feita para alimentar os três notebooks do Trabalho Prático de RAG (TEC II).
 ## Como baixar
 
 Os notebooks do trabalho baixam a base sozinhos. Para baixar em outro ambiente (Colab, Jupyter ou script):
