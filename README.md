@@ -73,11 +73,8 @@ Troca em **30 dias corridos**; vale-compras de **120 dias** (promoção); arrepe
 Todas as evidências foram verificadas automaticamente contra os documentos.
 
 ## Observações e limitações
-
-- **Os valores não dependem do RA**, ao contrário da base original. Se quiserem manter números personalizados por aluno, o caminho é selecionar/derivar a partir de `fatos_canonicos.json`, ou trocar o valor antes de indexar (as perguntas e evidências trazem os valores canônicos).
 - Os 3 códigos de erro do núcleo e as perguntas originais usam os valores canônicos acima (não os da base original).
 - **Data de referência do corpus: fim de 2026.** Algumas atas de comitês (nov. e dez. de 2026) têm data posterior a 12/11/2026; tratem-nas como reuniões já realizadas.
 - O total de colaboradores citado na empresa (cerca de 2.400) inclui sede e centro de distribuição; a soma das unidades é de 1.552.
-- Detalhes de redação que não são políticas (nomes de botões, dicas, exemplos) foram inventados pelos redatores e podem variar entre documentos; os **números e regras** foram verificados contra o cânone (`_meta/scripts/validar.py`: 0 problemas em 987 documentos gerados).
+- Detalhes de redação que não são políticas (nomes de botões, dicas, exemplos) foram inventados pelos redatores e podem variar entre documentos.
 - Os documentos de `_seguranca_teste/` contêm instruções maliciosas **fictícias e inofensivas**, rotuladas como sintéticas.
-- Reprodução: `_meta/scripts/gerar_specs.py` (manifesto de especificações), `montar_nucleo.py`, `montar_seguranca.py`, redação por agentes (`_meta/PROMPT_REDATOR.md`), `finalizar.py`, `validar.py`, `perguntas.py`.
